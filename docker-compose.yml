@@ -1,0 +1,108 @@
+services:
+  mysql:
+    image: mysql:8.4.0
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: '${DB_PASSWORD}'
+      MYSQL_DATABASE: '${DB_DATABASE}'
+      MYSQL_USER: '${DB_USERNAME}'
+      MYSQL_PASSWORD: '${DB_PASSWORD}'
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+      - ./init-db.sh:/docker-entrypoint-initdb.d/init.sh
+    networks:
+      - app_network
+
+  rabbitmq:
+    image: rabbitmq:3-management
+    restart: always
+    env_file: .env
+    environment:
+      RABBITMQ_DEFAULT_USER: '${RABBITMQ_USER}'
+      RABBITMQ_DEFAULT_PASS: '${RABBITMQ_PASSWORD}'
+    ports:
+      - '${RABBITMQ_PORT:-5672}:5672'
+      - '15672:15672' # UI de RabbitMQ
+    networks:
+      - app_network
+
+  redis:
+    image: redis:alpine
+    restart: always
+    ports:
+      - '${REDIS_PORT:-6379}:6379'
+    networks:
+      - app_network
+
+  kitchen:
+    build: ./kitchen
+    restart: always
+    env_file: .env
+    depends_on:
+      - mysql
+      - rabbitmq
+      - redis
+      - notifications
+    ports:
+      - "80:80"
+    networks:
+      - app_network
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    volumes:
+      - ./kitchen:/app
+
+  warehouse:
+    build: ./warehouse
+    restart: always
+    env_file: .env
+    depends_on:
+      - mysql
+      - rabbitmq
+      - redis
+      - purchases
+    ports:
+      - '8001:80'
+    networks:
+      - app_network
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    volumes:
+      - ./warehouse:/app
+
+  purchases:
+    build: ./purchases
+    restart: always
+    env_file: .env
+    depends_on:
+      - rabbitmq
+    ports:
+      - '8002:80'
+    networks:
+      - app_network
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    volumes:
+      - ./purchases:/app
+
+  notifications:
+    build: ./notifications
+    restart: always
+    depends_on:
+      - redis
+    ports:
+      - '8003:80'
+    networks:
+      - app_network
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    volumes:
+      - ./notifications:/app
+
+networks:
+  app_network:
+
+volumes:
+  mysql_data:
