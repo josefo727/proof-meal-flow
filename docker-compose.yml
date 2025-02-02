@@ -53,6 +53,7 @@ services:
       - "host.docker.internal:host-gateway"
     volumes:
       - ./kitchen:/app
+      - ./kitchen/docker/supervisord.conf:/opt/docker/etc/supervisor.d/laravel.conf
 
   warehouse:
     build: ./warehouse
@@ -71,6 +72,7 @@ services:
       - "host.docker.internal:host-gateway"
     volumes:
       - ./warehouse:/app
+      - ./warehouse/docker/supervisord.conf:/opt/docker/etc/supervisor.d/laravel.conf
 
   purchases:
     build: ./purchases
@@ -86,6 +88,7 @@ services:
       - "host.docker.internal:host-gateway"
     volumes:
       - ./purchases:/app
+      - ./purchases/docker/supervisord.conf:/opt/docker/etc/supervisor.d/laravel.conf
 
   notifications:
     build: ./notifications
@@ -100,6 +103,7 @@ services:
       - "host.docker.internal:host-gateway"
     volumes:
       - ./notifications:/app
+      - ./notifications/docker/supervisord.conf:/opt/docker/etc/supervisor.d/laravel.conf
 
 networks:
   app_network:

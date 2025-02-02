@@ -13,9 +13,6 @@ RUN apk add --update nodejs npm
 RUN apk add --no-cache supervisor \
     && apk add --no-cache php-xml php-mbstring php-intl php-soap php-bcmath php-gd php-xsl
 
-# Copy the supervisord configuration file
-COPY docker/supervisord.conf /etc/supervisor/conf.d/supervisord.conf
-
 # Ensure all of our files are owned by the same user and group.
 RUN chown -R application:application .
 
