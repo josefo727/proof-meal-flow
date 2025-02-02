@@ -10,10 +10,12 @@ class ValidIngredient implements ValidationRule
     /**
      * @var array|string[]
      */
-    private array $validIngredients = [
-        'tomato', 'lemon', 'potato', 'rice', 'ketchup',
-        'lettuce', 'onion', 'cheese', 'meat', 'chicken',
-    ];
+    private array $validIngredients = [];
+
+    public function __construct()
+    {
+        $this->validIngredients = config('ingredients.items');
+    }
 
     /**
      * @param string $attribute
