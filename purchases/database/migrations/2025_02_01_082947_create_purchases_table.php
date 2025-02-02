@@ -16,7 +16,6 @@ return new class extends Migration
             $table->string('ingredient');
             $table->integer('quantity');
             $table->timestamp('purchased_at')->nullable();
-            $table->timestamps();
         });
     }
 
