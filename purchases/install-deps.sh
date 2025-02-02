@@ -38,6 +38,3 @@ fi
 chown -R application:application .
 
 php artisan up
-
-php artisan queue:work --queue=default >/dev/null 2>&1 &
-php artisan schedule:work >/dev/null 2>&1 &

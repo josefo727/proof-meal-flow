@@ -3,6 +3,7 @@
 set -e
 
 pkill -f "php artisan queue:work --queue=default" || true
+pkill -f "php artisan queue:listen rabbitmq --queue=warehouse_queue" || true
 
 if [ -f "vendor/autoload.php" ]; then
     php artisan down
@@ -24,7 +25,7 @@ while ! php -r "try { new PDO('mysql:host='.getenv('DB_HOST').';port='.getenv('D
     sleep 3
 done
 
-php artisan migrate --force
+php artisan migrate --seed
 
 php artisan optimize
 if [ ! -L public/storage ]; then
@@ -36,5 +37,3 @@ fi
 chown -R application:application .
 
 php artisan up
-
-php artisan queue:work --queue=default >/dev/null 2>&1 &
