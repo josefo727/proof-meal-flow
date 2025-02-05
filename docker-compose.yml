@@ -27,6 +27,11 @@ services:
       - '15672:15672' # UI de RabbitMQ
     networks:
       - app_network
+    healthcheck:
+      test: ["CMD", "rabbitmqctl", "status"]
+      interval: 10s
+      timeout: 10s
+      retries: 5
 
   redis:
     image: redis:alpine
@@ -93,10 +98,12 @@ services:
   notifications:
     build: ./notifications
     restart: always
+    env_file: .env
     depends_on:
       - redis
+      - rabbitmq
     ports:
-      - '8003:80'
+      - '8003:8003'
     networks:
       - app_network
     extra_hosts:

@@ -7,9 +7,11 @@ DOCKER_COMPOSE = docker-compose
 # 🔼 Lifting containers in background mode
 up:
 	docker-compose up -d
+	@$(MAKE) wait-for-services
 	@if [ "$(action)" = "install-deps" ]; then \
 		$(MAKE) install-deps; \
 	fi
+	@echo "🟢 Microservices initialized and ready to work"
 
 install-deps:
 	@echo "Installing PHP and JS dependencies in services..."
@@ -58,3 +60,18 @@ prune:
 ps:
 	@echo "📌 Showing active containers..."
 	$(DOCKER_COMPOSE) ps
+
+wait-for-services:
+	@echo "⏳ Verifying that MySQL is ready..."
+	@while ! docker-compose exec mysql mysqladmin ping -h localhost --silent; do \
+		echo "⏳ Waiting for MySQL..."; \
+		sleep 2; \
+	done
+	@echo "✅ MySQL is ready."
+
+	@echo "⏳ Verifying that RabbitMQ is ready..."
+	@while ! docker-compose exec rabbitmq rabbitmqctl status > /dev/null 2>&1; do \
+		echo "⏳ Waiting for RabbitMQ..."; \
+		sleep 2; \
+	done
+	@echo "✅ RabbitMQ is ready."
