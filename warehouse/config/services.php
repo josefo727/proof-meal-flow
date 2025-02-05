@@ -35,4 +35,7 @@ return [
         ],
     ],
 
+    'purchases' => [
+        'url_api' => env('PURCHASES_HOST'),
+    ]
 ];

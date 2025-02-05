@@ -20,11 +20,6 @@ else
     php artisan key:generate
 fi
 
-while ! php -r "try { new PDO('mysql:host='.getenv('DB_HOST').';port='.getenv('DB_PORT'), getenv('DB_USERNAME'), getenv('DB_PASSWORD')); exit(0); } catch (Exception \$e) { exit(1); }"; do
-    echo "Waiting for MySQL to be ready..."
-    sleep 3
-done
-
 php artisan migrate --seed
 
 php artisan optimize
