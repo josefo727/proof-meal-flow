@@ -84,6 +84,19 @@ make down
 
 ---
 
+### **Pruebas en la interface**
+
+1. **Nuevo Pedido:** Usa el botón "Nuevo Pedido" para añadir tantos pedidos como desees y observar cómo se mueven por el flujo.
+2. **Columna "Pendiente":** Los pedidos aparecerán aquí después de un par de segundos. No te preocupes si no se muestran de inmediato, ¡es parte del proceso!
+3. **Transiciones:** Los pedidos irán pasando automáticamente de una columna a otra con intervalos predefinidos.
+4. **Columna "En espera":** Algunos pedidos requerirán compra de ingredientes y pasarán por esta columna antes de continuar.
+5. **Limpiar Órdenes:** Al presionar este botón, todos los pedidos se eliminan y el flujo se reinicia para que puedas comenzar de nuevo.
+6. **Personalización del tiempo:** Si necesitas ajustar los intervalos de tiempo para cada paso, puedes hacerlo modificando la variable `PROCESSING_DELAY` en el archivo `.env` ubicado en la raíz del proyecto.
+
+![TDD Purchases](purchases/public/flow.png)
+
+---
+
 ### **Detalles Técnicos**
 
 #### **Makefile**
