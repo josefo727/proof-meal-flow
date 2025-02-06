@@ -1,0 +1,701 @@
+
+  2025-02-05 13:51:44 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 13:51:44 App\Jobs\ProcessRawRabbitMQPayload ......... 2.60ms DONE
+  2025-02-05 13:51:50 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 13:51:50 App\Jobs\ProcessRawRabbitMQPayload ......... 0.95ms DONE
+  2025-02-05 13:51:50 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 13:51:50 App\Jobs\ProcessRawRabbitMQPayload ......... 0.89ms DONE
+  2025-02-05 13:51:59 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 13:51:59 App\Jobs\ProcessRawRabbitMQPayload ......... 2.25ms DONE
+  2025-02-05 13:52:02 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 13:52:02 App\Jobs\ProcessRawRabbitMQPayload ......... 2.40ms DONE
+  2025-02-05 14:04:41 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:04:41 App\Jobs\ProcessRawRabbitMQPayload ......... 1.40ms DONE
+  2025-02-05 14:04:47 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:04:47 App\Jobs\ProcessRawRabbitMQPayload ......... 0.73ms DONE
+  2025-02-05 14:04:47 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:04:47 App\Jobs\ProcessRawRabbitMQPayload ......... 0.59ms DONE
+  2025-02-05 14:04:56 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:04:56 App\Jobs\ProcessRawRabbitMQPayload ......... 1.27ms DONE
+  2025-02-05 14:04:59 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:04:59 App\Jobs\ProcessRawRabbitMQPayload ......... 0.71ms DONE
+  2025-02-05 14:10:24 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:10:24 App\Jobs\ProcessRawRabbitMQPayload ......... 2.32ms DONE
+  2025-02-05 14:10:33 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:10:33 App\Jobs\ProcessRawRabbitMQPayload ......... 2.58ms DONE
+  2025-02-05 14:10:33 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:10:33 App\Jobs\ProcessRawRabbitMQPayload ......... 2.38ms DONE
+  2025-02-05 14:10:42 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:10:42 App\Jobs\ProcessRawRabbitMQPayload ......... 2.55ms DONE
+  2025-02-05 14:10:45 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:10:45 App\Jobs\ProcessRawRabbitMQPayload ......... 2.59ms DONE
+  2025-02-05 14:17:18 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:17:18 App\Jobs\ProcessRawRabbitMQPayload ......... 2.54ms DONE
+  2025-02-05 14:17:27 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:17:27 App\Jobs\ProcessRawRabbitMQPayload ......... 0.65ms DONE
+  2025-02-05 14:17:27 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:17:27 App\Jobs\ProcessRawRabbitMQPayload ......... 0.51ms DONE
+  2025-02-05 14:17:36 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:17:36 App\Jobs\ProcessRawRabbitMQPayload ......... 1.22ms DONE
+  2025-02-05 14:17:39 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:17:39 App\Jobs\ProcessRawRabbitMQPayload ......... 0.73ms DONE
+  2025-02-05 14:17:54 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:17:54 App\Jobs\ProcessRawRabbitMQPayload ......... 0.77ms DONE
+  2025-02-05 14:18:03 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:18:03 App\Jobs\ProcessRawRabbitMQPayload ......... 0.96ms DONE
+  2025-02-05 14:18:03 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:18:03 App\Jobs\ProcessRawRabbitMQPayload ......... 0.92ms DONE
+  2025-02-05 14:18:12 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:18:12 App\Jobs\ProcessRawRabbitMQPayload ......... 2.81ms DONE
+  2025-02-05 14:18:15 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:18:15 App\Jobs\ProcessRawRabbitMQPayload ......... 0.89ms DONE
+  2025-02-05 14:32:52 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:32:52 App\Jobs\ProcessRawRabbitMQPayload ........ 11.91ms DONE
+  2025-02-05 14:32:58 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:32:58 App\Jobs\ProcessRawRabbitMQPayload ......... 0.71ms DONE
+  2025-02-05 14:33:01 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:33:01 App\Jobs\ProcessRawRabbitMQPayload ......... 0.71ms DONE
+  2025-02-05 14:33:10 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:33:10 App\Jobs\ProcessRawRabbitMQPayload ......... 2.70ms DONE
+  2025-02-05 14:33:13 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:33:13 App\Jobs\ProcessRawRabbitMQPayload ......... 0.65ms DONE
+  2025-02-05 14:37:55 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:37:55 App\Jobs\ProcessRawRabbitMQPayload ......... 2.70ms DONE
+  2025-02-05 14:38:01 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:38:01 App\Jobs\ProcessRawRabbitMQPayload ......... 0.68ms DONE
+  2025-02-05 14:38:04 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:38:04 App\Jobs\ProcessRawRabbitMQPayload ......... 2.70ms DONE
+  2025-02-05 14:38:13 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:38:13 App\Jobs\ProcessRawRabbitMQPayload ......... 2.56ms DONE
+  2025-02-05 14:38:16 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:38:16 App\Jobs\ProcessRawRabbitMQPayload ......... 0.70ms DONE
+  2025-02-05 14:38:31 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:38:31 App\Jobs\ProcessRawRabbitMQPayload ......... 0.64ms DONE
+  2025-02-05 14:38:37 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:38:37 App\Jobs\ProcessRawRabbitMQPayload ......... 2.55ms DONE
+  2025-02-05 14:38:40 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:38:40 App\Jobs\ProcessRawRabbitMQPayload ......... 2.42ms DONE
+  2025-02-05 14:38:49 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:38:49 App\Jobs\ProcessRawRabbitMQPayload ......... 2.41ms DONE
+  2025-02-05 14:38:52 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:38:52 App\Jobs\ProcessRawRabbitMQPayload ......... 2.77ms DONE
+  2025-02-05 14:42:07 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:42:07 App\Jobs\ProcessRawRabbitMQPayload ......... 2.90ms DONE
+  2025-02-05 14:42:13 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:42:13 App\Jobs\ProcessRawRabbitMQPayload ......... 2.66ms DONE
+  2025-02-05 14:42:16 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:42:16 App\Jobs\ProcessRawRabbitMQPayload ......... 0.85ms DONE
+  2025-02-05 14:42:25 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:42:25 App\Jobs\ProcessRawRabbitMQPayload ......... 0.64ms DONE
+  2025-02-05 14:42:28 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:42:28 App\Jobs\ProcessRawRabbitMQPayload ......... 2.31ms DONE
+  2025-02-05 14:43:37 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:43:37 App\Jobs\ProcessRawRabbitMQPayload ......... 2.90ms DONE
+  2025-02-05 14:44:13 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:44:13 App\Jobs\ProcessRawRabbitMQPayload ......... 2.01ms DONE
+  2025-02-05 14:45:43 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:45:43 App\Jobs\ProcessRawRabbitMQPayload ......... 2.61ms DONE
+  2025-02-05 14:45:49 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:45:49 App\Jobs\ProcessRawRabbitMQPayload ......... 2.65ms DONE
+  2025-02-05 14:45:52 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:45:52 App\Jobs\ProcessRawRabbitMQPayload ......... 0.72ms DONE
+  2025-02-05 14:45:58 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:45:58 App\Jobs\ProcessRawRabbitMQPayload ......... 2.49ms DONE
+  2025-02-05 14:46:04 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:46:04 App\Jobs\ProcessRawRabbitMQPayload ......... 2.28ms DONE
+  2025-02-05 14:49:51 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:49:51 App\Jobs\ProcessRawRabbitMQPayload ........ 31.66ms DONE
+  2025-02-05 14:50:00 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:50:00 App\Jobs\ProcessRawRabbitMQPayload ......... 1.15ms DONE
+  2025-02-05 14:50:03 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:50:03 App\Jobs\ProcessRawRabbitMQPayload ......... 1.01ms DONE
+  2025-02-05 14:50:09 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:50:09 App\Jobs\ProcessRawRabbitMQPayload ......... 2.78ms DONE
+  2025-02-05 14:50:12 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:50:12 App\Jobs\ProcessRawRabbitMQPayload ......... 2.83ms DONE
+  2025-02-05 14:56:00 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:56:00 App\Jobs\ProcessRawRabbitMQPayload ......... 0.92ms DONE
+  2025-02-05 14:56:09 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:56:09 App\Jobs\ProcessRawRabbitMQPayload ......... 2.52ms DONE
+  2025-02-05 14:56:12 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:56:12 App\Jobs\ProcessRawRabbitMQPayload ......... 2.92ms DONE
+  2025-02-05 14:56:18 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:56:18 App\Jobs\ProcessRawRabbitMQPayload ......... 0.78ms DONE
+  2025-02-05 14:56:21 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:56:21 App\Jobs\ProcessRawRabbitMQPayload ......... 0.89ms DONE
+  2025-02-05 15:30:48 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:30:48 App\Jobs\ProcessRawRabbitMQPayload ........ 23.42ms DONE
+  2025-02-05 15:30:54 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:30:54 App\Jobs\ProcessRawRabbitMQPayload ......... 0.89ms DONE
+  2025-02-05 15:30:57 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:30:57 App\Jobs\ProcessRawRabbitMQPayload ......... 2.40ms DONE
+  2025-02-05 15:31:03 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:31:03 App\Jobs\ProcessRawRabbitMQPayload ......... 3.06ms DONE
+  2025-02-05 15:31:09 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:31:09 App\Jobs\ProcessRawRabbitMQPayload ......... 0.63ms DONE
+  2025-02-05 15:31:48 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:31:48 App\Jobs\ProcessRawRabbitMQPayload ......... 4.53ms DONE
+  2025-02-05 15:31:54 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:31:54 App\Jobs\ProcessRawRabbitMQPayload ......... 3.16ms DONE
+  2025-02-05 15:31:54 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:31:54 App\Jobs\ProcessRawRabbitMQPayload ......... 3.14ms DONE
+  2025-02-05 15:32:00 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:32:00 App\Jobs\ProcessRawRabbitMQPayload ......... 0.75ms DONE
+  2025-02-05 15:32:06 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:32:06 App\Jobs\ProcessRawRabbitMQPayload ......... 0.91ms DONE
+  2025-02-05 15:32:45 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:32:45 App\Jobs\ProcessRawRabbitMQPayload ......... 3.10ms DONE
+  2025-02-05 15:32:51 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:32:51 App\Jobs\ProcessRawRabbitMQPayload ......... 0.77ms DONE
+  2025-02-05 15:32:51 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:32:51 App\Jobs\ProcessRawRabbitMQPayload ......... 0.64ms DONE
+  2025-02-05 15:32:57 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:32:57 App\Jobs\ProcessRawRabbitMQPayload ......... 2.43ms DONE
+  2025-02-05 15:33:03 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:33:03 App\Jobs\ProcessRawRabbitMQPayload ......... 2.48ms DONE
+  2025-02-05 15:35:21 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:35:21 App\Jobs\ProcessRawRabbitMQPayload ......... 0.76ms DONE
+  2025-02-05 15:35:27 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:35:27 App\Jobs\ProcessRawRabbitMQPayload ......... 2.47ms DONE
+  2025-02-05 15:35:30 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:35:30 App\Jobs\ProcessRawRabbitMQPayload ......... 0.68ms DONE
+  2025-02-05 15:35:39 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:35:39 App\Jobs\ProcessRawRabbitMQPayload ......... 2.11ms DONE
+  2025-02-05 15:35:42 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:35:42 App\Jobs\ProcessRawRabbitMQPayload ......... 0.79ms DONE
+  2025-02-05 15:36:24 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:36:24 App\Jobs\ProcessRawRabbitMQPayload ......... 0.70ms DONE
+  2025-02-05 15:36:30 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:36:30 App\Jobs\ProcessRawRabbitMQPayload ......... 0.91ms DONE
+  2025-02-05 15:36:36 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:36:36 App\Jobs\ProcessRawRabbitMQPayload ......... 1.06ms DONE
+  2025-02-05 15:36:39 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:36:39 App\Jobs\ProcessRawRabbitMQPayload ......... 0.97ms DONE
+  2025-02-05 15:36:48 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:36:48 App\Jobs\ProcessRawRabbitMQPayload ......... 0.84ms DONE
+  2025-02-05 15:36:51 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:36:51 App\Jobs\ProcessRawRabbitMQPayload ......... 0.71ms DONE
+  2025-02-05 15:42:37 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:42:37 App\Jobs\ProcessRawRabbitMQPayload ......... 0.67ms DONE
+  2025-02-05 15:42:43 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:42:43 App\Jobs\ProcessRawRabbitMQPayload ......... 0.82ms DONE
+  2025-02-05 15:42:46 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:42:46 App\Jobs\ProcessRawRabbitMQPayload ......... 1.91ms DONE
+  2025-02-05 15:42:55 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:42:55 App\Jobs\ProcessRawRabbitMQPayload ......... 4.34ms DONE
+  2025-02-05 15:42:58 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:42:58 App\Jobs\ProcessRawRabbitMQPayload ......... 0.69ms DONE
+  2025-02-05 15:43:46 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:43:46 App\Jobs\ProcessRawRabbitMQPayload ......... 2.65ms DONE
+  2025-02-05 15:43:52 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:43:52 App\Jobs\ProcessRawRabbitMQPayload ......... 0.97ms DONE
+  2025-02-05 15:43:55 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:43:55 App\Jobs\ProcessRawRabbitMQPayload ......... 0.75ms DONE
+  2025-02-05 15:44:04 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:44:04 App\Jobs\ProcessRawRabbitMQPayload ......... 0.75ms DONE
+  2025-02-05 15:44:07 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:44:07 App\Jobs\ProcessRawRabbitMQPayload ......... 1.10ms DONE
+  2025-02-05 15:46:28 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:46:28 App\Jobs\ProcessRawRabbitMQPayload ......... 0.82ms DONE
+  2025-02-05 15:46:34 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:46:34 App\Jobs\ProcessRawRabbitMQPayload ......... 1.80ms DONE
+  2025-02-05 15:46:37 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:46:37 App\Jobs\ProcessRawRabbitMQPayload ......... 1.33ms DONE
+  2025-02-05 15:46:46 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:46:46 App\Jobs\ProcessRawRabbitMQPayload ......... 0.75ms DONE
+  2025-02-05 15:46:49 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:46:49 App\Jobs\ProcessRawRabbitMQPayload ......... 2.34ms DONE
+  2025-02-05 15:46:49 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:46:49 App\Jobs\ProcessRawRabbitMQPayload ......... 2.90ms DONE
+  2025-02-05 15:46:55 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:46:55 App\Jobs\ProcessRawRabbitMQPayload ......... 0.96ms DONE
+  2025-02-05 15:46:58 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:46:58 App\Jobs\ProcessRawRabbitMQPayload ......... 0.97ms DONE
+  2025-02-05 15:47:07 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:47:07 App\Jobs\ProcessRawRabbitMQPayload ......... 2.31ms DONE
+  2025-02-05 15:47:10 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:47:10 App\Jobs\ProcessRawRabbitMQPayload ......... 1.48ms DONE
+  2025-02-05 15:47:10 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:47:10 App\Jobs\ProcessRawRabbitMQPayload ......... 1.06ms DONE
+  2025-02-05 15:47:16 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:47:16 App\Jobs\ProcessRawRabbitMQPayload ......... 1.46ms DONE
+  2025-02-05 15:47:19 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:47:19 App\Jobs\ProcessRawRabbitMQPayload ......... 3.32ms DONE
+  2025-02-05 15:47:28 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:47:28 App\Jobs\ProcessRawRabbitMQPayload ......... 2.62ms DONE
+  2025-02-05 15:47:31 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:47:31 App\Jobs\ProcessRawRabbitMQPayload ......... 0.84ms DONE
+  2025-02-05 15:48:16 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:48:16 App\Jobs\ProcessRawRabbitMQPayload ......... 0.87ms DONE
+  2025-02-05 15:48:22 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:48:22 App\Jobs\ProcessRawRabbitMQPayload ......... 2.75ms DONE
+  2025-02-05 15:48:28 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:48:28 App\Jobs\ProcessRawRabbitMQPayload ......... 1.68ms DONE
+  2025-02-05 15:48:31 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:48:31 App\Jobs\ProcessRawRabbitMQPayload ......... 0.83ms DONE
+  2025-02-05 15:48:40 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:48:40 App\Jobs\ProcessRawRabbitMQPayload ......... 0.68ms DONE
+  2025-02-05 15:48:43 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:48:43 App\Jobs\ProcessRawRabbitMQPayload ......... 0.77ms DONE
+  2025-02-05 15:49:37 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:49:37 App\Jobs\ProcessRawRabbitMQPayload ......... 0.69ms DONE
+  2025-02-05 15:49:43 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:49:43 App\Jobs\ProcessRawRabbitMQPayload ......... 2.72ms DONE
+  2025-02-05 15:49:46 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:49:46 App\Jobs\ProcessRawRabbitMQPayload ......... 0.74ms DONE
+  2025-02-05 15:49:55 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:49:55 App\Jobs\ProcessRawRabbitMQPayload ......... 0.80ms DONE
+  2025-02-05 15:49:58 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:49:58 App\Jobs\ProcessRawRabbitMQPayload ......... 2.75ms DONE
+  2025-02-05 15:51:38 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:51:38 App\Jobs\ProcessRawRabbitMQPayload ........ 35.76ms DONE
+  2025-02-05 15:51:44 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:51:44 App\Jobs\ProcessRawRabbitMQPayload ......... 2.63ms DONE
+  2025-02-05 15:51:50 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:51:50 App\Jobs\ProcessRawRabbitMQPayload ......... 1.00ms DONE
+  2025-02-05 15:51:56 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:51:56 App\Jobs\ProcessRawRabbitMQPayload ......... 2.47ms DONE
+  2025-02-05 15:52:02 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:52:02 App\Jobs\ProcessRawRabbitMQPayload ......... 0.76ms DONE
+  2025-02-05 15:52:50 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:52:50 App\Jobs\ProcessRawRabbitMQPayload ......... 2.69ms DONE
+  2025-02-05 15:52:56 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:52:56 App\Jobs\ProcessRawRabbitMQPayload ......... 0.74ms DONE
+  2025-02-05 15:53:02 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:53:02 App\Jobs\ProcessRawRabbitMQPayload ......... 0.95ms DONE
+  2025-02-05 15:53:08 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:53:08 App\Jobs\ProcessRawRabbitMQPayload ......... 2.39ms DONE
+  2025-02-05 15:53:29 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:53:29 App\Jobs\ProcessRawRabbitMQPayload ......... 2.73ms DONE
+  2025-02-05 15:53:35 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:53:35 App\Jobs\ProcessRawRabbitMQPayload ......... 0.93ms DONE
+  2025-02-05 15:53:44 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:53:44 App\Jobs\ProcessRawRabbitMQPayload ......... 0.88ms DONE
+  2025-02-05 15:53:47 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:53:47 App\Jobs\ProcessRawRabbitMQPayload ......... 4.99ms DONE
+  2025-02-05 15:57:47 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:57:47 App\Jobs\ProcessRawRabbitMQPayload ......... 0.84ms DONE
+  2025-02-05 15:57:53 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:57:53 App\Jobs\ProcessRawRabbitMQPayload ......... 0.99ms DONE
+  2025-02-05 15:58:02 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:58:02 App\Jobs\ProcessRawRabbitMQPayload ......... 0.94ms DONE
+  2025-02-05 15:58:05 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:58:05 App\Jobs\ProcessRawRabbitMQPayload ......... 2.48ms DONE
+  2025-02-05 15:58:50 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:58:50 App\Jobs\ProcessRawRabbitMQPayload ......... 0.95ms DONE
+  2025-02-05 15:58:56 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:58:56 App\Jobs\ProcessRawRabbitMQPayload ......... 0.89ms DONE
+  2025-02-05 15:59:05 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:59:05 App\Jobs\ProcessRawRabbitMQPayload ......... 0.87ms DONE
+  2025-02-05 15:59:08 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:59:08 App\Jobs\ProcessRawRabbitMQPayload ......... 0.72ms DONE
+  2025-02-05 16:02:05 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 16:02:05 App\Jobs\ProcessRawRabbitMQPayload ........ 12.77ms DONE
+  2025-02-05 16:02:12 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 16:02:12 App\Jobs\ProcessRawRabbitMQPayload ......... 1.01ms DONE
+  2025-02-05 16:02:21 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 16:02:21 App\Jobs\ProcessRawRabbitMQPayload ......... 2.87ms DONE
+  2025-02-05 16:02:24 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 16:02:24 App\Jobs\ProcessRawRabbitMQPayload ......... 2.78ms DONE
+  2025-02-05 16:07:56 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 16:07:56 App\Jobs\ProcessRawRabbitMQPayload ........ 31.06ms DONE
+  2025-02-05 16:08:02 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 16:08:02 App\Jobs\ProcessRawRabbitMQPayload ......... 2.76ms DONE
+  2025-02-05 16:08:08 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 16:08:08 App\Jobs\ProcessRawRabbitMQPayload ......... 0.78ms DONE
+  2025-02-05 16:08:14 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 16:08:14 App\Jobs\ProcessRawRabbitMQPayload ......... 3.17ms DONE
+  2025-02-05 16:19:47 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 16:19:47 App\Jobs\ProcessRawRabbitMQPayload ......... 1.00ms DONE
+  2025-02-05 16:19:53 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 16:19:53 App\Jobs\ProcessRawRabbitMQPayload ......... 0.70ms DONE
+  2025-02-05 16:20:05 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 16:20:05 App\Jobs\ProcessRawRabbitMQPayload ......... 3.60ms DONE
+  2025-02-05 16:20:08 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 16:20:08 App\Jobs\ProcessRawRabbitMQPayload ......... 3.69ms DONE
+  2025-02-05 17:27:15 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:27:15 App\Jobs\ProcessRawRabbitMQPayload ........ 12.17ms DONE
+  2025-02-05 17:27:21 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:27:21 App\Jobs\ProcessRawRabbitMQPayload ......... 3.95ms DONE
+  2025-02-05 17:27:33 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:27:33 App\Jobs\ProcessRawRabbitMQPayload ......... 0.86ms DONE
+  2025-02-05 17:27:36 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:27:36 App\Jobs\ProcessRawRabbitMQPayload ......... 1.48ms DONE
+  2025-02-05 17:27:36 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:27:36 App\Jobs\ProcessRawRabbitMQPayload ......... 1.24ms DONE
+  2025-02-05 17:32:33 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:32:33 App\Jobs\ProcessRawRabbitMQPayload ......... 0.72ms DONE
+  2025-02-05 17:32:39 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:32:39 App\Jobs\ProcessRawRabbitMQPayload ......... 1.23ms DONE
+  2025-02-05 17:32:51 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:32:51 App\Jobs\ProcessRawRabbitMQPayload ......... 0.77ms DONE
+  2025-02-05 17:32:54 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:32:54 App\Jobs\ProcessRawRabbitMQPayload ......... 2.76ms DONE
+  2025-02-05 17:37:16 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:37:16 App\Jobs\ProcessRawRabbitMQPayload ......... 0.64ms DONE
+  2025-02-05 17:37:22 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:37:22 App\Jobs\ProcessRawRabbitMQPayload ......... 0.76ms DONE
+  2025-02-05 17:37:34 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:37:34 App\Jobs\ProcessRawRabbitMQPayload ......... 1.11ms DONE
+  2025-02-05 17:37:40 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:37:40 App\Jobs\ProcessRawRabbitMQPayload ......... 2.65ms DONE
+  2025-02-05 17:39:25 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:39:25 App\Jobs\ProcessRawRabbitMQPayload ......... 2.62ms DONE
+  2025-02-05 17:39:31 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:39:31 App\Jobs\ProcessRawRabbitMQPayload ......... 2.42ms DONE
+  2025-02-05 17:39:40 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:39:40 App\Jobs\ProcessRawRabbitMQPayload ......... 2.39ms DONE
+  2025-02-05 17:39:46 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:39:46 App\Jobs\ProcessRawRabbitMQPayload ......... 3.05ms DONE
+  2025-02-05 17:41:58 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:41:58 App\Jobs\ProcessRawRabbitMQPayload ......... 2.78ms DONE
+  2025-02-05 17:42:04 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:42:04 App\Jobs\ProcessRawRabbitMQPayload ......... 0.74ms DONE
+  2025-02-05 17:42:13 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:42:13 App\Jobs\ProcessRawRabbitMQPayload ......... 0.80ms DONE
+  2025-02-05 17:42:19 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:42:19 App\Jobs\ProcessRawRabbitMQPayload ......... 0.80ms DONE
+  2025-02-05 17:42:58 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:42:58 App\Jobs\ProcessRawRabbitMQPayload ........ 10.43ms DONE
+  2025-02-05 17:43:04 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:43:04 App\Jobs\ProcessRawRabbitMQPayload ......... 0.65ms DONE
+  2025-02-05 17:43:13 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:43:13 App\Jobs\ProcessRawRabbitMQPayload ......... 0.87ms DONE
+  2025-02-05 17:43:19 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:43:19 App\Jobs\ProcessRawRabbitMQPayload ......... 0.81ms DONE
+  2025-02-05 17:46:22 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:46:22 App\Jobs\ProcessRawRabbitMQPayload ........ 10.34ms DONE
+  2025-02-05 17:46:28 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:46:28 App\Jobs\ProcessRawRabbitMQPayload ......... 0.73ms DONE
+  2025-02-05 17:46:37 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:46:37 App\Jobs\ProcessRawRabbitMQPayload ......... 0.70ms DONE
+  2025-02-05 17:46:43 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:46:43 App\Jobs\ProcessRawRabbitMQPayload ......... 3.19ms DONE
+  2025-02-05 17:48:58 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:48:58 App\Jobs\ProcessRawRabbitMQPayload ........ 12.63ms DONE
+  2025-02-05 17:49:05 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:49:05 App\Jobs\ProcessRawRabbitMQPayload ......... 0.99ms DONE
+  2025-02-05 17:49:14 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:49:14 App\Jobs\ProcessRawRabbitMQPayload ......... 1.12ms DONE
+  2025-02-05 17:49:20 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:49:20 App\Jobs\ProcessRawRabbitMQPayload ......... 0.68ms DONE
+  2025-02-05 17:49:41 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:49:41 App\Jobs\ProcessRawRabbitMQPayload ......... 0.99ms DONE
+  2025-02-05 17:49:44 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:49:44 App\Jobs\ProcessRawRabbitMQPayload ......... 0.76ms DONE
+  2025-02-05 17:49:53 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:49:53 App\Jobs\ProcessRawRabbitMQPayload ......... 2.10ms DONE
+  2025-02-05 17:49:59 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:49:59 App\Jobs\ProcessRawRabbitMQPayload ......... 2.84ms DONE
+  2025-02-05 17:53:05 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:53:05 App\Jobs\ProcessRawRabbitMQPayload ......... 8.07ms DONE
+  2025-02-05 17:53:11 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:53:11 App\Jobs\ProcessRawRabbitMQPayload ......... 2.96ms DONE
+  2025-02-05 17:53:20 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:53:20 App\Jobs\ProcessRawRabbitMQPayload ......... 2.55ms DONE
+  2025-02-05 17:53:26 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:53:26 App\Jobs\ProcessRawRabbitMQPayload ......... 2.60ms DONE
+  2025-02-05 17:55:38 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:55:38 App\Jobs\ProcessRawRabbitMQPayload ......... 2.75ms DONE
+  2025-02-05 17:55:44 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:55:44 App\Jobs\ProcessRawRabbitMQPayload ......... 2.74ms DONE
+  2025-02-05 17:55:53 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:55:53 App\Jobs\ProcessRawRabbitMQPayload ......... 2.40ms DONE
+  2025-02-05 17:55:59 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:55:59 App\Jobs\ProcessRawRabbitMQPayload ......... 2.53ms DONE
+  2025-02-05 17:56:14 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:56:14 App\Jobs\ProcessRawRabbitMQPayload ......... 3.56ms DONE
+  2025-02-05 17:56:17 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:56:17 App\Jobs\ProcessRawRabbitMQPayload ......... 2.60ms DONE
+  2025-02-05 17:56:20 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:56:20 App\Jobs\ProcessRawRabbitMQPayload ......... 1.46ms DONE
+  2025-02-05 17:56:23 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:56:23 App\Jobs\ProcessRawRabbitMQPayload ......... 2.41ms DONE
+  2025-02-05 17:56:23 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:56:23 App\Jobs\ProcessRawRabbitMQPayload ......... 2.34ms DONE
+  2025-02-05 17:56:29 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:56:29 App\Jobs\ProcessRawRabbitMQPayload ......... 0.78ms DONE
+  2025-02-05 17:56:35 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:56:35 App\Jobs\ProcessRawRabbitMQPayload ......... 0.64ms DONE
+  2025-02-05 17:56:38 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:56:38 App\Jobs\ProcessRawRabbitMQPayload ......... 2.64ms DONE
+  2025-02-05 17:56:44 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:56:44 App\Jobs\ProcessRawRabbitMQPayload ......... 3.49ms DONE
+  2025-02-05 17:56:50 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:56:50 App\Jobs\ProcessRawRabbitMQPayload ......... 1.34ms DONE
+  2025-02-05 17:56:53 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:56:53 App\Jobs\ProcessRawRabbitMQPayload ......... 2.78ms DONE
+  2025-02-05 17:56:59 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:56:59 App\Jobs\ProcessRawRabbitMQPayload ......... 2.67ms DONE
+  2025-02-05 17:57:41 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:57:41 App\Jobs\ProcessRawRabbitMQPayload ......... 3.51ms DONE
+  2025-02-05 17:57:47 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:57:47 App\Jobs\ProcessRawRabbitMQPayload ......... 0.86ms DONE
+  2025-02-05 17:57:47 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:57:47 App\Jobs\ProcessRawRabbitMQPayload ......... 0.59ms DONE
+  2025-02-05 17:57:50 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:57:50 App\Jobs\ProcessRawRabbitMQPayload ......... 0.90ms DONE
+  2025-02-05 17:57:50 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:57:50 App\Jobs\ProcessRawRabbitMQPayload ......... 0.62ms DONE
+  2025-02-05 17:57:56 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:57:56 App\Jobs\ProcessRawRabbitMQPayload ......... 2.73ms DONE
+  2025-02-05 17:57:56 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:57:56 App\Jobs\ProcessRawRabbitMQPayload ......... 2.70ms DONE
+  2025-02-05 17:58:02 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:58:02 App\Jobs\ProcessRawRabbitMQPayload ......... 0.80ms DONE
+  2025-02-05 17:58:02 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:58:02 App\Jobs\ProcessRawRabbitMQPayload ......... 0.53ms DONE
+  2025-02-05 17:58:05 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:58:05 App\Jobs\ProcessRawRabbitMQPayload ......... 3.61ms DONE
+  2025-02-05 17:58:11 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:58:11 App\Jobs\ProcessRawRabbitMQPayload ......... 2.86ms DONE
+  2025-02-05 17:58:17 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:58:17 App\Jobs\ProcessRawRabbitMQPayload ......... 2.42ms DONE
+  2025-02-05 17:58:20 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:58:20 App\Jobs\ProcessRawRabbitMQPayload ......... 2.47ms DONE
+  2025-02-05 17:58:26 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:58:26 App\Jobs\ProcessRawRabbitMQPayload ......... 2.67ms DONE
+  2025-02-05 17:58:32 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:58:32 App\Jobs\ProcessRawRabbitMQPayload ......... 0.70ms DONE
+  2025-02-05 17:58:35 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:58:35 App\Jobs\ProcessRawRabbitMQPayload ......... 2.72ms DONE
+  2025-02-05 17:58:41 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:58:41 App\Jobs\ProcessRawRabbitMQPayload ......... 3.05ms DONE
+  2025-02-05 17:58:47 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:58:47 App\Jobs\ProcessRawRabbitMQPayload ......... 0.63ms DONE
+  2025-02-05 17:58:50 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:58:50 App\Jobs\ProcessRawRabbitMQPayload ......... 0.75ms DONE
+  2025-02-05 17:58:56 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:58:56 App\Jobs\ProcessRawRabbitMQPayload ......... 2.70ms DONE
+  2025-02-05 18:01:53 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:01:53 App\Jobs\ProcessRawRabbitMQPayload ......... 3.05ms DONE
+  2025-02-05 18:01:59 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:01:59 App\Jobs\ProcessRawRabbitMQPayload ......... 1.15ms DONE
+  2025-02-05 18:01:59 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:01:59 App\Jobs\ProcessRawRabbitMQPayload ......... 1.10ms DONE
+  2025-02-05 18:02:02 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:02:02 App\Jobs\ProcessRawRabbitMQPayload ......... 1.09ms DONE
+  2025-02-05 18:02:05 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:02:05 App\Jobs\ProcessRawRabbitMQPayload ......... 0.70ms DONE
+  2025-02-05 18:02:05 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:02:05 App\Jobs\ProcessRawRabbitMQPayload ......... 0.63ms DONE
+  2025-02-05 18:02:11 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:02:11 App\Jobs\ProcessRawRabbitMQPayload ......... 2.72ms DONE
+  2025-02-05 18:02:11 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:02:11 App\Jobs\ProcessRawRabbitMQPayload ......... 2.52ms DONE
+  2025-02-05 18:02:17 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:02:17 App\Jobs\ProcessRawRabbitMQPayload ......... 2.54ms DONE
+  2025-02-05 18:02:17 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:02:17 App\Jobs\ProcessRawRabbitMQPayload ......... 2.45ms DONE
+  2025-02-05 18:02:20 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:02:20 App\Jobs\ProcessRawRabbitMQPayload ......... 0.72ms DONE
+  2025-02-05 18:02:26 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:02:26 App\Jobs\ProcessRawRabbitMQPayload ......... 0.74ms DONE
+  2025-02-05 18:02:32 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:02:32 App\Jobs\ProcessRawRabbitMQPayload ......... 2.60ms DONE
+  2025-02-05 18:02:35 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:02:35 App\Jobs\ProcessRawRabbitMQPayload ......... 0.86ms DONE
+  2025-02-05 18:02:41 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:02:41 App\Jobs\ProcessRawRabbitMQPayload ......... 2.77ms DONE
+  2025-02-05 18:09:08 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:09:08 App\Jobs\ProcessRawRabbitMQPayload ........ 10.87ms DONE
+  2025-02-05 18:09:14 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:09:14 App\Jobs\ProcessRawRabbitMQPayload ......... 1.32ms DONE
+  2025-02-05 18:09:14 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:09:14 App\Jobs\ProcessRawRabbitMQPayload ......... 1.26ms DONE
+  2025-02-05 18:09:17 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:09:17 App\Jobs\ProcessRawRabbitMQPayload ......... 0.81ms DONE
+  2025-02-05 18:09:20 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:09:20 App\Jobs\ProcessRawRabbitMQPayload ......... 2.39ms DONE
+  2025-02-05 18:09:23 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:09:23 App\Jobs\ProcessRawRabbitMQPayload ......... 1.13ms DONE
+  2025-02-05 18:09:23 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:09:23 App\Jobs\ProcessRawRabbitMQPayload ......... 1.06ms DONE
+  2025-02-05 18:09:29 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:09:29 App\Jobs\ProcessRawRabbitMQPayload ......... 2.30ms DONE
+  2025-02-05 18:09:29 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:09:29 App\Jobs\ProcessRawRabbitMQPayload ......... 2.57ms DONE
+  2025-02-05 18:09:32 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:09:32 App\Jobs\ProcessRawRabbitMQPayload ......... 1.09ms DONE
+  2025-02-05 18:09:35 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:09:35 App\Jobs\ProcessRawRabbitMQPayload ......... 2.38ms DONE
+  2025-02-05 18:09:38 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:09:38 App\Jobs\ProcessRawRabbitMQPayload ......... 1.36ms DONE
+  2025-02-05 18:09:44 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:09:44 App\Jobs\ProcessRawRabbitMQPayload ......... 2.85ms DONE
+  2025-02-05 18:09:44 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:09:44 App\Jobs\ProcessRawRabbitMQPayload ......... 2.56ms DONE
+  2025-02-05 18:09:47 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:09:47 App\Jobs\ProcessRawRabbitMQPayload ......... 0.71ms DONE
+  2025-02-05 18:09:53 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:09:53 App\Jobs\ProcessRawRabbitMQPayload ......... 2.74ms DONE
+  2025-02-05 18:09:59 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:09:59 App\Jobs\ProcessRawRabbitMQPayload ......... 1.65ms DONE
+  2025-02-05 18:10:02 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:10:02 App\Jobs\ProcessRawRabbitMQPayload ......... 0.69ms DONE
+  2025-02-05 18:10:08 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:10:08 App\Jobs\ProcessRawRabbitMQPayload ......... 0.99ms DONE
+  2025-02-05 18:10:14 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:10:14 App\Jobs\ProcessRawRabbitMQPayload ......... 2.61ms DONE
+  2025-02-05 18:10:17 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:10:17 App\Jobs\ProcessRawRabbitMQPayload ......... 0.69ms DONE
+  2025-02-05 18:10:23 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:10:23 App\Jobs\ProcessRawRabbitMQPayload ......... 2.61ms DONE
+  2025-02-05 18:10:29 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:10:29 App\Jobs\ProcessRawRabbitMQPayload ......... 0.96ms DONE
+  2025-02-05 18:10:32 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:10:32 App\Jobs\ProcessRawRabbitMQPayload ......... 0.68ms DONE
+  2025-02-05 18:10:38 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:10:38 App\Jobs\ProcessRawRabbitMQPayload ......... 0.91ms DONE
+  2025-02-05 18:12:24 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:12:24 App\Jobs\ProcessRawRabbitMQPayload ......... 2.92ms DONE
+  2025-02-05 18:12:30 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:12:30 App\Jobs\ProcessRawRabbitMQPayload ......... 0.99ms DONE
+  2025-02-05 18:12:30 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:12:30 App\Jobs\ProcessRawRabbitMQPayload ......... 1.00ms DONE
+  2025-02-05 18:12:33 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:12:33 App\Jobs\ProcessRawRabbitMQPayload ......... 3.64ms DONE
+  2025-02-05 18:12:36 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:12:36 App\Jobs\ProcessRawRabbitMQPayload ......... 0.69ms DONE
+  2025-02-05 18:12:42 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:12:42 App\Jobs\ProcessRawRabbitMQPayload ......... 3.39ms DONE
+  2025-02-05 18:12:45 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:12:45 App\Jobs\ProcessRawRabbitMQPayload ......... 2.65ms DONE
+  2025-02-05 18:12:48 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:12:48 App\Jobs\ProcessRawRabbitMQPayload ......... 3.73ms DONE
+  2025-02-05 18:12:54 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:12:54 App\Jobs\ProcessRawRabbitMQPayload ......... 3.48ms DONE
+  2025-02-05 18:13:00 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:13:00 App\Jobs\ProcessRawRabbitMQPayload ......... 0.94ms DONE
+  2025-02-05 18:13:03 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:13:03 App\Jobs\ProcessRawRabbitMQPayload ......... 3.29ms DONE
+  2025-02-05 18:13:09 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:13:09 App\Jobs\ProcessRawRabbitMQPayload ......... 2.67ms DONE
+  2025-02-05 18:13:18 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:13:18 App\Jobs\ProcessRawRabbitMQPayload ......... 2.77ms DONE
+  2025-02-05 18:13:24 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:13:24 App\Jobs\ProcessRawRabbitMQPayload ......... 2.62ms DONE
+  2025-02-05 18:13:24 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:13:24 App\Jobs\ProcessRawRabbitMQPayload ......... 2.48ms DONE
+  2025-02-05 18:13:27 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:13:27 App\Jobs\ProcessRawRabbitMQPayload ......... 2.58ms DONE
+  2025-02-05 18:13:30 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:13:30 App\Jobs\ProcessRawRabbitMQPayload ......... 2.81ms DONE
+  2025-02-05 18:13:30 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:13:30 App\Jobs\ProcessRawRabbitMQPayload ......... 4.18ms DONE
+  2025-02-05 18:13:33 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:13:33 App\Jobs\ProcessRawRabbitMQPayload ......... 3.39ms DONE
+  2025-02-05 18:13:36 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:13:36 App\Jobs\ProcessRawRabbitMQPayload ......... 0.70ms DONE
+  2025-02-05 18:13:36 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:13:36 App\Jobs\ProcessRawRabbitMQPayload ......... 1.01ms DONE
+  2025-02-05 18:13:42 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:13:42 App\Jobs\ProcessRawRabbitMQPayload ......... 2.82ms DONE
+  2025-02-05 18:13:42 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:13:42 App\Jobs\ProcessRawRabbitMQPayload ......... 2.32ms DONE
+  2025-02-05 18:13:42 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:13:42 App\Jobs\ProcessRawRabbitMQPayload ......... 2.26ms DONE
+  2025-02-05 18:13:48 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:13:48 App\Jobs\ProcessRawRabbitMQPayload ......... 2.98ms DONE
+  2025-02-05 18:13:54 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:13:54 App\Jobs\ProcessRawRabbitMQPayload ......... 2.14ms DONE
+  2025-02-05 18:14:00 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:14:00 App\Jobs\ProcessRawRabbitMQPayload ......... 0.68ms DONE
+  2025-02-05 18:14:03 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:14:03 App\Jobs\ProcessRawRabbitMQPayload ......... 2.40ms DONE
+  2025-02-05 18:14:09 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:14:09 App\Jobs\ProcessRawRabbitMQPayload ......... 2.74ms DONE
+  2025-02-05 18:14:15 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:14:15 App\Jobs\ProcessRawRabbitMQPayload ......... 0.88ms DONE
+  2025-02-05 18:14:18 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:14:18 App\Jobs\ProcessRawRabbitMQPayload ......... 2.71ms DONE
+  2025-02-05 18:17:18 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:17:18 App\Jobs\ProcessRawRabbitMQPayload ......... 0.74ms DONE
+  2025-02-05 18:17:24 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:17:24 App\Jobs\ProcessRawRabbitMQPayload ......... 0.80ms DONE
+  2025-02-05 18:17:27 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:17:27 App\Jobs\ProcessRawRabbitMQPayload ......... 2.39ms DONE
+  2025-02-05 18:17:30 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:17:30 App\Jobs\ProcessRawRabbitMQPayload ......... 3.00ms DONE
+  2025-02-05 18:17:30 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:17:30 App\Jobs\ProcessRawRabbitMQPayload ......... 2.66ms DONE
+  2025-02-05 18:17:33 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:17:33 App\Jobs\ProcessRawRabbitMQPayload ......... 0.68ms DONE
+  2025-02-05 18:17:36 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:17:36 App\Jobs\ProcessRawRabbitMQPayload ......... 2.00ms DONE
+  2025-02-05 18:17:39 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:17:39 App\Jobs\ProcessRawRabbitMQPayload ......... 0.67ms DONE
+  2025-02-05 18:17:42 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:17:42 App\Jobs\ProcessRawRabbitMQPayload ......... 0.68ms DONE
+  2025-02-05 18:17:45 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:17:45 App\Jobs\ProcessRawRabbitMQPayload ......... 1.10ms DONE
+  2025-02-05 18:17:48 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:17:48 App\Jobs\ProcessRawRabbitMQPayload ......... 0.90ms DONE
+  2025-02-05 18:17:54 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:17:54 App\Jobs\ProcessRawRabbitMQPayload ......... 0.86ms DONE
+  2025-02-05 18:18:00 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:18:00 App\Jobs\ProcessRawRabbitMQPayload ......... 2.16ms DONE
+  2025-02-05 18:18:03 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:18:03 App\Jobs\ProcessRawRabbitMQPayload ......... 2.46ms DONE
+  2025-02-05 18:18:09 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:18:09 App\Jobs\ProcessRawRabbitMQPayload ......... 1.15ms DONE
+  2025-02-05 18:18:15 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:18:15 App\Jobs\ProcessRawRabbitMQPayload ......... 3.15ms DONE
+  2025-02-05 18:18:18 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:18:18 App\Jobs\ProcessRawRabbitMQPayload ......... 0.73ms DONE
+  2025-02-05 18:18:24 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:18:24 App\Jobs\ProcessRawRabbitMQPayload ......... 0.95ms DONE
+  2025-02-05 18:18:30 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:18:30 App\Jobs\ProcessRawRabbitMQPayload ......... 0.69ms DONE
+  2025-02-05 18:18:33 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:18:33 App\Jobs\ProcessRawRabbitMQPayload ......... 2.52ms DONE
+  2025-02-05 18:19:39 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:19:39 App\Jobs\ProcessRawRabbitMQPayload ......... 0.96ms DONE
+  2025-02-05 18:19:45 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:19:45 App\Jobs\ProcessRawRabbitMQPayload ......... 2.93ms DONE
+  2025-02-05 18:19:48 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:19:48 App\Jobs\ProcessRawRabbitMQPayload ......... 2.65ms DONE
+  2025-02-05 18:19:51 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:19:51 App\Jobs\ProcessRawRabbitMQPayload ......... 2.60ms DONE
+  2025-02-05 18:19:54 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:19:54 App\Jobs\ProcessRawRabbitMQPayload ......... 0.86ms DONE
+  2025-02-05 18:19:54 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:19:54 App\Jobs\ProcessRawRabbitMQPayload ......... 0.81ms DONE
+  2025-02-05 18:19:57 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:19:57 App\Jobs\ProcessRawRabbitMQPayload ......... 3.18ms DONE
+  2025-02-05 18:20:00 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:20:00 App\Jobs\ProcessRawRabbitMQPayload ......... 3.46ms DONE
+  2025-02-05 18:20:03 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:20:03 App\Jobs\ProcessRawRabbitMQPayload ......... 0.86ms DONE
+  2025-02-05 18:20:06 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:20:06 App\Jobs\ProcessRawRabbitMQPayload ......... 1.10ms DONE
+  2025-02-05 18:20:09 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:20:09 App\Jobs\ProcessRawRabbitMQPayload ......... 2.54ms DONE
+  2025-02-05 18:20:12 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:20:12 App\Jobs\ProcessRawRabbitMQPayload ......... 2.49ms DONE
+  2025-02-05 18:20:15 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:20:15 App\Jobs\ProcessRawRabbitMQPayload ......... 2.67ms DONE
+  2025-02-05 18:20:18 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:20:18 App\Jobs\ProcessRawRabbitMQPayload ......... 2.68ms DONE
+  2025-02-05 18:20:21 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:20:21 App\Jobs\ProcessRawRabbitMQPayload ......... 2.66ms DONE
+  2025-02-05 18:20:24 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:20:24 App\Jobs\ProcessRawRabbitMQPayload ......... 0.88ms DONE
+  2025-02-05 18:20:30 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:20:30 App\Jobs\ProcessRawRabbitMQPayload ......... 2.94ms DONE
+  2025-02-05 18:20:36 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:20:36 App\Jobs\ProcessRawRabbitMQPayload ......... 2.45ms DONE
+  2025-02-05 18:20:39 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:20:39 App\Jobs\ProcessRawRabbitMQPayload ......... 2.26ms DONE
+  2025-02-05 18:20:45 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:20:45 App\Jobs\ProcessRawRabbitMQPayload ......... 0.85ms DONE
+  2025-02-05 18:20:51 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:20:51 App\Jobs\ProcessRawRabbitMQPayload ......... 3.53ms DONE
+  2025-02-05 18:20:54 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:20:54 App\Jobs\ProcessRawRabbitMQPayload ......... 2.37ms DONE
+  2025-02-05 18:21:00 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:21:00 App\Jobs\ProcessRawRabbitMQPayload ......... 2.85ms DONE
+  2025-02-05 18:21:06 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:21:06 App\Jobs\ProcessRawRabbitMQPayload ......... 0.93ms DONE
+  2025-02-05 18:21:09 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:21:09 App\Jobs\ProcessRawRabbitMQPayload ......... 0.74ms DONE

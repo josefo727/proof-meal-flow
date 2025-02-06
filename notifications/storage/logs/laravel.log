@@ -1,0 +1,1039 @@
+
+[2025-02-05 15:30:15] local.INFO: UpdateStatusNotification {"order_id":1,"status":"pending"} 
+[2025-02-05 15:30:48] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:30:48] local.INFO: class_exists: {"order_id":2,"status":"pending"}  
+[2025-02-05 15:30:48] local.INFO: UpdateStatusNotification {"order_id":2,"status":"pending"} 
+[2025-02-05 15:30:54] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:30:54] local.INFO: class_exists: {"order_id":2,"status":"processing"}  
+[2025-02-05 15:30:54] local.INFO: UpdateStatusNotification {"order_id":2,"status":"processing"} 
+[2025-02-05 15:30:57] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:30:57] local.INFO: class_exists: {"order_id":2,"status":"processing"}  
+[2025-02-05 15:30:57] local.INFO: UpdateStatusNotification {"order_id":2,"status":"processing"} 
+[2025-02-05 15:31:03] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:31:03] local.INFO: class_exists: {"order_id":2,"status":"ready"}  
+[2025-02-05 15:31:03] local.INFO: UpdateStatusNotification {"order_id":2,"status":"ready"} 
+[2025-02-05 15:31:09] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:31:09] local.INFO: class_exists: {"order_id":2,"status":"delivered"}  
+[2025-02-05 15:31:09] local.INFO: UpdateStatusNotification {"order_id":2,"status":"delivered"} 
+[2025-02-05 15:31:48] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:31:48] local.INFO: class_exists: {"order_id":3,"status":"pending"}  
+[2025-02-05 15:31:48] local.INFO: UpdateStatusNotification {"order_id":3,"status":"pending"} 
+[2025-02-05 15:31:54] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:31:54] local.INFO: class_exists: {"order_id":3,"status":"processing"}  
+[2025-02-05 15:31:54] local.INFO: UpdateStatusNotification {"order_id":3,"status":"processing"} 
+[2025-02-05 15:31:54] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:31:54] local.INFO: class_exists: {"order_id":3,"status":"processing"}  
+[2025-02-05 15:31:54] local.INFO: UpdateStatusNotification {"order_id":3,"status":"processing"} 
+[2025-02-05 15:32:00] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:32:00] local.INFO: class_exists: {"order_id":3,"status":"ready"}  
+[2025-02-05 15:32:00] local.INFO: UpdateStatusNotification {"order_id":3,"status":"ready"} 
+[2025-02-05 15:32:06] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:32:06] local.INFO: class_exists: {"order_id":3,"status":"delivered"}  
+[2025-02-05 15:32:06] local.INFO: UpdateStatusNotification {"order_id":3,"status":"delivered"} 
+[2025-02-05 15:32:45] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:32:45] local.INFO: class_exists: {"order_id":4,"status":"pending"}  
+[2025-02-05 15:32:45] local.INFO: UpdateStatusNotification {"order_id":4,"status":"pending"} 
+[2025-02-05 15:32:51] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:32:51] local.INFO: class_exists: {"order_id":4,"status":"processing"}  
+[2025-02-05 15:32:51] local.INFO: UpdateStatusNotification {"order_id":4,"status":"processing"} 
+[2025-02-05 15:32:51] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:32:51] local.INFO: class_exists: {"order_id":4,"status":"processing"}  
+[2025-02-05 15:32:51] local.INFO: UpdateStatusNotification {"order_id":4,"status":"processing"} 
+[2025-02-05 15:32:57] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:32:57] local.INFO: class_exists: {"order_id":4,"status":"ready"}  
+[2025-02-05 15:32:57] local.INFO: UpdateStatusNotification {"order_id":4,"status":"ready"} 
+[2025-02-05 15:33:03] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:33:03] local.INFO: class_exists: {"order_id":4,"status":"delivered"}  
+[2025-02-05 15:33:03] local.INFO: UpdateStatusNotification {"order_id":4,"status":"delivered"} 
+[2025-02-05 15:35:21] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:35:21] local.INFO: class_exists: {"order_id":5,"status":"pending"}  
+[2025-02-05 15:35:21] local.INFO: UpdateStatusNotification {"order_id":5,"status":"pending"} 
+[2025-02-05 15:35:27] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:35:27] local.INFO: class_exists: {"order_id":5,"status":"processing"}  
+[2025-02-05 15:35:27] local.INFO: UpdateStatusNotification {"order_id":5,"status":"processing"} 
+[2025-02-05 15:35:30] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:35:30] local.INFO: class_exists: {"order_id":5,"status":"processing"}  
+[2025-02-05 15:35:30] local.INFO: UpdateStatusNotification {"order_id":5,"status":"processing"} 
+[2025-02-05 15:35:39] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:35:39] local.INFO: class_exists: {"order_id":5,"status":"ready"}  
+[2025-02-05 15:35:39] local.INFO: UpdateStatusNotification {"order_id":5,"status":"ready"} 
+[2025-02-05 15:35:42] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:35:42] local.INFO: class_exists: {"order_id":5,"status":"delivered"}  
+[2025-02-05 15:35:42] local.INFO: UpdateStatusNotification {"order_id":5,"status":"delivered"} 
+[2025-02-05 15:36:24] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:36:24] local.INFO: class_exists: {"order_id":6,"status":"pending"}  
+[2025-02-05 15:36:24] local.INFO: UpdateStatusNotification {"order_id":6,"status":"pending"} 
+[2025-02-05 15:36:30] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:36:30] local.INFO: class_exists: {"order_id":6,"status":"awaiting"}  
+[2025-02-05 15:36:30] local.INFO: UpdateStatusNotification {"order_id":6,"status":"awaiting"} 
+[2025-02-05 15:36:36] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:36:36] local.INFO: class_exists: {"order_id":6,"status":"processing"}  
+[2025-02-05 15:36:36] local.INFO: UpdateStatusNotification {"order_id":6,"status":"processing"} 
+[2025-02-05 15:36:39] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:36:39] local.INFO: class_exists: {"order_id":6,"status":"processing"}  
+[2025-02-05 15:36:39] local.INFO: UpdateStatusNotification {"order_id":6,"status":"processing"} 
+[2025-02-05 15:36:48] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:36:48] local.INFO: class_exists: {"order_id":6,"status":"ready"}  
+[2025-02-05 15:36:48] local.INFO: UpdateStatusNotification {"order_id":6,"status":"ready"} 
+[2025-02-05 15:36:51] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:36:51] local.INFO: class_exists: {"order_id":6,"status":"delivered"}  
+[2025-02-05 15:36:51] local.INFO: UpdateStatusNotification {"order_id":6,"status":"delivered"} 
+[2025-02-05 15:39:52] local.INFO: UpdateStatusNotification {"order_id":1,"status":"pending"} 
+[2025-02-05 15:40:35] local.INFO: UpdateStatusNotification {"order_id":1,"status":"pending"} 
+[2025-02-05 15:40:44] local.INFO: UpdateStatusNotification {"order_id":1,"status":"pending"} 
+[2025-02-05 15:42:37] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:42:37] local.INFO: class_exists: {"order_id":1,"status":"pending"}  
+[2025-02-05 15:42:37] local.INFO: UpdateStatusNotification {"order_id":1,"status":"pending"} 
+[2025-02-05 15:42:43] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:42:43] local.INFO: class_exists: {"order_id":1,"status":"processing"}  
+[2025-02-05 15:42:43] local.INFO: UpdateStatusNotification {"order_id":1,"status":"processing"} 
+[2025-02-05 15:42:46] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:42:46] local.INFO: class_exists: {"order_id":1,"status":"processing"}  
+[2025-02-05 15:42:46] local.INFO: UpdateStatusNotification {"order_id":1,"status":"processing"} 
+[2025-02-05 15:42:55] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:42:55] local.INFO: class_exists: {"order_id":1,"status":"ready"}  
+[2025-02-05 15:42:55] local.INFO: UpdateStatusNotification {"order_id":1,"status":"ready"} 
+[2025-02-05 15:42:58] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:42:58] local.INFO: class_exists: {"order_id":1,"status":"delivered"}  
+[2025-02-05 15:42:58] local.INFO: UpdateStatusNotification {"order_id":1,"status":"delivered"} 
+[2025-02-05 15:43:46] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:43:46] local.INFO: class_exists: {"order_id":2,"status":"pending"}  
+[2025-02-05 15:43:46] local.INFO: UpdateStatusNotification {"order_id":2,"status":"pending"} 
+[2025-02-05 15:43:52] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:43:52] local.INFO: class_exists: {"order_id":2,"status":"processing"}  
+[2025-02-05 15:43:52] local.INFO: UpdateStatusNotification {"order_id":2,"status":"processing"} 
+[2025-02-05 15:43:55] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:43:55] local.INFO: class_exists: {"order_id":2,"status":"processing"}  
+[2025-02-05 15:43:55] local.INFO: UpdateStatusNotification {"order_id":2,"status":"processing"} 
+[2025-02-05 15:44:04] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:44:04] local.INFO: class_exists: {"order_id":2,"status":"ready"}  
+[2025-02-05 15:44:04] local.INFO: UpdateStatusNotification {"order_id":2,"status":"ready"} 
+[2025-02-05 15:44:07] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:44:07] local.INFO: class_exists: {"order_id":2,"status":"delivered"}  
+[2025-02-05 15:44:07] local.INFO: UpdateStatusNotification {"order_id":2,"status":"delivered"} 
+[2025-02-05 15:46:28] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:46:28] local.INFO: class_exists: {"order_id":3,"status":"pending"}  
+[2025-02-05 15:46:28] local.INFO: UpdateStatusNotification {"order_id":3,"status":"pending"} 
+[2025-02-05 15:46:34] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:46:34] local.INFO: class_exists: {"order_id":3,"status":"processing"}  
+[2025-02-05 15:46:34] local.INFO: UpdateStatusNotification {"order_id":3,"status":"processing"} 
+[2025-02-05 15:46:37] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:46:37] local.INFO: class_exists: {"order_id":3,"status":"processing"}  
+[2025-02-05 15:46:37] local.INFO: UpdateStatusNotification {"order_id":3,"status":"processing"} 
+[2025-02-05 15:46:46] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:46:46] local.INFO: class_exists: {"order_id":3,"status":"ready"}  
+[2025-02-05 15:46:46] local.INFO: UpdateStatusNotification {"order_id":3,"status":"ready"} 
+[2025-02-05 15:46:49] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:46:49] local.INFO: class_exists: {"order_id":3,"status":"delivered"}  
+[2025-02-05 15:46:49] local.INFO: UpdateStatusNotification {"order_id":3,"status":"delivered"} 
+[2025-02-05 15:46:49] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:46:49] local.INFO: class_exists: {"order_id":4,"status":"pending"}  
+[2025-02-05 15:46:49] local.INFO: UpdateStatusNotification {"order_id":4,"status":"pending"} 
+[2025-02-05 15:46:55] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:46:55] local.INFO: class_exists: {"order_id":4,"status":"processing"}  
+[2025-02-05 15:46:55] local.INFO: UpdateStatusNotification {"order_id":4,"status":"processing"} 
+[2025-02-05 15:46:58] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:46:58] local.INFO: class_exists: {"order_id":4,"status":"processing"}  
+[2025-02-05 15:46:58] local.INFO: UpdateStatusNotification {"order_id":4,"status":"processing"} 
+[2025-02-05 15:47:07] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:47:07] local.INFO: class_exists: {"order_id":4,"status":"ready"}  
+[2025-02-05 15:47:07] local.INFO: UpdateStatusNotification {"order_id":4,"status":"ready"} 
+[2025-02-05 15:47:10] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:47:10] local.INFO: class_exists: {"order_id":4,"status":"delivered"}  
+[2025-02-05 15:47:10] local.INFO: UpdateStatusNotification {"order_id":4,"status":"delivered"} 
+[2025-02-05 15:47:10] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:47:10] local.INFO: class_exists: {"order_id":5,"status":"pending"}  
+[2025-02-05 15:47:10] local.INFO: UpdateStatusNotification {"order_id":5,"status":"pending"} 
+[2025-02-05 15:47:16] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:47:16] local.INFO: class_exists: {"order_id":5,"status":"processing"}  
+[2025-02-05 15:47:16] local.INFO: UpdateStatusNotification {"order_id":5,"status":"processing"} 
+[2025-02-05 15:47:19] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:47:19] local.INFO: class_exists: {"order_id":5,"status":"processing"}  
+[2025-02-05 15:47:19] local.INFO: UpdateStatusNotification {"order_id":5,"status":"processing"} 
+[2025-02-05 15:47:28] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:47:28] local.INFO: class_exists: {"order_id":5,"status":"ready"}  
+[2025-02-05 15:47:28] local.INFO: UpdateStatusNotification {"order_id":5,"status":"ready"} 
+[2025-02-05 15:47:31] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:47:31] local.INFO: class_exists: {"order_id":5,"status":"delivered"}  
+[2025-02-05 15:47:31] local.INFO: UpdateStatusNotification {"order_id":5,"status":"delivered"} 
+[2025-02-05 15:48:16] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:48:16] local.INFO: class_exists: {"order_id":6,"status":"pending"}  
+[2025-02-05 15:48:16] local.INFO: UpdateStatusNotification {"order_id":6,"status":"pending"} 
+[2025-02-05 15:48:22] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:48:22] local.INFO: class_exists: {"order_id":6,"status":"awaiting"}  
+[2025-02-05 15:48:22] local.INFO: UpdateStatusNotification {"order_id":6,"status":"awaiting"} 
+[2025-02-05 15:48:28] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:48:28] local.INFO: class_exists: {"order_id":6,"status":"processing"}  
+[2025-02-05 15:48:28] local.INFO: UpdateStatusNotification {"order_id":6,"status":"processing"} 
+[2025-02-05 15:48:31] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:48:31] local.INFO: class_exists: {"order_id":6,"status":"processing"}  
+[2025-02-05 15:48:31] local.INFO: UpdateStatusNotification {"order_id":6,"status":"processing"} 
+[2025-02-05 15:48:40] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:48:40] local.INFO: class_exists: {"order_id":6,"status":"ready"}  
+[2025-02-05 15:48:40] local.INFO: UpdateStatusNotification {"order_id":6,"status":"ready"} 
+[2025-02-05 15:48:43] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:48:43] local.INFO: class_exists: {"order_id":6,"status":"delivered"}  
+[2025-02-05 15:48:43] local.INFO: UpdateStatusNotification {"order_id":6,"status":"delivered"} 
+[2025-02-05 15:49:37] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:49:37] local.INFO: class_exists: {"order_id":7,"status":"pending"}  
+[2025-02-05 15:49:37] local.INFO: UpdateStatusNotification {"order_id":7,"status":"pending"} 
+[2025-02-05 15:49:43] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:49:43] local.INFO: class_exists: {"order_id":7,"status":"processing"}  
+[2025-02-05 15:49:43] local.INFO: UpdateStatusNotification {"order_id":7,"status":"processing"} 
+[2025-02-05 15:49:46] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:49:46] local.INFO: class_exists: {"order_id":7,"status":"processing"}  
+[2025-02-05 15:49:46] local.INFO: UpdateStatusNotification {"order_id":7,"status":"processing"} 
+[2025-02-05 15:49:55] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:49:55] local.INFO: class_exists: {"order_id":7,"status":"ready"}  
+[2025-02-05 15:49:55] local.INFO: UpdateStatusNotification {"order_id":7,"status":"ready"} 
+[2025-02-05 15:49:58] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:49:58] local.INFO: class_exists: {"order_id":7,"status":"delivered"}  
+[2025-02-05 15:49:58] local.INFO: UpdateStatusNotification {"order_id":7,"status":"delivered"} 
+[2025-02-05 15:51:12] local.ERROR: stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused) {"exception":"[object] (PhpAmqpLib\\Exception\\AMQPIOException(code: 2): stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused) at /app/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95)
+[stacktrace]
+#0 /app/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(253): PhpAmqpLib\\Wire\\IO\\StreamIO->connect()
+#1 /app/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(720): PhpAmqpLib\\Connection\\AbstractConnection->connect()
+#2 /app/vendor/vladimir-yuldashev/laravel-queue-rabbitmq/src/Queue/RabbitMQQueue.php(763): PhpAmqpLib\\Connection\\AbstractConnection->channel()
+#3 /app/vendor/vladimir-yuldashev/laravel-queue-rabbitmq/src/Queue/RabbitMQQueue.php(755): VladimirYuldashev\\LaravelQueueRabbitMQ\\Queue\\RabbitMQQueue->createChannel()
+#4 /app/vendor/vladimir-yuldashev/laravel-queue-rabbitmq/src/Queue/RabbitMQQueue.php(232): VladimirYuldashev\\LaravelQueueRabbitMQ\\Queue\\RabbitMQQueue->getChannel()
+#5 /app/vendor/laravel/framework/src/Illuminate/Queue/Worker.php(351): VladimirYuldashev\\LaravelQueueRabbitMQ\\Queue\\RabbitMQQueue->pop('notifications_q...', 0)
+#6 /app/vendor/laravel/framework/src/Illuminate/Queue/Worker.php(366): Illuminate\\Queue\\Worker->Illuminate\\Queue\\{closure}('notifications_q...', 0)
+#7 /app/vendor/laravel/framework/src/Illuminate/Queue/Worker.php(164): Illuminate\\Queue\\Worker->getNextJob(Object(VladimirYuldashev\\LaravelQueueRabbitMQ\\Queue\\RabbitMQQueue), 'notifications_q...')
+#8 /app/vendor/laravel/framework/src/Illuminate/Queue/Console/WorkCommand.php(149): Illuminate\\Queue\\Worker->daemon('rabbitmq', 'notifications_q...', Object(Illuminate\\Queue\\WorkerOptions))
+#9 /app/vendor/laravel/framework/src/Illuminate/Queue/Console/WorkCommand.php(132): Illuminate\\Queue\\Console\\WorkCommand->runWorker('rabbitmq', 'notifications_q...')
+#10 /app/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Illuminate\\Queue\\Console\\WorkCommand->handle()
+#11 /app/vendor/laravel/framework/src/Illuminate/Container/Util.php(43): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#12 /app/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(95): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#13 /app/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#14 /app/vendor/laravel/framework/src/Illuminate/Container/Container.php(694): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#15 /app/vendor/laravel/framework/src/Illuminate/Console/Command.php(213): Illuminate\\Container\\Container->call(Array)
+#16 /app/vendor/symfony/console/Command/Command.php(279): Illuminate\\Console\\Command->execute(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#17 /app/vendor/laravel/framework/src/Illuminate/Console/Command.php(182): Symfony\\Component\\Console\\Command\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#18 /app/vendor/symfony/console/Application.php(1094): Illuminate\\Console\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#19 /app/vendor/symfony/console/Application.php(342): Symfony\\Component\\Console\\Application->doRunCommand(Object(Illuminate\\Queue\\Console\\WorkCommand), Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#20 /app/vendor/symfony/console/Application.php(193): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#21 /app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(198): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#22 /app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1231): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#23 /app/artisan(13): Illuminate\\Foundation\\Application->handleCommand(Object(Symfony\\Component\\Console\\Input\\ArgvInput))
+#24 {main}
+"} 
+[2025-02-05 15:51:16] local.ERROR: stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused) {"exception":"[object] (PhpAmqpLib\\Exception\\AMQPIOException(code: 2): stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused) at /app/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95)
+[stacktrace]
+#0 /app/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(253): PhpAmqpLib\\Wire\\IO\\StreamIO->connect()
+#1 /app/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(720): PhpAmqpLib\\Connection\\AbstractConnection->connect()
+#2 /app/vendor/vladimir-yuldashev/laravel-queue-rabbitmq/src/Queue/RabbitMQQueue.php(763): PhpAmqpLib\\Connection\\AbstractConnection->channel()
+#3 /app/vendor/vladimir-yuldashev/laravel-queue-rabbitmq/src/Queue/RabbitMQQueue.php(755): VladimirYuldashev\\LaravelQueueRabbitMQ\\Queue\\RabbitMQQueue->createChannel()
+#4 /app/vendor/vladimir-yuldashev/laravel-queue-rabbitmq/src/Queue/RabbitMQQueue.php(232): VladimirYuldashev\\LaravelQueueRabbitMQ\\Queue\\RabbitMQQueue->getChannel()
+#5 /app/vendor/laravel/framework/src/Illuminate/Queue/Worker.php(351): VladimirYuldashev\\LaravelQueueRabbitMQ\\Queue\\RabbitMQQueue->pop('notifications_q...', 0)
+#6 /app/vendor/laravel/framework/src/Illuminate/Queue/Worker.php(366): Illuminate\\Queue\\Worker->Illuminate\\Queue\\{closure}('notifications_q...', 0)
+#7 /app/vendor/laravel/framework/src/Illuminate/Queue/Worker.php(164): Illuminate\\Queue\\Worker->getNextJob(Object(VladimirYuldashev\\LaravelQueueRabbitMQ\\Queue\\RabbitMQQueue), 'notifications_q...')
+#8 /app/vendor/laravel/framework/src/Illuminate/Queue/Console/WorkCommand.php(149): Illuminate\\Queue\\Worker->daemon('rabbitmq', 'notifications_q...', Object(Illuminate\\Queue\\WorkerOptions))
+#9 /app/vendor/laravel/framework/src/Illuminate/Queue/Console/WorkCommand.php(132): Illuminate\\Queue\\Console\\WorkCommand->runWorker('rabbitmq', 'notifications_q...')
+#10 /app/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Illuminate\\Queue\\Console\\WorkCommand->handle()
+#11 /app/vendor/laravel/framework/src/Illuminate/Container/Util.php(43): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#12 /app/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(95): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#13 /app/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#14 /app/vendor/laravel/framework/src/Illuminate/Container/Container.php(694): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#15 /app/vendor/laravel/framework/src/Illuminate/Console/Command.php(213): Illuminate\\Container\\Container->call(Array)
+#16 /app/vendor/symfony/console/Command/Command.php(279): Illuminate\\Console\\Command->execute(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#17 /app/vendor/laravel/framework/src/Illuminate/Console/Command.php(182): Symfony\\Component\\Console\\Command\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#18 /app/vendor/symfony/console/Application.php(1094): Illuminate\\Console\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#19 /app/vendor/symfony/console/Application.php(342): Symfony\\Component\\Console\\Application->doRunCommand(Object(Illuminate\\Queue\\Console\\WorkCommand), Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#20 /app/vendor/symfony/console/Application.php(193): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#21 /app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(198): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#22 /app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1231): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#23 /app/artisan(13): Illuminate\\Foundation\\Application->handleCommand(Object(Symfony\\Component\\Console\\Input\\ArgvInput))
+#24 {main}
+"} 
+[2025-02-05 15:51:38] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:51:38] local.INFO: class_exists: {"order_id":8,"status":"pending"}  
+[2025-02-05 15:51:38] local.INFO: UpdateStatusNotification {"order_id":8,"status":"pending"} 
+[2025-02-05 15:51:44] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:51:44] local.INFO: class_exists: {"order_id":8,"status":"awaiting"}  
+[2025-02-05 15:51:44] local.INFO: UpdateStatusNotification {"order_id":8,"status":"awaiting"} 
+[2025-02-05 15:51:50] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:51:50] local.INFO: class_exists: {"order_id":8,"status":"processing"}  
+[2025-02-05 15:51:50] local.INFO: UpdateStatusNotification {"order_id":8,"status":"processing"} 
+[2025-02-05 15:51:56] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:51:56] local.INFO: class_exists: {"order_id":8,"status":"ready"}  
+[2025-02-05 15:51:56] local.INFO: UpdateStatusNotification {"order_id":8,"status":"ready"} 
+[2025-02-05 15:52:02] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:52:02] local.INFO: class_exists: {"order_id":8,"status":"delivered"}  
+[2025-02-05 15:52:02] local.INFO: UpdateStatusNotification {"order_id":8,"status":"delivered"} 
+[2025-02-05 15:52:50] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:52:50] local.INFO: class_exists: {"order_id":1,"status":"pending"}  
+[2025-02-05 15:52:50] local.INFO: UpdateStatusNotification {"order_id":1,"status":"pending"} 
+[2025-02-05 15:52:56] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:52:56] local.INFO: class_exists: {"order_id":1,"status":"processing"}  
+[2025-02-05 15:52:56] local.INFO: UpdateStatusNotification {"order_id":1,"status":"processing"} 
+[2025-02-05 15:53:02] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:53:02] local.INFO: class_exists: {"order_id":1,"status":"ready"}  
+[2025-02-05 15:53:02] local.INFO: UpdateStatusNotification {"order_id":1,"status":"ready"} 
+[2025-02-05 15:53:08] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:53:08] local.INFO: class_exists: {"order_id":1,"status":"delivered"}  
+[2025-02-05 15:53:08] local.INFO: UpdateStatusNotification {"order_id":1,"status":"delivered"} 
+[2025-02-05 15:53:29] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:53:29] local.INFO: class_exists: {"order_id":2,"status":"pending"}  
+[2025-02-05 15:53:29] local.INFO: UpdateStatusNotification {"order_id":2,"status":"pending"} 
+[2025-02-05 15:53:35] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:53:35] local.INFO: class_exists: {"order_id":2,"status":"processing"}  
+[2025-02-05 15:53:35] local.INFO: UpdateStatusNotification {"order_id":2,"status":"processing"} 
+[2025-02-05 15:53:44] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:53:44] local.INFO: class_exists: {"order_id":2,"status":"ready"}  
+[2025-02-05 15:53:44] local.INFO: UpdateStatusNotification {"order_id":2,"status":"ready"} 
+[2025-02-05 15:53:47] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:53:47] local.INFO: class_exists: {"order_id":2,"status":"delivered"}  
+[2025-02-05 15:53:47] local.INFO: UpdateStatusNotification {"order_id":2,"status":"delivered"} 
+[2025-02-05 15:57:47] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:57:47] local.INFO: class_exists: {"order_id":1,"status":"pending"}  
+[2025-02-05 15:57:47] local.INFO: UpdateStatusNotification {"order_id":1,"status":"pending"} 
+[2025-02-05 15:57:53] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:57:53] local.INFO: class_exists: {"order_id":1,"status":"processing"}  
+[2025-02-05 15:57:53] local.INFO: UpdateStatusNotification {"order_id":1,"status":"processing"} 
+[2025-02-05 15:58:02] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:58:02] local.INFO: class_exists: {"order_id":1,"status":"ready"}  
+[2025-02-05 15:58:02] local.INFO: UpdateStatusNotification {"order_id":1,"status":"ready"} 
+[2025-02-05 15:58:05] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:58:05] local.INFO: class_exists: {"order_id":1,"status":"delivered"}  
+[2025-02-05 15:58:05] local.INFO: UpdateStatusNotification {"order_id":1,"status":"delivered"} 
+[2025-02-05 15:58:50] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:58:50] local.INFO: class_exists: {"order_id":1,"status":"pending"}  
+[2025-02-05 15:58:50] local.INFO: UpdateStatusNotification {"order_id":1,"status":"pending"} 
+[2025-02-05 15:58:56] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:58:56] local.INFO: class_exists: {"order_id":1,"status":"processing"}  
+[2025-02-05 15:58:56] local.INFO: UpdateStatusNotification {"order_id":1,"status":"processing"} 
+[2025-02-05 15:59:05] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:59:05] local.INFO: class_exists: {"order_id":1,"status":"ready"}  
+[2025-02-05 15:59:05] local.INFO: UpdateStatusNotification {"order_id":1,"status":"ready"} 
+[2025-02-05 15:59:08] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 15:59:08] local.INFO: class_exists: {"order_id":1,"status":"delivered"}  
+[2025-02-05 15:59:08] local.INFO: UpdateStatusNotification {"order_id":1,"status":"delivered"} 
+[2025-02-05 16:02:05] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 16:02:05] local.INFO: class_exists: {"order_id":2,"status":"pending"}  
+[2025-02-05 16:02:05] local.INFO: UpdateStatusNotification {"order_id":2,"status":"pending"} 
+[2025-02-05 16:02:12] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 16:02:12] local.INFO: class_exists: {"order_id":2,"status":"processing"}  
+[2025-02-05 16:02:12] local.INFO: UpdateStatusNotification {"order_id":2,"status":"processing"} 
+[2025-02-05 16:02:21] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 16:02:21] local.INFO: class_exists: {"order_id":2,"status":"ready"}  
+[2025-02-05 16:02:21] local.INFO: UpdateStatusNotification {"order_id":2,"status":"ready"} 
+[2025-02-05 16:02:24] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 16:02:24] local.INFO: class_exists: {"order_id":2,"status":"delivered"}  
+[2025-02-05 16:02:24] local.INFO: UpdateStatusNotification {"order_id":2,"status":"delivered"} 
+[2025-02-05 16:03:33] local.INFO: UpdateStatusNotification {"order_id":1,"status":"pending"} 
+[2025-02-05 16:04:53] local.INFO: UpdateStatusNotification {"order_id":1,"status":"pending"} 
+[2025-02-05 16:05:46] local.ERROR: stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused) {"exception":"[object] (PhpAmqpLib\\Exception\\AMQPIOException(code: 2): stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused) at /app/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95)
+[stacktrace]
+#0 /app/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(253): PhpAmqpLib\\Wire\\IO\\StreamIO->connect()
+#1 /app/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(720): PhpAmqpLib\\Connection\\AbstractConnection->connect()
+#2 /app/vendor/vladimir-yuldashev/laravel-queue-rabbitmq/src/Queue/RabbitMQQueue.php(763): PhpAmqpLib\\Connection\\AbstractConnection->channel()
+#3 /app/vendor/vladimir-yuldashev/laravel-queue-rabbitmq/src/Queue/RabbitMQQueue.php(755): VladimirYuldashev\\LaravelQueueRabbitMQ\\Queue\\RabbitMQQueue->createChannel()
+#4 /app/vendor/vladimir-yuldashev/laravel-queue-rabbitmq/src/Queue/RabbitMQQueue.php(232): VladimirYuldashev\\LaravelQueueRabbitMQ\\Queue\\RabbitMQQueue->getChannel()
+#5 /app/vendor/laravel/framework/src/Illuminate/Queue/Worker.php(351): VladimirYuldashev\\LaravelQueueRabbitMQ\\Queue\\RabbitMQQueue->pop('notifications_q...', 0)
+#6 /app/vendor/laravel/framework/src/Illuminate/Queue/Worker.php(366): Illuminate\\Queue\\Worker->Illuminate\\Queue\\{closure}('notifications_q...', 0)
+#7 /app/vendor/laravel/framework/src/Illuminate/Queue/Worker.php(164): Illuminate\\Queue\\Worker->getNextJob(Object(VladimirYuldashev\\LaravelQueueRabbitMQ\\Queue\\RabbitMQQueue), 'notifications_q...')
+#8 /app/vendor/laravel/framework/src/Illuminate/Queue/Console/WorkCommand.php(149): Illuminate\\Queue\\Worker->daemon('rabbitmq', 'notifications_q...', Object(Illuminate\\Queue\\WorkerOptions))
+#9 /app/vendor/laravel/framework/src/Illuminate/Queue/Console/WorkCommand.php(132): Illuminate\\Queue\\Console\\WorkCommand->runWorker('rabbitmq', 'notifications_q...')
+#10 /app/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Illuminate\\Queue\\Console\\WorkCommand->handle()
+#11 /app/vendor/laravel/framework/src/Illuminate/Container/Util.php(43): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#12 /app/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(95): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#13 /app/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#14 /app/vendor/laravel/framework/src/Illuminate/Container/Container.php(694): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#15 /app/vendor/laravel/framework/src/Illuminate/Console/Command.php(213): Illuminate\\Container\\Container->call(Array)
+#16 /app/vendor/symfony/console/Command/Command.php(279): Illuminate\\Console\\Command->execute(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#17 /app/vendor/laravel/framework/src/Illuminate/Console/Command.php(182): Symfony\\Component\\Console\\Command\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#18 /app/vendor/symfony/console/Application.php(1094): Illuminate\\Console\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#19 /app/vendor/symfony/console/Application.php(342): Symfony\\Component\\Console\\Application->doRunCommand(Object(Illuminate\\Queue\\Console\\WorkCommand), Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#20 /app/vendor/symfony/console/Application.php(193): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#21 /app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(198): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#22 /app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1231): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#23 /app/artisan(13): Illuminate\\Foundation\\Application->handleCommand(Object(Symfony\\Component\\Console\\Input\\ArgvInput))
+#24 {main}
+"} 
+[2025-02-05 16:05:50] local.ERROR: stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused) {"exception":"[object] (PhpAmqpLib\\Exception\\AMQPIOException(code: 2): stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused) at /app/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95)
+[stacktrace]
+#0 /app/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(253): PhpAmqpLib\\Wire\\IO\\StreamIO->connect()
+#1 /app/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(720): PhpAmqpLib\\Connection\\AbstractConnection->connect()
+#2 /app/vendor/vladimir-yuldashev/laravel-queue-rabbitmq/src/Queue/RabbitMQQueue.php(763): PhpAmqpLib\\Connection\\AbstractConnection->channel()
+#3 /app/vendor/vladimir-yuldashev/laravel-queue-rabbitmq/src/Queue/RabbitMQQueue.php(755): VladimirYuldashev\\LaravelQueueRabbitMQ\\Queue\\RabbitMQQueue->createChannel()
+#4 /app/vendor/vladimir-yuldashev/laravel-queue-rabbitmq/src/Queue/RabbitMQQueue.php(232): VladimirYuldashev\\LaravelQueueRabbitMQ\\Queue\\RabbitMQQueue->getChannel()
+#5 /app/vendor/laravel/framework/src/Illuminate/Queue/Worker.php(351): VladimirYuldashev\\LaravelQueueRabbitMQ\\Queue\\RabbitMQQueue->pop('notifications_q...', 0)
+#6 /app/vendor/laravel/framework/src/Illuminate/Queue/Worker.php(366): Illuminate\\Queue\\Worker->Illuminate\\Queue\\{closure}('notifications_q...', 0)
+#7 /app/vendor/laravel/framework/src/Illuminate/Queue/Worker.php(164): Illuminate\\Queue\\Worker->getNextJob(Object(VladimirYuldashev\\LaravelQueueRabbitMQ\\Queue\\RabbitMQQueue), 'notifications_q...')
+#8 /app/vendor/laravel/framework/src/Illuminate/Queue/Console/WorkCommand.php(149): Illuminate\\Queue\\Worker->daemon('rabbitmq', 'notifications_q...', Object(Illuminate\\Queue\\WorkerOptions))
+#9 /app/vendor/laravel/framework/src/Illuminate/Queue/Console/WorkCommand.php(132): Illuminate\\Queue\\Console\\WorkCommand->runWorker('rabbitmq', 'notifications_q...')
+#10 /app/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Illuminate\\Queue\\Console\\WorkCommand->handle()
+#11 /app/vendor/laravel/framework/src/Illuminate/Container/Util.php(43): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#12 /app/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(95): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#13 /app/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#14 /app/vendor/laravel/framework/src/Illuminate/Container/Container.php(694): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#15 /app/vendor/laravel/framework/src/Illuminate/Console/Command.php(213): Illuminate\\Container\\Container->call(Array)
+#16 /app/vendor/symfony/console/Command/Command.php(279): Illuminate\\Console\\Command->execute(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#17 /app/vendor/laravel/framework/src/Illuminate/Console/Command.php(182): Symfony\\Component\\Console\\Command\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#18 /app/vendor/symfony/console/Application.php(1094): Illuminate\\Console\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#19 /app/vendor/symfony/console/Application.php(342): Symfony\\Component\\Console\\Application->doRunCommand(Object(Illuminate\\Queue\\Console\\WorkCommand), Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#20 /app/vendor/symfony/console/Application.php(193): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#21 /app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(198): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#22 /app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1231): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#23 /app/artisan(13): Illuminate\\Foundation\\Application->handleCommand(Object(Symfony\\Component\\Console\\Input\\ArgvInput))
+#24 {main}
+"} 
+[2025-02-05 16:07:29] local.ERROR: stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused) {"exception":"[object] (PhpAmqpLib\\Exception\\AMQPIOException(code: 2): stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused) at /app/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95)
+[stacktrace]
+#0 /app/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(253): PhpAmqpLib\\Wire\\IO\\StreamIO->connect()
+#1 /app/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(720): PhpAmqpLib\\Connection\\AbstractConnection->connect()
+#2 /app/vendor/vladimir-yuldashev/laravel-queue-rabbitmq/src/Queue/RabbitMQQueue.php(763): PhpAmqpLib\\Connection\\AbstractConnection->channel()
+#3 /app/vendor/vladimir-yuldashev/laravel-queue-rabbitmq/src/Queue/RabbitMQQueue.php(755): VladimirYuldashev\\LaravelQueueRabbitMQ\\Queue\\RabbitMQQueue->createChannel()
+#4 /app/vendor/vladimir-yuldashev/laravel-queue-rabbitmq/src/Queue/RabbitMQQueue.php(232): VladimirYuldashev\\LaravelQueueRabbitMQ\\Queue\\RabbitMQQueue->getChannel()
+#5 /app/vendor/laravel/framework/src/Illuminate/Queue/Worker.php(351): VladimirYuldashev\\LaravelQueueRabbitMQ\\Queue\\RabbitMQQueue->pop('notifications_q...', 0)
+#6 /app/vendor/laravel/framework/src/Illuminate/Queue/Worker.php(366): Illuminate\\Queue\\Worker->Illuminate\\Queue\\{closure}('notifications_q...', 0)
+#7 /app/vendor/laravel/framework/src/Illuminate/Queue/Worker.php(164): Illuminate\\Queue\\Worker->getNextJob(Object(VladimirYuldashev\\LaravelQueueRabbitMQ\\Queue\\RabbitMQQueue), 'notifications_q...')
+#8 /app/vendor/laravel/framework/src/Illuminate/Queue/Console/WorkCommand.php(149): Illuminate\\Queue\\Worker->daemon('rabbitmq', 'notifications_q...', Object(Illuminate\\Queue\\WorkerOptions))
+#9 /app/vendor/laravel/framework/src/Illuminate/Queue/Console/WorkCommand.php(132): Illuminate\\Queue\\Console\\WorkCommand->runWorker('rabbitmq', 'notifications_q...')
+#10 /app/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Illuminate\\Queue\\Console\\WorkCommand->handle()
+#11 /app/vendor/laravel/framework/src/Illuminate/Container/Util.php(43): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#12 /app/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(95): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#13 /app/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#14 /app/vendor/laravel/framework/src/Illuminate/Container/Container.php(694): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#15 /app/vendor/laravel/framework/src/Illuminate/Console/Command.php(213): Illuminate\\Container\\Container->call(Array)
+#16 /app/vendor/symfony/console/Command/Command.php(279): Illuminate\\Console\\Command->execute(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#17 /app/vendor/laravel/framework/src/Illuminate/Console/Command.php(182): Symfony\\Component\\Console\\Command\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#18 /app/vendor/symfony/console/Application.php(1094): Illuminate\\Console\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#19 /app/vendor/symfony/console/Application.php(342): Symfony\\Component\\Console\\Application->doRunCommand(Object(Illuminate\\Queue\\Console\\WorkCommand), Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#20 /app/vendor/symfony/console/Application.php(193): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#21 /app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(198): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#22 /app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1231): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#23 /app/artisan(13): Illuminate\\Foundation\\Application->handleCommand(Object(Symfony\\Component\\Console\\Input\\ArgvInput))
+#24 {main}
+"} 
+[2025-02-05 16:07:33] local.ERROR: stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused) {"exception":"[object] (PhpAmqpLib\\Exception\\AMQPIOException(code: 2): stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused) at /app/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95)
+[stacktrace]
+#0 /app/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(253): PhpAmqpLib\\Wire\\IO\\StreamIO->connect()
+#1 /app/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(720): PhpAmqpLib\\Connection\\AbstractConnection->connect()
+#2 /app/vendor/vladimir-yuldashev/laravel-queue-rabbitmq/src/Queue/RabbitMQQueue.php(763): PhpAmqpLib\\Connection\\AbstractConnection->channel()
+#3 /app/vendor/vladimir-yuldashev/laravel-queue-rabbitmq/src/Queue/RabbitMQQueue.php(755): VladimirYuldashev\\LaravelQueueRabbitMQ\\Queue\\RabbitMQQueue->createChannel()
+#4 /app/vendor/vladimir-yuldashev/laravel-queue-rabbitmq/src/Queue/RabbitMQQueue.php(232): VladimirYuldashev\\LaravelQueueRabbitMQ\\Queue\\RabbitMQQueue->getChannel()
+#5 /app/vendor/laravel/framework/src/Illuminate/Queue/Worker.php(351): VladimirYuldashev\\LaravelQueueRabbitMQ\\Queue\\RabbitMQQueue->pop('notifications_q...', 0)
+#6 /app/vendor/laravel/framework/src/Illuminate/Queue/Worker.php(366): Illuminate\\Queue\\Worker->Illuminate\\Queue\\{closure}('notifications_q...', 0)
+#7 /app/vendor/laravel/framework/src/Illuminate/Queue/Worker.php(164): Illuminate\\Queue\\Worker->getNextJob(Object(VladimirYuldashev\\LaravelQueueRabbitMQ\\Queue\\RabbitMQQueue), 'notifications_q...')
+#8 /app/vendor/laravel/framework/src/Illuminate/Queue/Console/WorkCommand.php(149): Illuminate\\Queue\\Worker->daemon('rabbitmq', 'notifications_q...', Object(Illuminate\\Queue\\WorkerOptions))
+#9 /app/vendor/laravel/framework/src/Illuminate/Queue/Console/WorkCommand.php(132): Illuminate\\Queue\\Console\\WorkCommand->runWorker('rabbitmq', 'notifications_q...')
+#10 /app/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Illuminate\\Queue\\Console\\WorkCommand->handle()
+#11 /app/vendor/laravel/framework/src/Illuminate/Container/Util.php(43): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#12 /app/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(95): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#13 /app/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#14 /app/vendor/laravel/framework/src/Illuminate/Container/Container.php(694): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#15 /app/vendor/laravel/framework/src/Illuminate/Console/Command.php(213): Illuminate\\Container\\Container->call(Array)
+#16 /app/vendor/symfony/console/Command/Command.php(279): Illuminate\\Console\\Command->execute(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#17 /app/vendor/laravel/framework/src/Illuminate/Console/Command.php(182): Symfony\\Component\\Console\\Command\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#18 /app/vendor/symfony/console/Application.php(1094): Illuminate\\Console\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#19 /app/vendor/symfony/console/Application.php(342): Symfony\\Component\\Console\\Application->doRunCommand(Object(Illuminate\\Queue\\Console\\WorkCommand), Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#20 /app/vendor/symfony/console/Application.php(193): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#21 /app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(198): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#22 /app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1231): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#23 /app/artisan(13): Illuminate\\Foundation\\Application->handleCommand(Object(Symfony\\Component\\Console\\Input\\ArgvInput))
+#24 {main}
+"} 
+[2025-02-05 16:07:56] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 16:07:56] local.INFO: class_exists: {"order_id":4,"status":"pending"}  
+[2025-02-05 16:07:56] local.INFO: UpdateStatusNotification {"order_id":4,"status":"pending"} 
+[2025-02-05 16:08:02] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 16:08:02] local.INFO: class_exists: {"order_id":4,"status":"processing"}  
+[2025-02-05 16:08:02] local.INFO: UpdateStatusNotification {"order_id":4,"status":"processing"} 
+[2025-02-05 16:08:08] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 16:08:08] local.INFO: class_exists: {"order_id":4,"status":"ready"}  
+[2025-02-05 16:08:08] local.INFO: UpdateStatusNotification {"order_id":4,"status":"ready"} 
+[2025-02-05 16:08:14] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 16:08:14] local.INFO: class_exists: {"order_id":4,"status":"delivered"}  
+[2025-02-05 16:08:14] local.INFO: UpdateStatusNotification {"order_id":4,"status":"delivered"} 
+[2025-02-05 16:19:47] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 16:19:47] local.INFO: class_exists: {"order_id":1,"status":"pending"}  
+[2025-02-05 16:19:47] local.INFO: UpdateStatusNotification {"order_id":1,"status":"pending"} 
+[2025-02-05 16:19:53] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 16:19:53] local.INFO: class_exists: {"order_id":1,"status":"processing"}  
+[2025-02-05 16:19:53] local.INFO: UpdateStatusNotification {"order_id":1,"status":"processing"} 
+[2025-02-05 16:20:05] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 16:20:05] local.INFO: class_exists: {"order_id":1,"status":"ready"}  
+[2025-02-05 16:20:05] local.INFO: UpdateStatusNotification {"order_id":1,"status":"ready"} 
+[2025-02-05 16:20:08] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 16:20:08] local.INFO: class_exists: {"order_id":1,"status":"delivered"}  
+[2025-02-05 16:20:08] local.INFO: UpdateStatusNotification {"order_id":1,"status":"delivered"} 
+[2025-02-05 17:27:15] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:27:15] local.INFO: class_exists: {"order_id":1,"status":"pending"}  
+[2025-02-05 17:27:15] local.INFO: UpdateStatusNotification {"order_id":1,"status":"pending"} 
+[2025-02-05 17:27:21] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:27:21] local.INFO: class_exists: {"order_id":1,"status":"processing"}  
+[2025-02-05 17:27:21] local.INFO: UpdateStatusNotification {"order_id":1,"status":"processing"} 
+[2025-02-05 17:27:33] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:27:33] local.INFO: class_exists: {"order_id":1,"status":"ready"}  
+[2025-02-05 17:27:33] local.INFO: UpdateStatusNotification {"order_id":1,"status":"ready"} 
+[2025-02-05 17:27:36] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:27:36] local.INFO: class_exists: {"order_id":1,"status":"delivered"}  
+[2025-02-05 17:27:36] local.INFO: UpdateStatusNotification {"order_id":1,"status":"delivered"} 
+[2025-02-05 17:27:36] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:27:36] local.INFO: class_exists: {"order_id":1,"status":"pending"}  
+[2025-02-05 17:27:36] local.INFO: UpdateStatusNotification {"order_id":1,"status":"pending"} 
+[2025-02-05 17:32:33] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:32:33] local.INFO: class_exists: {"order_id":1,"status":"pending"}  
+[2025-02-05 17:32:33] local.INFO: UpdateStatusNotification {"order_id":1,"status":"pending"} 
+[2025-02-05 17:32:39] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:32:39] local.INFO: class_exists: {"order_id":1,"status":"processing"}  
+[2025-02-05 17:32:39] local.INFO: UpdateStatusNotification {"order_id":1,"status":"processing"} 
+[2025-02-05 17:32:51] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:32:51] local.INFO: class_exists: {"order_id":1,"status":"ready"}  
+[2025-02-05 17:32:51] local.INFO: UpdateStatusNotification {"order_id":1,"status":"ready"} 
+[2025-02-05 17:32:54] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:32:54] local.INFO: class_exists: {"order_id":1,"status":"delivered"}  
+[2025-02-05 17:32:54] local.INFO: UpdateStatusNotification {"order_id":1,"status":"delivered"} 
+[2025-02-05 17:37:16] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:37:16] local.INFO: class_exists: {"order_id":1,"status":"pending"}  
+[2025-02-05 17:37:16] local.INFO: UpdateStatusNotification {"order_id":1,"status":"pending"} 
+[2025-02-05 17:37:22] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:37:22] local.INFO: class_exists: {"order_id":1,"status":"processing"}  
+[2025-02-05 17:37:22] local.INFO: UpdateStatusNotification {"order_id":1,"status":"processing"} 
+[2025-02-05 17:37:34] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:37:34] local.INFO: class_exists: {"order_id":1,"status":"ready"}  
+[2025-02-05 17:37:34] local.INFO: UpdateStatusNotification {"order_id":1,"status":"ready"} 
+[2025-02-05 17:37:40] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:37:40] local.INFO: class_exists: {"order_id":1,"status":"delivered"}  
+[2025-02-05 17:37:40] local.INFO: UpdateStatusNotification {"order_id":1,"status":"delivered"} 
+[2025-02-05 17:39:25] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:39:25] local.INFO: class_exists: {"order_id":1,"status":"pending"}  
+[2025-02-05 17:39:25] local.INFO: UpdateStatusNotification {"order_id":1,"status":"pending"} 
+[2025-02-05 17:39:31] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:39:31] local.INFO: class_exists: {"order_id":1,"status":"processing"}  
+[2025-02-05 17:39:31] local.INFO: UpdateStatusNotification {"order_id":1,"status":"processing"} 
+[2025-02-05 17:39:40] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:39:40] local.INFO: class_exists: {"order_id":1,"status":"ready"}  
+[2025-02-05 17:39:40] local.INFO: UpdateStatusNotification {"order_id":1,"status":"ready"} 
+[2025-02-05 17:39:46] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:39:46] local.INFO: class_exists: {"order_id":1,"status":"delivered"}  
+[2025-02-05 17:39:46] local.INFO: UpdateStatusNotification {"order_id":1,"status":"delivered"} 
+[2025-02-05 17:41:58] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:41:58] local.INFO: class_exists: {"order_id":2,"status":"pending"}  
+[2025-02-05 17:41:58] local.INFO: UpdateStatusNotification {"order_id":2,"status":"pending"} 
+[2025-02-05 17:42:04] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:42:04] local.INFO: class_exists: {"order_id":2,"status":"processing"}  
+[2025-02-05 17:42:04] local.INFO: UpdateStatusNotification {"order_id":2,"status":"processing"} 
+[2025-02-05 17:42:13] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:42:13] local.INFO: class_exists: {"order_id":2,"status":"ready"}  
+[2025-02-05 17:42:13] local.INFO: UpdateStatusNotification {"order_id":2,"status":"ready"} 
+[2025-02-05 17:42:19] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:42:19] local.INFO: class_exists: {"order_id":2,"status":"delivered"}  
+[2025-02-05 17:42:19] local.INFO: UpdateStatusNotification {"order_id":2,"status":"delivered"} 
+[2025-02-05 17:42:58] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:42:58] local.INFO: class_exists: {"order_id":3,"status":"pending"}  
+[2025-02-05 17:42:58] local.INFO: UpdateStatusNotification {"order_id":3,"status":"pending"} 
+[2025-02-05 17:43:04] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:43:04] local.INFO: class_exists: {"order_id":3,"status":"processing"}  
+[2025-02-05 17:43:04] local.INFO: UpdateStatusNotification {"order_id":3,"status":"processing"} 
+[2025-02-05 17:43:13] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:43:13] local.INFO: class_exists: {"order_id":3,"status":"ready"}  
+[2025-02-05 17:43:13] local.INFO: UpdateStatusNotification {"order_id":3,"status":"ready"} 
+[2025-02-05 17:43:19] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:43:19] local.INFO: class_exists: {"order_id":3,"status":"delivered"}  
+[2025-02-05 17:43:19] local.INFO: UpdateStatusNotification {"order_id":3,"status":"delivered"} 
+[2025-02-05 17:46:22] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:46:22] local.INFO: class_exists: {"order_id":1,"status":"pending"}  
+[2025-02-05 17:46:22] local.INFO: UpdateStatusNotification {"order_id":1,"status":"pending"} 
+[2025-02-05 17:46:28] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:46:28] local.INFO: class_exists: {"order_id":1,"status":"processing"}  
+[2025-02-05 17:46:28] local.INFO: UpdateStatusNotification {"order_id":1,"status":"processing"} 
+[2025-02-05 17:46:37] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:46:37] local.INFO: class_exists: {"order_id":1,"status":"ready"}  
+[2025-02-05 17:46:37] local.INFO: UpdateStatusNotification {"order_id":1,"status":"ready"} 
+[2025-02-05 17:46:43] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:46:43] local.INFO: class_exists: {"order_id":1,"status":"delivered"}  
+[2025-02-05 17:46:43] local.INFO: UpdateStatusNotification {"order_id":1,"status":"delivered"} 
+[2025-02-05 17:48:58] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:48:58] local.INFO: class_exists: {"order_id":2,"status":"pending"}  
+[2025-02-05 17:48:58] local.INFO: UpdateStatusNotification {"order_id":2,"status":"pending"} 
+[2025-02-05 17:49:05] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:49:05] local.INFO: class_exists: {"order_id":2,"status":"processing"}  
+[2025-02-05 17:49:05] local.INFO: UpdateStatusNotification {"order_id":2,"status":"processing"} 
+[2025-02-05 17:49:14] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:49:14] local.INFO: class_exists: {"order_id":2,"status":"ready"}  
+[2025-02-05 17:49:14] local.INFO: UpdateStatusNotification {"order_id":2,"status":"ready"} 
+[2025-02-05 17:49:20] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:49:20] local.INFO: class_exists: {"order_id":2,"status":"delivered"}  
+[2025-02-05 17:49:20] local.INFO: UpdateStatusNotification {"order_id":2,"status":"delivered"} 
+[2025-02-05 17:49:41] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:49:41] local.INFO: class_exists: {"order_id":3,"status":"pending"}  
+[2025-02-05 17:49:41] local.INFO: UpdateStatusNotification {"order_id":3,"status":"pending"} 
+[2025-02-05 17:49:44] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:49:44] local.INFO: class_exists: {"order_id":3,"status":"processing"}  
+[2025-02-05 17:49:44] local.INFO: UpdateStatusNotification {"order_id":3,"status":"processing"} 
+[2025-02-05 17:49:53] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:49:53] local.INFO: class_exists: {"order_id":3,"status":"ready"}  
+[2025-02-05 17:49:53] local.INFO: UpdateStatusNotification {"order_id":3,"status":"ready"} 
+[2025-02-05 17:49:59] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:49:59] local.INFO: class_exists: {"order_id":3,"status":"delivered"}  
+[2025-02-05 17:49:59] local.INFO: UpdateStatusNotification {"order_id":3,"status":"delivered"} 
+[2025-02-05 17:53:05] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:53:05] local.INFO: class_exists: {"order_id":1,"status":"pending"}  
+[2025-02-05 17:53:05] local.INFO: UpdateStatusNotification {"order_id":1,"status":"pending"} 
+[2025-02-05 17:53:11] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:53:11] local.INFO: class_exists: {"order_id":1,"status":"processing"}  
+[2025-02-05 17:53:11] local.INFO: UpdateStatusNotification {"order_id":1,"status":"processing"} 
+[2025-02-05 17:53:20] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:53:20] local.INFO: class_exists: {"order_id":1,"status":"ready"}  
+[2025-02-05 17:53:20] local.INFO: UpdateStatusNotification {"order_id":1,"status":"ready"} 
+[2025-02-05 17:53:26] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:53:26] local.INFO: class_exists: {"order_id":1,"status":"delivered"}  
+[2025-02-05 17:53:26] local.INFO: UpdateStatusNotification {"order_id":1,"status":"delivered"} 
+[2025-02-05 17:55:38] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:55:38] local.INFO: class_exists: {"order_id":1,"status":"pending"}  
+[2025-02-05 17:55:38] local.INFO: UpdateStatusNotification {"order_id":1,"status":"pending"} 
+[2025-02-05 17:55:44] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:55:44] local.INFO: class_exists: {"order_id":1,"status":"processing"}  
+[2025-02-05 17:55:44] local.INFO: UpdateStatusNotification {"order_id":1,"status":"processing"} 
+[2025-02-05 17:55:53] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:55:53] local.INFO: class_exists: {"order_id":1,"status":"ready"}  
+[2025-02-05 17:55:53] local.INFO: UpdateStatusNotification {"order_id":1,"status":"ready"} 
+[2025-02-05 17:55:59] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:55:59] local.INFO: class_exists: {"order_id":1,"status":"delivered"}  
+[2025-02-05 17:55:59] local.INFO: UpdateStatusNotification {"order_id":1,"status":"delivered"} 
+[2025-02-05 17:56:14] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:56:14] local.INFO: class_exists: {"order_id":2,"status":"pending"}  
+[2025-02-05 17:56:14] local.INFO: UpdateStatusNotification {"order_id":2,"status":"pending"} 
+[2025-02-05 17:56:17] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:56:17] local.INFO: class_exists: {"order_id":3,"status":"pending"}  
+[2025-02-05 17:56:17] local.INFO: UpdateStatusNotification {"order_id":3,"status":"pending"} 
+[2025-02-05 17:56:20] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:56:20] local.INFO: class_exists: {"order_id":2,"status":"processing"}  
+[2025-02-05 17:56:20] local.INFO: UpdateStatusNotification {"order_id":2,"status":"processing"} 
+[2025-02-05 17:56:23] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:56:23] local.INFO: class_exists: {"order_id":4,"status":"pending"}  
+[2025-02-05 17:56:23] local.INFO: UpdateStatusNotification {"order_id":4,"status":"pending"} 
+[2025-02-05 17:56:23] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:56:23] local.INFO: class_exists: {"order_id":3,"status":"processing"}  
+[2025-02-05 17:56:23] local.INFO: UpdateStatusNotification {"order_id":3,"status":"processing"} 
+[2025-02-05 17:56:29] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:56:29] local.INFO: class_exists: {"order_id":4,"status":"processing"}  
+[2025-02-05 17:56:29] local.INFO: UpdateStatusNotification {"order_id":4,"status":"processing"} 
+[2025-02-05 17:56:35] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:56:35] local.INFO: class_exists: {"order_id":2,"status":"ready"}  
+[2025-02-05 17:56:35] local.INFO: UpdateStatusNotification {"order_id":2,"status":"ready"} 
+[2025-02-05 17:56:38] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:56:38] local.INFO: class_exists: {"order_id":2,"status":"delivered"}  
+[2025-02-05 17:56:38] local.INFO: UpdateStatusNotification {"order_id":2,"status":"delivered"} 
+[2025-02-05 17:56:44] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:56:44] local.INFO: class_exists: {"order_id":3,"status":"ready"}  
+[2025-02-05 17:56:44] local.INFO: UpdateStatusNotification {"order_id":3,"status":"ready"} 
+[2025-02-05 17:56:50] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:56:50] local.INFO: class_exists: {"order_id":3,"status":"delivered"}  
+[2025-02-05 17:56:50] local.INFO: UpdateStatusNotification {"order_id":3,"status":"delivered"} 
+[2025-02-05 17:56:53] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:56:53] local.INFO: class_exists: {"order_id":4,"status":"ready"}  
+[2025-02-05 17:56:53] local.INFO: UpdateStatusNotification {"order_id":4,"status":"ready"} 
+[2025-02-05 17:56:59] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:56:59] local.INFO: class_exists: {"order_id":4,"status":"delivered"}  
+[2025-02-05 17:56:59] local.INFO: UpdateStatusNotification {"order_id":4,"status":"delivered"} 
+[2025-02-05 17:57:41] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:57:41] local.INFO: class_exists: {"order_id":1,"status":"pending"}  
+[2025-02-05 17:57:41] local.INFO: UpdateStatusNotification {"order_id":1,"status":"pending"} 
+[2025-02-05 17:57:47] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:57:47] local.INFO: class_exists: {"order_id":2,"status":"pending"}  
+[2025-02-05 17:57:47] local.INFO: UpdateStatusNotification {"order_id":2,"status":"pending"} 
+[2025-02-05 17:57:47] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:57:47] local.INFO: class_exists: {"order_id":1,"status":"processing"}  
+[2025-02-05 17:57:47] local.INFO: UpdateStatusNotification {"order_id":1,"status":"processing"} 
+[2025-02-05 17:57:50] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:57:50] local.INFO: class_exists: {"order_id":3,"status":"pending"}  
+[2025-02-05 17:57:50] local.INFO: UpdateStatusNotification {"order_id":3,"status":"pending"} 
+[2025-02-05 17:57:50] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:57:50] local.INFO: class_exists: {"order_id":2,"status":"processing"}  
+[2025-02-05 17:57:50] local.INFO: UpdateStatusNotification {"order_id":2,"status":"processing"} 
+[2025-02-05 17:57:56] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:57:56] local.INFO: class_exists: {"order_id":4,"status":"pending"}  
+[2025-02-05 17:57:56] local.INFO: UpdateStatusNotification {"order_id":4,"status":"pending"} 
+[2025-02-05 17:57:56] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:57:56] local.INFO: class_exists: {"order_id":3,"status":"processing"}  
+[2025-02-05 17:57:56] local.INFO: UpdateStatusNotification {"order_id":3,"status":"processing"} 
+[2025-02-05 17:58:02] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:58:02] local.INFO: class_exists: {"order_id":5,"status":"pending"}  
+[2025-02-05 17:58:02] local.INFO: UpdateStatusNotification {"order_id":5,"status":"pending"} 
+[2025-02-05 17:58:02] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:58:02] local.INFO: class_exists: {"order_id":4,"status":"processing"}  
+[2025-02-05 17:58:02] local.INFO: UpdateStatusNotification {"order_id":4,"status":"processing"} 
+[2025-02-05 17:58:05] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:58:05] local.INFO: class_exists: {"order_id":5,"status":"processing"}  
+[2025-02-05 17:58:05] local.INFO: UpdateStatusNotification {"order_id":5,"status":"processing"} 
+[2025-02-05 17:58:11] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:58:11] local.INFO: class_exists: {"order_id":1,"status":"ready"}  
+[2025-02-05 17:58:11] local.INFO: UpdateStatusNotification {"order_id":1,"status":"ready"} 
+[2025-02-05 17:58:17] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:58:17] local.INFO: class_exists: {"order_id":1,"status":"delivered"}  
+[2025-02-05 17:58:17] local.INFO: UpdateStatusNotification {"order_id":1,"status":"delivered"} 
+[2025-02-05 17:58:20] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:58:20] local.INFO: class_exists: {"order_id":2,"status":"ready"}  
+[2025-02-05 17:58:20] local.INFO: UpdateStatusNotification {"order_id":2,"status":"ready"} 
+[2025-02-05 17:58:26] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:58:26] local.INFO: class_exists: {"order_id":2,"status":"delivered"}  
+[2025-02-05 17:58:26] local.INFO: UpdateStatusNotification {"order_id":2,"status":"delivered"} 
+[2025-02-05 17:58:32] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:58:32] local.INFO: class_exists: {"order_id":3,"status":"ready"}  
+[2025-02-05 17:58:32] local.INFO: UpdateStatusNotification {"order_id":3,"status":"ready"} 
+[2025-02-05 17:58:35] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:58:35] local.INFO: class_exists: {"order_id":3,"status":"delivered"}  
+[2025-02-05 17:58:35] local.INFO: UpdateStatusNotification {"order_id":3,"status":"delivered"} 
+[2025-02-05 17:58:41] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:58:41] local.INFO: class_exists: {"order_id":4,"status":"ready"}  
+[2025-02-05 17:58:41] local.INFO: UpdateStatusNotification {"order_id":4,"status":"ready"} 
+[2025-02-05 17:58:47] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:58:47] local.INFO: class_exists: {"order_id":4,"status":"delivered"}  
+[2025-02-05 17:58:47] local.INFO: UpdateStatusNotification {"order_id":4,"status":"delivered"} 
+[2025-02-05 17:58:50] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:58:50] local.INFO: class_exists: {"order_id":5,"status":"ready"}  
+[2025-02-05 17:58:50] local.INFO: UpdateStatusNotification {"order_id":5,"status":"ready"} 
+[2025-02-05 17:58:56] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 17:58:56] local.INFO: class_exists: {"order_id":5,"status":"delivered"}  
+[2025-02-05 17:58:56] local.INFO: UpdateStatusNotification {"order_id":5,"status":"delivered"} 
+[2025-02-05 18:01:53] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:01:53] local.INFO: class_exists: {"order_id":6,"status":"pending"}  
+[2025-02-05 18:01:53] local.INFO: UpdateStatusNotification {"order_id":6,"status":"pending"} 
+[2025-02-05 18:01:59] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:01:59] local.INFO: class_exists: {"order_id":7,"status":"pending"}  
+[2025-02-05 18:01:59] local.INFO: UpdateStatusNotification {"order_id":7,"status":"pending"} 
+[2025-02-05 18:01:59] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:01:59] local.INFO: class_exists: {"order_id":6,"status":"awaiting"}  
+[2025-02-05 18:01:59] local.INFO: UpdateStatusNotification {"order_id":6,"status":"awaiting"} 
+[2025-02-05 18:02:02] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:02:02] local.INFO: class_exists: {"order_id":8,"status":"pending"}  
+[2025-02-05 18:02:02] local.INFO: UpdateStatusNotification {"order_id":8,"status":"pending"} 
+[2025-02-05 18:02:05] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:02:05] local.INFO: class_exists: {"order_id":6,"status":"processing"}  
+[2025-02-05 18:02:05] local.INFO: UpdateStatusNotification {"order_id":6,"status":"processing"} 
+[2025-02-05 18:02:05] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:02:05] local.INFO: class_exists: {"order_id":7,"status":"awaiting"}  
+[2025-02-05 18:02:05] local.INFO: UpdateStatusNotification {"order_id":7,"status":"awaiting"} 
+[2025-02-05 18:02:11] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:02:11] local.INFO: class_exists: {"order_id":7,"status":"processing"}  
+[2025-02-05 18:02:11] local.INFO: UpdateStatusNotification {"order_id":7,"status":"processing"} 
+[2025-02-05 18:02:11] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:02:11] local.INFO: class_exists: {"order_id":8,"status":"awaiting"}  
+[2025-02-05 18:02:11] local.INFO: UpdateStatusNotification {"order_id":8,"status":"awaiting"} 
+[2025-02-05 18:02:17] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:02:17] local.INFO: class_exists: {"order_id":6,"status":"ready"}  
+[2025-02-05 18:02:17] local.INFO: UpdateStatusNotification {"order_id":6,"status":"ready"} 
+[2025-02-05 18:02:17] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:02:17] local.INFO: class_exists: {"order_id":8,"status":"processing"}  
+[2025-02-05 18:02:17] local.INFO: UpdateStatusNotification {"order_id":8,"status":"processing"} 
+[2025-02-05 18:02:20] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:02:20] local.INFO: class_exists: {"order_id":6,"status":"delivered"}  
+[2025-02-05 18:02:20] local.INFO: UpdateStatusNotification {"order_id":6,"status":"delivered"} 
+[2025-02-05 18:02:26] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:02:26] local.INFO: class_exists: {"order_id":7,"status":"ready"}  
+[2025-02-05 18:02:26] local.INFO: UpdateStatusNotification {"order_id":7,"status":"ready"} 
+[2025-02-05 18:02:32] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:02:32] local.INFO: class_exists: {"order_id":7,"status":"delivered"}  
+[2025-02-05 18:02:32] local.INFO: UpdateStatusNotification {"order_id":7,"status":"delivered"} 
+[2025-02-05 18:02:35] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:02:35] local.INFO: class_exists: {"order_id":8,"status":"ready"}  
+[2025-02-05 18:02:35] local.INFO: UpdateStatusNotification {"order_id":8,"status":"ready"} 
+[2025-02-05 18:02:41] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:02:41] local.INFO: class_exists: {"order_id":8,"status":"delivered"}  
+[2025-02-05 18:02:41] local.INFO: UpdateStatusNotification {"order_id":8,"status":"delivered"} 
+[2025-02-05 18:09:08] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:09:08] local.INFO: class_exists: {"order_id":1,"status":"pending"}  
+[2025-02-05 18:09:08] local.INFO: UpdateStatusNotification {"order_id":1,"status":"pending"} 
+[2025-02-05 18:09:14] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:09:14] local.INFO: class_exists: {"order_id":2,"status":"pending"}  
+[2025-02-05 18:09:14] local.INFO: UpdateStatusNotification {"order_id":2,"status":"pending"} 
+[2025-02-05 18:09:14] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:09:14] local.INFO: class_exists: {"order_id":1,"status":"processing"}  
+[2025-02-05 18:09:14] local.INFO: UpdateStatusNotification {"order_id":1,"status":"processing"} 
+[2025-02-05 18:09:17] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:09:17] local.INFO: class_exists: {"order_id":3,"status":"pending"}  
+[2025-02-05 18:09:17] local.INFO: UpdateStatusNotification {"order_id":3,"status":"pending"} 
+[2025-02-05 18:09:20] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:09:20] local.INFO: class_exists: {"order_id":2,"status":"processing"}  
+[2025-02-05 18:09:20] local.INFO: UpdateStatusNotification {"order_id":2,"status":"processing"} 
+[2025-02-05 18:09:23] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:09:23] local.INFO: class_exists: {"order_id":4,"status":"pending"}  
+[2025-02-05 18:09:23] local.INFO: UpdateStatusNotification {"order_id":4,"status":"pending"} 
+[2025-02-05 18:09:23] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:09:23] local.INFO: class_exists: {"order_id":3,"status":"processing"}  
+[2025-02-05 18:09:23] local.INFO: UpdateStatusNotification {"order_id":3,"status":"processing"} 
+[2025-02-05 18:09:29] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:09:29] local.INFO: class_exists: {"order_id":5,"status":"pending"}  
+[2025-02-05 18:09:29] local.INFO: UpdateStatusNotification {"order_id":5,"status":"pending"} 
+[2025-02-05 18:09:29] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:09:29] local.INFO: class_exists: {"order_id":4,"status":"processing"}  
+[2025-02-05 18:09:29] local.INFO: UpdateStatusNotification {"order_id":4,"status":"processing"} 
+[2025-02-05 18:09:32] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:09:32] local.INFO: class_exists: {"order_id":6,"status":"pending"}  
+[2025-02-05 18:09:32] local.INFO: UpdateStatusNotification {"order_id":6,"status":"pending"} 
+[2025-02-05 18:09:35] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:09:35] local.INFO: class_exists: {"order_id":5,"status":"processing"}  
+[2025-02-05 18:09:35] local.INFO: UpdateStatusNotification {"order_id":5,"status":"processing"} 
+[2025-02-05 18:09:38] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:09:38] local.INFO: class_exists: {"order_id":6,"status":"awaiting"}  
+[2025-02-05 18:09:38] local.INFO: UpdateStatusNotification {"order_id":6,"status":"awaiting"} 
+[2025-02-05 18:09:44] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:09:44] local.INFO: class_exists: {"order_id":1,"status":"ready"}  
+[2025-02-05 18:09:44] local.INFO: UpdateStatusNotification {"order_id":1,"status":"ready"} 
+[2025-02-05 18:09:44] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:09:44] local.INFO: class_exists: {"order_id":6,"status":"processing"}  
+[2025-02-05 18:09:44] local.INFO: UpdateStatusNotification {"order_id":6,"status":"processing"} 
+[2025-02-05 18:09:47] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:09:47] local.INFO: class_exists: {"order_id":1,"status":"delivered"}  
+[2025-02-05 18:09:47] local.INFO: UpdateStatusNotification {"order_id":1,"status":"delivered"} 
+[2025-02-05 18:09:53] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:09:53] local.INFO: class_exists: {"order_id":2,"status":"ready"}  
+[2025-02-05 18:09:53] local.INFO: UpdateStatusNotification {"order_id":2,"status":"ready"} 
+[2025-02-05 18:09:59] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:09:59] local.INFO: class_exists: {"order_id":2,"status":"delivered"}  
+[2025-02-05 18:09:59] local.INFO: UpdateStatusNotification {"order_id":2,"status":"delivered"} 
+[2025-02-05 18:10:02] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:10:02] local.INFO: class_exists: {"order_id":3,"status":"ready"}  
+[2025-02-05 18:10:02] local.INFO: UpdateStatusNotification {"order_id":3,"status":"ready"} 
+[2025-02-05 18:10:08] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:10:08] local.INFO: class_exists: {"order_id":3,"status":"delivered"}  
+[2025-02-05 18:10:08] local.INFO: UpdateStatusNotification {"order_id":3,"status":"delivered"} 
+[2025-02-05 18:10:14] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:10:14] local.INFO: class_exists: {"order_id":4,"status":"ready"}  
+[2025-02-05 18:10:14] local.INFO: UpdateStatusNotification {"order_id":4,"status":"ready"} 
+[2025-02-05 18:10:17] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:10:17] local.INFO: class_exists: {"order_id":4,"status":"delivered"}  
+[2025-02-05 18:10:17] local.INFO: UpdateStatusNotification {"order_id":4,"status":"delivered"} 
+[2025-02-05 18:10:23] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:10:23] local.INFO: class_exists: {"order_id":5,"status":"ready"}  
+[2025-02-05 18:10:23] local.INFO: UpdateStatusNotification {"order_id":5,"status":"ready"} 
+[2025-02-05 18:10:29] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:10:29] local.INFO: class_exists: {"order_id":5,"status":"delivered"}  
+[2025-02-05 18:10:29] local.INFO: UpdateStatusNotification {"order_id":5,"status":"delivered"} 
+[2025-02-05 18:10:32] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:10:32] local.INFO: class_exists: {"order_id":6,"status":"ready"}  
+[2025-02-05 18:10:32] local.INFO: UpdateStatusNotification {"order_id":6,"status":"ready"} 
+[2025-02-05 18:10:38] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:10:38] local.INFO: class_exists: {"order_id":6,"status":"delivered"}  
+[2025-02-05 18:10:38] local.INFO: UpdateStatusNotification {"order_id":6,"status":"delivered"} 
+[2025-02-05 18:12:24] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:12:24] local.INFO: class_exists: {"order_id":7,"status":"pending"}  
+[2025-02-05 18:12:24] local.INFO: UpdateStatusNotification {"order_id":7,"status":"pending"} 
+[2025-02-05 18:12:30] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:12:30] local.INFO: class_exists: {"order_id":8,"status":"pending"}  
+[2025-02-05 18:12:30] local.INFO: UpdateStatusNotification {"order_id":8,"status":"pending"} 
+[2025-02-05 18:12:30] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:12:30] local.INFO: class_exists: {"order_id":7,"status":"processing"}  
+[2025-02-05 18:12:30] local.INFO: UpdateStatusNotification {"order_id":7,"status":"processing"} 
+[2025-02-05 18:12:33] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:12:33] local.INFO: class_exists: {"order_id":9,"status":"pending"}  
+[2025-02-05 18:12:33] local.INFO: UpdateStatusNotification {"order_id":9,"status":"pending"} 
+[2025-02-05 18:12:36] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:12:36] local.INFO: class_exists: {"order_id":8,"status":"processing"}  
+[2025-02-05 18:12:36] local.INFO: UpdateStatusNotification {"order_id":8,"status":"processing"} 
+[2025-02-05 18:12:42] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:12:42] local.INFO: class_exists: {"order_id":9,"status":"processing"}  
+[2025-02-05 18:12:42] local.INFO: UpdateStatusNotification {"order_id":9,"status":"processing"} 
+[2025-02-05 18:12:45] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:12:45] local.INFO: class_exists: {"order_id":7,"status":"ready"}  
+[2025-02-05 18:12:45] local.INFO: UpdateStatusNotification {"order_id":7,"status":"ready"} 
+[2025-02-05 18:12:48] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:12:48] local.INFO: class_exists: {"order_id":7,"status":"delivered"}  
+[2025-02-05 18:12:48] local.INFO: UpdateStatusNotification {"order_id":7,"status":"delivered"} 
+[2025-02-05 18:12:54] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:12:54] local.INFO: class_exists: {"order_id":8,"status":"ready"}  
+[2025-02-05 18:12:54] local.INFO: UpdateStatusNotification {"order_id":8,"status":"ready"} 
+[2025-02-05 18:13:00] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:13:00] local.INFO: class_exists: {"order_id":8,"status":"delivered"}  
+[2025-02-05 18:13:00] local.INFO: UpdateStatusNotification {"order_id":8,"status":"delivered"} 
+[2025-02-05 18:13:03] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:13:03] local.INFO: class_exists: {"order_id":9,"status":"ready"}  
+[2025-02-05 18:13:03] local.INFO: UpdateStatusNotification {"order_id":9,"status":"ready"} 
+[2025-02-05 18:13:09] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:13:09] local.INFO: class_exists: {"order_id":9,"status":"delivered"}  
+[2025-02-05 18:13:09] local.INFO: UpdateStatusNotification {"order_id":9,"status":"delivered"} 
+[2025-02-05 18:13:18] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:13:18] local.INFO: class_exists: {"order_id":10,"status":"pending"}  
+[2025-02-05 18:13:18] local.INFO: UpdateStatusNotification {"order_id":10,"status":"pending"} 
+[2025-02-05 18:13:24] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:13:24] local.INFO: class_exists: {"order_id":11,"status":"pending"}  
+[2025-02-05 18:13:24] local.INFO: UpdateStatusNotification {"order_id":11,"status":"pending"} 
+[2025-02-05 18:13:24] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:13:24] local.INFO: class_exists: {"order_id":10,"status":"awaiting"}  
+[2025-02-05 18:13:24] local.INFO: UpdateStatusNotification {"order_id":10,"status":"awaiting"} 
+[2025-02-05 18:13:27] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:13:27] local.INFO: class_exists: {"order_id":12,"status":"pending"}  
+[2025-02-05 18:13:27] local.INFO: UpdateStatusNotification {"order_id":12,"status":"pending"} 
+[2025-02-05 18:13:30] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:13:30] local.INFO: class_exists: {"order_id":10,"status":"processing"}  
+[2025-02-05 18:13:30] local.INFO: UpdateStatusNotification {"order_id":10,"status":"processing"} 
+[2025-02-05 18:13:30] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:13:30] local.INFO: class_exists: {"order_id":11,"status":"awaiting"}  
+[2025-02-05 18:13:30] local.INFO: UpdateStatusNotification {"order_id":11,"status":"awaiting"} 
+[2025-02-05 18:13:33] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:13:33] local.INFO: class_exists: {"order_id":13,"status":"pending"}  
+[2025-02-05 18:13:33] local.INFO: UpdateStatusNotification {"order_id":13,"status":"pending"} 
+[2025-02-05 18:13:36] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:13:36] local.INFO: class_exists: {"order_id":11,"status":"processing"}  
+[2025-02-05 18:13:36] local.INFO: UpdateStatusNotification {"order_id":11,"status":"processing"} 
+[2025-02-05 18:13:36] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:13:36] local.INFO: class_exists: {"order_id":12,"status":"awaiting"}  
+[2025-02-05 18:13:36] local.INFO: UpdateStatusNotification {"order_id":12,"status":"awaiting"} 
+[2025-02-05 18:13:42] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:13:42] local.INFO: class_exists: {"order_id":12,"status":"processing"}  
+[2025-02-05 18:13:42] local.INFO: UpdateStatusNotification {"order_id":12,"status":"processing"} 
+[2025-02-05 18:13:42] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:13:42] local.INFO: class_exists: {"order_id":13,"status":"processing"}  
+[2025-02-05 18:13:42] local.INFO: UpdateStatusNotification {"order_id":13,"status":"processing"} 
+[2025-02-05 18:13:42] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:13:42] local.INFO: class_exists: {"order_id":10,"status":"ready"}  
+[2025-02-05 18:13:42] local.INFO: UpdateStatusNotification {"order_id":10,"status":"ready"} 
+[2025-02-05 18:13:48] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:13:48] local.INFO: class_exists: {"order_id":10,"status":"delivered"}  
+[2025-02-05 18:13:48] local.INFO: UpdateStatusNotification {"order_id":10,"status":"delivered"} 
+[2025-02-05 18:13:54] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:13:54] local.INFO: class_exists: {"order_id":11,"status":"ready"}  
+[2025-02-05 18:13:54] local.INFO: UpdateStatusNotification {"order_id":11,"status":"ready"} 
+[2025-02-05 18:14:00] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:14:00] local.INFO: class_exists: {"order_id":11,"status":"delivered"}  
+[2025-02-05 18:14:00] local.INFO: UpdateStatusNotification {"order_id":11,"status":"delivered"} 
+[2025-02-05 18:14:03] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:14:03] local.INFO: class_exists: {"order_id":12,"status":"ready"}  
+[2025-02-05 18:14:03] local.INFO: UpdateStatusNotification {"order_id":12,"status":"ready"} 
+[2025-02-05 18:14:09] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:14:09] local.INFO: class_exists: {"order_id":12,"status":"delivered"}  
+[2025-02-05 18:14:09] local.INFO: UpdateStatusNotification {"order_id":12,"status":"delivered"} 
+[2025-02-05 18:14:15] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:14:15] local.INFO: class_exists: {"order_id":13,"status":"ready"}  
+[2025-02-05 18:14:15] local.INFO: UpdateStatusNotification {"order_id":13,"status":"ready"} 
+[2025-02-05 18:14:18] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:14:18] local.INFO: class_exists: {"order_id":13,"status":"delivered"}  
+[2025-02-05 18:14:18] local.INFO: UpdateStatusNotification {"order_id":13,"status":"delivered"} 
+[2025-02-05 18:17:18] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:17:18] local.INFO: class_exists: {"order_id":1,"status":"pending"}  
+[2025-02-05 18:17:18] local.INFO: UpdateStatusNotification {"order_id":1,"status":"pending"} 
+[2025-02-05 18:17:24] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:17:24] local.INFO: class_exists: {"order_id":2,"status":"pending"}  
+[2025-02-05 18:17:24] local.INFO: UpdateStatusNotification {"order_id":2,"status":"pending"} 
+[2025-02-05 18:17:27] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:17:27] local.INFO: class_exists: {"order_id":1,"status":"processing"}  
+[2025-02-05 18:17:27] local.INFO: UpdateStatusNotification {"order_id":1,"status":"processing"} 
+[2025-02-05 18:17:30] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:17:30] local.INFO: class_exists: {"order_id":3,"status":"pending"}  
+[2025-02-05 18:17:30] local.INFO: UpdateStatusNotification {"order_id":3,"status":"pending"} 
+[2025-02-05 18:17:30] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:17:30] local.INFO: class_exists: {"order_id":2,"status":"processing"}  
+[2025-02-05 18:17:30] local.INFO: UpdateStatusNotification {"order_id":2,"status":"processing"} 
+[2025-02-05 18:17:33] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:17:33] local.INFO: class_exists: {"order_id":4,"status":"pending"}  
+[2025-02-05 18:17:33] local.INFO: UpdateStatusNotification {"order_id":4,"status":"pending"} 
+[2025-02-05 18:17:36] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:17:36] local.INFO: class_exists: {"order_id":3,"status":"processing"}  
+[2025-02-05 18:17:36] local.INFO: UpdateStatusNotification {"order_id":3,"status":"processing"} 
+[2025-02-05 18:17:39] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:17:39] local.INFO: class_exists: {"order_id":5,"status":"pending"}  
+[2025-02-05 18:17:39] local.INFO: UpdateStatusNotification {"order_id":5,"status":"pending"} 
+[2025-02-05 18:17:42] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:17:42] local.INFO: class_exists: {"order_id":4,"status":"processing"}  
+[2025-02-05 18:17:42] local.INFO: UpdateStatusNotification {"order_id":4,"status":"processing"} 
+[2025-02-05 18:17:45] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:17:45] local.INFO: class_exists: {"order_id":5,"status":"processing"}  
+[2025-02-05 18:17:45] local.INFO: UpdateStatusNotification {"order_id":5,"status":"processing"} 
+[2025-02-05 18:17:48] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:17:48] local.INFO: class_exists: {"order_id":1,"status":"ready"}  
+[2025-02-05 18:17:48] local.INFO: UpdateStatusNotification {"order_id":1,"status":"ready"} 
+[2025-02-05 18:17:54] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:17:54] local.INFO: class_exists: {"order_id":1,"status":"delivered"}  
+[2025-02-05 18:17:54] local.INFO: UpdateStatusNotification {"order_id":1,"status":"delivered"} 
+[2025-02-05 18:18:00] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:18:00] local.INFO: class_exists: {"order_id":2,"status":"ready"}  
+[2025-02-05 18:18:00] local.INFO: UpdateStatusNotification {"order_id":2,"status":"ready"} 
+[2025-02-05 18:18:03] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:18:03] local.INFO: class_exists: {"order_id":2,"status":"delivered"}  
+[2025-02-05 18:18:03] local.INFO: UpdateStatusNotification {"order_id":2,"status":"delivered"} 
+[2025-02-05 18:18:09] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:18:09] local.INFO: class_exists: {"order_id":3,"status":"ready"}  
+[2025-02-05 18:18:09] local.INFO: UpdateStatusNotification {"order_id":3,"status":"ready"} 
+[2025-02-05 18:18:15] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:18:15] local.INFO: class_exists: {"order_id":3,"status":"delivered"}  
+[2025-02-05 18:18:15] local.INFO: UpdateStatusNotification {"order_id":3,"status":"delivered"} 
+[2025-02-05 18:18:18] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:18:18] local.INFO: class_exists: {"order_id":4,"status":"ready"}  
+[2025-02-05 18:18:18] local.INFO: UpdateStatusNotification {"order_id":4,"status":"ready"} 
+[2025-02-05 18:18:24] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:18:24] local.INFO: class_exists: {"order_id":4,"status":"delivered"}  
+[2025-02-05 18:18:24] local.INFO: UpdateStatusNotification {"order_id":4,"status":"delivered"} 
+[2025-02-05 18:18:30] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:18:30] local.INFO: class_exists: {"order_id":5,"status":"ready"}  
+[2025-02-05 18:18:30] local.INFO: UpdateStatusNotification {"order_id":5,"status":"ready"} 
+[2025-02-05 18:18:33] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:18:33] local.INFO: class_exists: {"order_id":5,"status":"delivered"}  
+[2025-02-05 18:18:33] local.INFO: UpdateStatusNotification {"order_id":5,"status":"delivered"} 
+[2025-02-05 18:19:39] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:19:39] local.INFO: class_exists: {"order_id":1,"status":"pending"}  
+[2025-02-05 18:19:39] local.INFO: UpdateStatusNotification {"order_id":1,"status":"pending"} 
+[2025-02-05 18:19:45] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:19:45] local.INFO: class_exists: {"order_id":2,"status":"pending"}  
+[2025-02-05 18:19:45] local.INFO: UpdateStatusNotification {"order_id":2,"status":"pending"} 
+[2025-02-05 18:19:48] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:19:48] local.INFO: class_exists: {"order_id":1,"status":"processing"}  
+[2025-02-05 18:19:48] local.INFO: UpdateStatusNotification {"order_id":1,"status":"processing"} 
+[2025-02-05 18:19:51] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:19:51] local.INFO: class_exists: {"order_id":3,"status":"pending"}  
+[2025-02-05 18:19:51] local.INFO: UpdateStatusNotification {"order_id":3,"status":"pending"} 
+[2025-02-05 18:19:54] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:19:54] local.INFO: class_exists: {"order_id":2,"status":"processing"}  
+[2025-02-05 18:19:54] local.INFO: UpdateStatusNotification {"order_id":2,"status":"processing"} 
+[2025-02-05 18:19:54] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:19:54] local.INFO: class_exists: {"order_id":4,"status":"pending"}  
+[2025-02-05 18:19:54] local.INFO: UpdateStatusNotification {"order_id":4,"status":"pending"} 
+[2025-02-05 18:19:57] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:19:57] local.INFO: class_exists: {"order_id":3,"status":"processing"}  
+[2025-02-05 18:19:57] local.INFO: UpdateStatusNotification {"order_id":3,"status":"processing"} 
+[2025-02-05 18:20:00] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:20:00] local.INFO: class_exists: {"order_id":5,"status":"pending"}  
+[2025-02-05 18:20:00] local.INFO: UpdateStatusNotification {"order_id":5,"status":"pending"} 
+[2025-02-05 18:20:03] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:20:03] local.INFO: class_exists: {"order_id":4,"status":"processing"}  
+[2025-02-05 18:20:03] local.INFO: UpdateStatusNotification {"order_id":4,"status":"processing"} 
+[2025-02-05 18:20:06] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:20:06] local.INFO: class_exists: {"order_id":6,"status":"pending"}  
+[2025-02-05 18:20:06] local.INFO: UpdateStatusNotification {"order_id":6,"status":"pending"} 
+[2025-02-05 18:20:09] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:20:09] local.INFO: class_exists: {"order_id":5,"status":"processing"}  
+[2025-02-05 18:20:09] local.INFO: UpdateStatusNotification {"order_id":5,"status":"processing"} 
+[2025-02-05 18:20:12] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:20:12] local.INFO: class_exists: {"order_id":6,"status":"awaiting"}  
+[2025-02-05 18:20:12] local.INFO: UpdateStatusNotification {"order_id":6,"status":"awaiting"} 
+[2025-02-05 18:20:15] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:20:15] local.INFO: class_exists: {"order_id":1,"status":"ready"}  
+[2025-02-05 18:20:15] local.INFO: UpdateStatusNotification {"order_id":1,"status":"ready"} 
+[2025-02-05 18:20:18] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:20:18] local.INFO: class_exists: {"order_id":6,"status":"processing"}  
+[2025-02-05 18:20:18] local.INFO: UpdateStatusNotification {"order_id":6,"status":"processing"} 
+[2025-02-05 18:20:21] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:20:21] local.INFO: class_exists: {"order_id":1,"status":"delivered"}  
+[2025-02-05 18:20:21] local.INFO: UpdateStatusNotification {"order_id":1,"status":"delivered"} 
+[2025-02-05 18:20:24] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:20:24] local.INFO: class_exists: {"order_id":2,"status":"ready"}  
+[2025-02-05 18:20:24] local.INFO: UpdateStatusNotification {"order_id":2,"status":"ready"} 
+[2025-02-05 18:20:30] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:20:30] local.INFO: class_exists: {"order_id":2,"status":"delivered"}  
+[2025-02-05 18:20:30] local.INFO: UpdateStatusNotification {"order_id":2,"status":"delivered"} 
+[2025-02-05 18:20:36] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:20:36] local.INFO: class_exists: {"order_id":3,"status":"ready"}  
+[2025-02-05 18:20:36] local.INFO: UpdateStatusNotification {"order_id":3,"status":"ready"} 
+[2025-02-05 18:20:39] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:20:39] local.INFO: class_exists: {"order_id":3,"status":"delivered"}  
+[2025-02-05 18:20:39] local.INFO: UpdateStatusNotification {"order_id":3,"status":"delivered"} 
+[2025-02-05 18:20:45] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:20:45] local.INFO: class_exists: {"order_id":4,"status":"ready"}  
+[2025-02-05 18:20:45] local.INFO: UpdateStatusNotification {"order_id":4,"status":"ready"} 
+[2025-02-05 18:20:51] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:20:51] local.INFO: class_exists: {"order_id":4,"status":"delivered"}  
+[2025-02-05 18:20:51] local.INFO: UpdateStatusNotification {"order_id":4,"status":"delivered"} 
+[2025-02-05 18:20:54] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:20:54] local.INFO: class_exists: {"order_id":5,"status":"ready"}  
+[2025-02-05 18:20:54] local.INFO: UpdateStatusNotification {"order_id":5,"status":"ready"} 
+[2025-02-05 18:21:00] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:21:00] local.INFO: class_exists: {"order_id":5,"status":"delivered"}  
+[2025-02-05 18:21:00] local.INFO: UpdateStatusNotification {"order_id":5,"status":"delivered"} 
+[2025-02-05 18:21:06] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:21:06] local.INFO: class_exists: {"order_id":6,"status":"ready"}  
+[2025-02-05 18:21:06] local.INFO: UpdateStatusNotification {"order_id":6,"status":"ready"} 
+[2025-02-05 18:21:09] local.INFO: isset: App\Actions\UpdateStatus  
+[2025-02-05 18:21:09] local.INFO: class_exists: {"order_id":6,"status":"delivered"}  
+[2025-02-05 18:21:09] local.INFO: UpdateStatusNotification {"order_id":6,"status":"delivered"} 

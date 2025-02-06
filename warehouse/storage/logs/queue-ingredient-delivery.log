@@ -1,0 +1,82 @@
+PHP Fatal error:  Declaration of Illuminate\Queue\InteractsWithQueue::attempts() must be compatible with VladimirYuldashev\LaravelQueueRabbitMQ\Queue\Jobs\RabbitMQJob::attempts(): int in /app/vendor/laravel/framework/src/Illuminate/Queue/InteractsWithQueue.php on line 30
+
+In InteractsWithQueue.php line 30:
+                                                                               
+  Declaration of Illuminate\Queue\InteractsWithQueue::attempts() must be comp  
+  atible with VladimirYuldashev\LaravelQueueRabbitMQ\Queue\Jobs\RabbitMQJob::  
+  attempts(): int                                                              
+                                                                               
+
+PHP Fatal error:  Declaration of Illuminate\Queue\InteractsWithQueue::attempts() must be compatible with VladimirYuldashev\LaravelQueueRabbitMQ\Queue\Jobs\RabbitMQJob::attempts(): int in /app/vendor/laravel/framework/src/Illuminate/Queue/InteractsWithQueue.php on line 30
+
+In InteractsWithQueue.php line 30:
+                                                                               
+  Declaration of Illuminate\Queue\InteractsWithQueue::attempts() must be comp  
+  atible with VladimirYuldashev\LaravelQueueRabbitMQ\Queue\Jobs\RabbitMQJob::  
+  attempts(): int                                                              
+                                                                               
+
+PHP Fatal error:  Declaration of Illuminate\Queue\InteractsWithQueue::attempts() must be compatible with VladimirYuldashev\LaravelQueueRabbitMQ\Queue\Jobs\RabbitMQJob::attempts(): int in /app/vendor/laravel/framework/src/Illuminate/Queue/InteractsWithQueue.php on line 30
+
+In InteractsWithQueue.php line 30:
+                                                                               
+  Declaration of Illuminate\Queue\InteractsWithQueue::attempts() must be comp  
+  atible with VladimirYuldashev\LaravelQueueRabbitMQ\Queue\Jobs\RabbitMQJob::  
+  attempts(): int                                                              
+                                                                               
+
+PHP Fatal error:  Declaration of Illuminate\Queue\InteractsWithQueue::attempts() must be compatible with VladimirYuldashev\LaravelQueueRabbitMQ\Queue\Jobs\RabbitMQJob::attempts(): int in /app/vendor/laravel/framework/src/Illuminate/Queue/InteractsWithQueue.php on line 30
+
+In InteractsWithQueue.php line 30:
+                                                                               
+  Declaration of Illuminate\Queue\InteractsWithQueue::attempts() must be comp  
+  atible with VladimirYuldashev\LaravelQueueRabbitMQ\Queue\Jobs\RabbitMQJob::  
+  attempts(): int                                                              
+                                                                               
+
+
+In StreamIO.php line 95:
+                                                                               
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connectio  
+  n refused)                                                                   
+                                                                               
+
+
+In StreamIO.php line 95:
+                                                                               
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connectio  
+  n refused)                                                                   
+                                                                               
+
+
+In StreamIO.php line 95:
+                                                                               
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connectio  
+  n refused)                                                                   
+                                                                               
+
+
+In StreamIO.php line 95:
+                                                                               
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connectio  
+  n refused)                                                                   
+                                                                               
+
+
+In StreamIO.php line 95:
+                                                                               
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connectio  
+  n refused)                                                                   
+                                                                               
+
+
+In StreamIO.php line 95:
+                                                                               
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connectio  
+  n refused)                                                                   
+                                                                               
+
+  2025-02-03 07:58:40 App\Jobs\ProcessIngredientDelivered ............ RUNNING
+  2025-02-03 07:58:40 App\Jobs\ProcessIngredientDelivered ........ 3.50ms DONE
+  2025-02-03 07:59:42 App\Jobs\ProcessIngredientDelivered ............ RUNNING
+  2025-02-03 07:59:42 App\Jobs\ProcessIngredientDelivered ........ 3.55ms DONE

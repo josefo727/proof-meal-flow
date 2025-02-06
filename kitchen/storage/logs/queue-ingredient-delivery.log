@@ -1,0 +1,1380 @@
+
+  2025-02-05 01:42:04 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 01:42:04 App\Jobs\ProcessRawRabbitMQPayload ........ 28.96ms DONE
+  2025-02-05 01:45:16 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 01:45:16 App\Jobs\ProcessRawRabbitMQPayload ........ 28.53ms DONE
+  2025-02-05 01:46:19 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 01:46:20 App\Jobs\ProcessRawRabbitMQPayload ........ 26.17ms DONE
+  2025-02-05 01:49:08 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 01:49:08 App\Jobs\ProcessRawRabbitMQPayload ........ 24.88ms DONE
+  2025-02-05 01:50:35 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 01:50:35 App\Jobs\ProcessRawRabbitMQPayload ........ 66.85ms DONE
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+  2025-02-05 09:53:02 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 09:53:03 App\Jobs\ProcessRawRabbitMQPayload ........ 72.95ms DONE
+  2025-02-05 09:56:45 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 09:56:45 App\Jobs\ProcessRawRabbitMQPayload ........ 32.57ms DONE
+  2025-02-05 09:58:33 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 09:58:33 App\Jobs\ProcessRawRabbitMQPayload ....... 139.61ms DONE
+  2025-02-05 10:02:00 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 10:02:00 App\Jobs\ProcessRawRabbitMQPayload ........ 13.30ms DONE
+  2025-02-05 10:11:32 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 10:11:32 App\Jobs\ProcessRawRabbitMQPayload ........ 49.46ms DONE
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+  2025-02-05 10:21:36 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 10:21:36 App\Jobs\ProcessRawRabbitMQPayload ........ 90.94ms DONE
+  2025-02-05 10:33:51 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 10:33:51 App\Jobs\ProcessRawRabbitMQPayload ........ 32.64ms DONE
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+  2025-02-05 10:40:45 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 10:40:46 App\Jobs\ProcessRawRabbitMQPayload ........ 79.40ms DONE
+  2025-02-05 10:44:31 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 10:44:31 App\Jobs\ProcessRawRabbitMQPayload ........ 26.50ms DONE
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+  2025-02-05 11:02:49 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 11:02:49 App\Jobs\ProcessRawRabbitMQPayload ....... 527.12ms DONE
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+In StreamIO.php line 95:
+                                                                               
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connectio  
+  n refused)                                                                   
+                                                                               
+
+
+In StreamIO.php line 95:
+                                                                               
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connectio  
+  n refused)                                                                   
+                                                                               
+
+
+In StreamIO.php line 95:
+                                                                               
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connectio  
+  n refused)                                                                   
+                                                                               
+
+
+In StreamIO.php line 95:
+                                                                               
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connectio  
+  n refused)                                                                   
+                                                                               
+
+
+In StreamIO.php line 95:
+                                                                               
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connectio  
+  n refused)                                                                   
+                                                                               
+
+
+In StreamIO.php line 95:
+                                                                               
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connectio  
+  n refused)                                                                   
+                                                                               
+
+
+In StreamIO.php line 95:
+                                                                               
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connectio  
+  n refused)                                                                   
+                                                                               
+
+
+In StreamIO.php line 95:
+                                                                               
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connectio  
+  n refused)                                                                   
+                                                                               
+
+
+In StreamIO.php line 95:
+                                                                               
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connectio  
+  n refused)                                                                   
+                                                                               
+
+  2025-02-05 13:50:00 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 13:50:01 App\Jobs\ProcessRawRabbitMQPayload ....... 588.64ms DONE
+  2025-02-05 13:51:49 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 13:51:49 App\Jobs\ProcessRawRabbitMQPayload ........ 32.23ms DONE
+  2025-02-05 14:04:46 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:04:47 App\Jobs\ProcessRawRabbitMQPayload ....... 379.42ms DONE
+  2025-02-05 14:10:32 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:10:32 App\Jobs\ProcessRawRabbitMQPayload ........ 33.17ms DONE
+  2025-02-05 14:17:26 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:17:26 App\Jobs\ProcessRawRabbitMQPayload ........ 26.59ms DONE
+  2025-02-05 14:18:02 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:18:02 App\Jobs\ProcessRawRabbitMQPayload ........ 28.26ms DONE
+  2025-02-05 14:33:00 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:33:00 App\Jobs\ProcessRawRabbitMQPayload ........ 26.78ms DONE
+  2025-02-05 14:38:03 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:38:03 App\Jobs\ProcessRawRabbitMQPayload ........ 32.09ms DONE
+  2025-02-05 14:38:39 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:38:39 App\Jobs\ProcessRawRabbitMQPayload ........ 34.01ms DONE
+  2025-02-05 14:42:15 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:42:15 App\Jobs\ProcessRawRabbitMQPayload ........ 33.63ms DONE
+  2025-02-05 14:45:51 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:45:51 App\Jobs\ProcessRawRabbitMQPayload ....... 110.04ms DONE
+  2025-02-05 14:50:00 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:50:00 App\Jobs\ProcessRawRabbitMQPayload ........ 25.84ms DONE
+  2025-02-05 14:56:10 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 14:56:10 App\Jobs\ProcessRawRabbitMQPayload ........ 32.94ms DONE
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+  2025-02-05 15:30:56 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:30:56 App\Jobs\ProcessRawRabbitMQPayload ........ 78.57ms DONE
+  2025-02-05 15:31:53 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:31:53 App\Jobs\ProcessRawRabbitMQPayload ........ 22.27ms DONE
+  2025-02-05 15:32:50 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:32:50 App\Jobs\ProcessRawRabbitMQPayload ........ 23.73ms DONE
+  2025-02-05 15:35:29 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:35:29 App\Jobs\ProcessRawRabbitMQPayload ........ 33.00ms DONE
+  2025-02-05 15:36:38 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:36:38 App\Jobs\ProcessRawRabbitMQPayload ........ 22.03ms DONE
+  2025-02-05 15:42:44 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:42:44 App\Jobs\ProcessRawRabbitMQPayload ........ 50.75ms DONE
+  2025-02-05 15:43:53 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:43:54 App\Jobs\ProcessRawRabbitMQPayload ........ 13.82ms DONE
+  2025-02-05 15:46:36 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:46:36 App\Jobs\ProcessRawRabbitMQPayload ........ 28.20ms DONE
+  2025-02-05 15:46:57 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:46:57 App\Jobs\ProcessRawRabbitMQPayload ........ 10.85ms DONE
+  2025-02-05 15:47:18 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:47:18 App\Jobs\ProcessRawRabbitMQPayload ........ 21.82ms DONE
+  2025-02-05 15:48:30 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:48:30 App\Jobs\ProcessRawRabbitMQPayload ........ 27.90ms DONE
+  2025-02-05 15:49:45 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:49:45 App\Jobs\ProcessRawRabbitMQPayload ........ 34.42ms DONE
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+  2025-02-05 15:51:49 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:51:49 App\Jobs\ProcessRawRabbitMQPayload ........ 51.77ms DONE
+  2025-02-05 15:52:55 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:52:55 App\Jobs\ProcessRawRabbitMQPayload ........ 26.03ms DONE
+  2025-02-05 15:53:34 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:53:34 App\Jobs\ProcessRawRabbitMQPayload ........ 32.10ms DONE
+  2025-02-05 15:57:52 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:57:52 App\Jobs\ProcessRawRabbitMQPayload ........ 11.67ms DONE
+  2025-02-05 15:58:55 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 15:58:55 App\Jobs\ProcessRawRabbitMQPayload ........ 36.48ms DONE
+  2025-02-05 16:02:10 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 16:02:10 App\Jobs\ProcessRawRabbitMQPayload ........ 26.47ms DONE
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+  2025-02-05 16:08:00 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 16:08:00 App\Jobs\ProcessRawRabbitMQPayload ........ 43.08ms DONE
+  2025-02-05 16:19:55 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 16:19:55 App\Jobs\ProcessRawRabbitMQPayload ........ 32.20ms DONE
+  2025-02-05 17:27:23 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:27:23 App\Jobs\ProcessRawRabbitMQPayload ........ 24.51ms DONE
+  2025-02-05 17:32:41 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:32:41 App\Jobs\ProcessRawRabbitMQPayload ........ 27.58ms DONE
+  2025-02-05 17:37:23 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:37:23 App\Jobs\ProcessRawRabbitMQPayload ........ 25.67ms DONE
+  2025-02-05 17:39:32 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:39:33 App\Jobs\ProcessRawRabbitMQPayload ........ 30.90ms DONE
+  2025-02-05 17:42:06 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:42:06 App\Jobs\ProcessRawRabbitMQPayload ........ 26.01ms DONE
+  2025-02-05 17:43:06 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:43:06 App\Jobs\ProcessRawRabbitMQPayload ........ 33.29ms DONE
+  2025-02-05 17:46:30 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:46:30 App\Jobs\ProcessRawRabbitMQPayload ........ 25.87ms DONE
+  2025-02-05 17:49:06 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:49:06 App\Jobs\ProcessRawRabbitMQPayload ........ 97.95ms DONE
+  2025-02-05 17:49:45 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:49:45 App\Jobs\ProcessRawRabbitMQPayload ........ 20.94ms DONE
+  2025-02-05 17:53:12 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:53:12 App\Jobs\ProcessRawRabbitMQPayload ........ 22.16ms DONE
+  2025-02-05 17:55:45 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:55:45 App\Jobs\ProcessRawRabbitMQPayload ........ 36.82ms DONE
+  2025-02-05 17:56:21 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:56:21 App\Jobs\ProcessRawRabbitMQPayload ........ 27.75ms DONE
+  2025-02-05 17:56:24 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:56:25 App\Jobs\ProcessRawRabbitMQPayload ....... 627.00ms DONE
+  2025-02-05 17:56:31 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:56:31 App\Jobs\ProcessRawRabbitMQPayload ........ 25.55ms DONE
+  2025-02-05 17:57:49 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:57:49 App\Jobs\ProcessRawRabbitMQPayload ........ 26.62ms DONE
+  2025-02-05 17:57:52 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:57:52 App\Jobs\ProcessRawRabbitMQPayload ........ 29.80ms DONE
+  2025-02-05 17:57:58 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:57:58 App\Jobs\ProcessRawRabbitMQPayload ........ 21.73ms DONE
+  2025-02-05 17:58:04 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:58:04 App\Jobs\ProcessRawRabbitMQPayload ........ 25.05ms DONE
+  2025-02-05 17:58:07 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 17:58:07 App\Jobs\ProcessRawRabbitMQPayload ........ 25.85ms DONE
+  2025-02-05 18:02:07 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:02:07 App\Jobs\ProcessRawRabbitMQPayload ........ 27.02ms DONE
+  2025-02-05 18:02:10 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:02:10 App\Jobs\ProcessRawRabbitMQPayload ........ 26.26ms DONE
+  2025-02-05 18:02:16 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:02:16 App\Jobs\ProcessRawRabbitMQPayload ........ 28.74ms DONE
+  2025-02-05 18:09:13 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:09:13 App\Jobs\ProcessRawRabbitMQPayload ........ 29.11ms DONE
+  2025-02-05 18:09:19 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:09:20 App\Jobs\ProcessRawRabbitMQPayload ........ 27.21ms DONE
+  2025-02-05 18:09:23 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:09:23 App\Jobs\ProcessRawRabbitMQPayload ........ 32.66ms DONE
+  2025-02-05 18:09:29 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:09:29 App\Jobs\ProcessRawRabbitMQPayload ........ 26.98ms DONE
+  2025-02-05 18:09:35 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:09:35 App\Jobs\ProcessRawRabbitMQPayload ........ 27.93ms DONE
+  2025-02-05 18:09:44 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:09:44 App\Jobs\ProcessRawRabbitMQPayload ........ 28.34ms DONE
+  2025-02-05 18:12:29 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:12:29 App\Jobs\ProcessRawRabbitMQPayload ........ 27.40ms DONE
+  2025-02-05 18:12:35 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:12:35 App\Jobs\ProcessRawRabbitMQPayload ........ 21.12ms DONE
+  2025-02-05 18:12:41 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:12:41 App\Jobs\ProcessRawRabbitMQPayload ........ 39.15ms DONE
+  2025-02-05 18:13:29 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:13:29 App\Jobs\ProcessRawRabbitMQPayload ........ 34.36ms DONE
+  2025-02-05 18:13:35 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:13:35 App\Jobs\ProcessRawRabbitMQPayload ........ 21.17ms DONE
+  2025-02-05 18:13:41 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:13:41 App\Jobs\ProcessRawRabbitMQPayload ........ 22.98ms DONE
+  2025-02-05 18:13:41 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:13:41 App\Jobs\ProcessRawRabbitMQPayload ........ 18.13ms DONE
+  2025-02-05 18:17:26 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:17:26 App\Jobs\ProcessRawRabbitMQPayload ........ 21.93ms DONE
+  2025-02-05 18:17:29 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:17:29 App\Jobs\ProcessRawRabbitMQPayload ........ 33.28ms DONE
+  2025-02-05 18:17:35 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:17:35 App\Jobs\ProcessRawRabbitMQPayload ........ 21.96ms DONE
+  2025-02-05 18:17:41 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:17:41 App\Jobs\ProcessRawRabbitMQPayload ........ 27.50ms DONE
+  2025-02-05 18:17:44 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:17:44 App\Jobs\ProcessRawRabbitMQPayload ........ 21.16ms DONE
+  2025-02-05 18:19:47 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:19:47 App\Jobs\ProcessRawRabbitMQPayload ........ 36.91ms DONE
+  2025-02-05 18:19:53 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:19:53 App\Jobs\ProcessRawRabbitMQPayload ........ 28.53ms DONE
+  2025-02-05 18:19:56 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:19:56 App\Jobs\ProcessRawRabbitMQPayload ........ 27.64ms DONE
+  2025-02-05 18:20:02 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:20:02 App\Jobs\ProcessRawRabbitMQPayload ........ 22.00ms DONE
+  2025-02-05 18:20:08 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:20:08 App\Jobs\ProcessRawRabbitMQPayload ........ 26.96ms DONE
+  2025-02-05 18:20:17 App\Jobs\ProcessRawRabbitMQPayload ............. RUNNING
+  2025-02-05 18:20:17 App\Jobs\ProcessRawRabbitMQPayload ........ 27.36ms DONE

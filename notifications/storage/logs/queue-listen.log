@@ -1,0 +1,600 @@
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2025-02-05 15:30:16 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:30:16 App\Events\UpdateStatusNotification ....... 43.58ms DONE
+  2025-02-05 15:30:48 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:30:48 App\Events\UpdateStatusNotification ....... 12.44ms DONE
+  2025-02-05 15:30:55 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:30:55 App\Events\UpdateStatusNotification ....... 12.60ms DONE
+  2025-02-05 15:30:58 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:30:58 App\Events\UpdateStatusNotification ....... 13.11ms DONE
+  2025-02-05 15:31:05 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:31:05 App\Events\UpdateStatusNotification ....... 12.81ms DONE
+  2025-02-05 15:31:11 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:31:11 App\Events\UpdateStatusNotification ....... 12.56ms DONE
+  2025-02-05 15:31:50 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:31:50 App\Events\UpdateStatusNotification ....... 12.26ms DONE
+  2025-02-05 15:31:56 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:31:56 App\Events\UpdateStatusNotification ....... 13.28ms DONE
+  2025-02-05 15:31:57 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:31:57 App\Events\UpdateStatusNotification ....... 14.57ms DONE
+  2025-02-05 15:32:03 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:32:03 App\Events\UpdateStatusNotification ....... 12.36ms DONE
+  2025-02-05 15:32:07 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:32:07 App\Events\UpdateStatusNotification ....... 17.46ms DONE
+  2025-02-05 15:32:48 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:32:48 App\Events\UpdateStatusNotification ....... 12.41ms DONE
+  2025-02-05 15:32:52 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:32:52 App\Events\UpdateStatusNotification ....... 12.52ms DONE
+  2025-02-05 15:32:52 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:32:52 App\Events\UpdateStatusNotification ....... 15.94ms DONE
+  2025-02-05 15:32:58 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:32:58 App\Events\UpdateStatusNotification ....... 12.57ms DONE
+  2025-02-05 15:33:05 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:33:05 App\Events\UpdateStatusNotification ....... 12.66ms DONE
+  2025-02-05 15:35:22 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:35:22 App\Events\UpdateStatusNotification ....... 12.91ms DONE
+  2025-02-05 15:35:29 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:35:29 App\Events\UpdateStatusNotification ....... 12.75ms DONE
+  2025-02-05 15:35:32 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:35:32 App\Events\UpdateStatusNotification ....... 12.71ms DONE
+  2025-02-05 15:35:42 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:35:42 App\Events\UpdateStatusNotification ....... 12.25ms DONE
+  2025-02-05 15:35:45 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:35:45 App\Events\UpdateStatusNotification ....... 12.04ms DONE
+  2025-02-05 15:36:27 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:36:27 App\Events\UpdateStatusNotification ....... 12.50ms DONE
+  2025-02-05 15:36:33 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:36:33 App\Events\UpdateStatusNotification ....... 13.23ms DONE
+  2025-02-05 15:36:37 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:36:37 App\Events\UpdateStatusNotification ....... 13.03ms DONE
+  2025-02-05 15:36:40 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:36:40 App\Events\UpdateStatusNotification ....... 12.23ms DONE
+  2025-02-05 15:36:50 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:36:50 App\Events\UpdateStatusNotification ....... 12.19ms DONE
+  2025-02-05 15:36:53 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:36:53 App\Events\UpdateStatusNotification ....... 13.25ms DONE
+  2025-02-05 15:39:53 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:39:53 App\Events\UpdateStatusNotification ....... 12.33ms DONE
+  2025-02-05 15:40:37 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:40:37 App\Events\UpdateStatusNotification ....... 13.24ms DONE
+  2025-02-05 15:40:47 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:40:47 App\Events\UpdateStatusNotification ....... 13.01ms DONE
+  2025-02-05 15:42:39 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:42:39 App\Events\UpdateStatusNotification ....... 11.99ms DONE
+  2025-02-05 15:42:46 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:42:46 App\Events\UpdateStatusNotification ....... 13.13ms DONE
+  2025-02-05 15:42:46 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:42:46 App\Events\UpdateStatusNotification ....... 12.52ms DONE
+  2025-02-05 15:42:56 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:42:56 App\Events\UpdateStatusNotification ....... 12.24ms DONE
+  2025-02-05 15:42:59 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:42:59 App\Events\UpdateStatusNotification ....... 12.92ms DONE
+  2025-02-05 15:43:47 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:43:47 App\Events\UpdateStatusNotification ....... 15.86ms DONE
+  2025-02-05 15:43:53 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:43:53 App\Events\UpdateStatusNotification ....... 13.10ms DONE
+  2025-02-05 15:43:57 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:43:57 App\Events\UpdateStatusNotification ....... 12.63ms DONE
+  2025-02-05 15:44:07 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:44:07 App\Events\UpdateStatusNotification ....... 12.31ms DONE
+  2025-02-05 15:44:07 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:44:07 App\Events\UpdateStatusNotification ....... 12.70ms DONE
+  2025-02-05 15:46:30 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:46:30 App\Events\UpdateStatusNotification ....... 11.97ms DONE
+  2025-02-05 15:46:34 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:46:34 App\Events\UpdateStatusNotification ....... 12.18ms DONE
+  2025-02-05 15:46:37 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:46:37 App\Events\UpdateStatusNotification ....... 20.18ms DONE
+  2025-02-05 15:46:47 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:46:47 App\Events\UpdateStatusNotification ....... 11.80ms DONE
+  2025-02-05 15:46:50 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:46:50 App\Events\UpdateStatusNotification ....... 17.95ms DONE
+  2025-02-05 15:46:51 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:46:51 App\Events\UpdateStatusNotification ....... 19.88ms DONE
+  2025-02-05 15:46:57 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:46:57 App\Events\UpdateStatusNotification ....... 19.57ms DONE
+  2025-02-05 15:47:01 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:47:01 App\Events\UpdateStatusNotification ....... 12.83ms DONE
+  2025-02-05 15:47:07 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:47:07 App\Events\UpdateStatusNotification ....... 12.83ms DONE
+  2025-02-05 15:47:11 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:47:11 App\Events\UpdateStatusNotification ....... 12.58ms DONE
+  2025-02-05 15:47:11 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:47:11 App\Events\UpdateStatusNotification ....... 18.93ms DONE
+  2025-02-05 15:47:18 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:47:18 App\Events\UpdateStatusNotification ....... 12.07ms DONE
+  2025-02-05 15:47:21 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:47:21 App\Events\UpdateStatusNotification ....... 12.55ms DONE
+  2025-02-05 15:47:31 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:47:31 App\Events\UpdateStatusNotification ....... 13.16ms DONE
+  2025-02-05 15:47:31 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:47:31 App\Events\UpdateStatusNotification ....... 15.73ms DONE
+  2025-02-05 15:48:16 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:48:16 App\Events\UpdateStatusNotification ....... 19.05ms DONE
+  2025-02-05 15:48:22 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:48:22 App\Events\UpdateStatusNotification ....... 11.75ms DONE
+  2025-02-05 15:48:29 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:48:29 App\Events\UpdateStatusNotification ....... 13.14ms DONE
+  2025-02-05 15:48:32 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:48:32 App\Events\UpdateStatusNotification ....... 13.07ms DONE
+  2025-02-05 15:48:42 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:48:42 App\Events\UpdateStatusNotification ....... 12.27ms DONE
+  2025-02-05 15:48:45 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:48:45 App\Events\UpdateStatusNotification ....... 17.47ms DONE
+  2025-02-05 15:49:40 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:49:40 App\Events\UpdateStatusNotification ....... 12.05ms DONE
+  2025-02-05 15:49:43 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:49:43 App\Events\UpdateStatusNotification ....... 12.16ms DONE
+  2025-02-05 15:49:47 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:49:47 App\Events\UpdateStatusNotification ....... 13.44ms DONE
+  2025-02-05 15:49:56 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:49:56 App\Events\UpdateStatusNotification ....... 18.56ms DONE
+  2025-02-05 15:50:00 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:50:00 App\Events\UpdateStatusNotification ....... 14.93ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2025-02-05 15:51:41 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:51:41 App\Events\UpdateStatusNotification ...... 431.92ms DONE
+  2025-02-05 15:51:45 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:51:45 App\Events\UpdateStatusNotification ....... 13.31ms DONE
+  2025-02-05 15:51:51 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:51:51 App\Events\UpdateStatusNotification ....... 14.70ms DONE
+  2025-02-05 15:51:58 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:51:58 App\Events\UpdateStatusNotification ....... 12.43ms DONE
+  2025-02-05 15:52:04 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:52:04 App\Events\UpdateStatusNotification ....... 12.15ms DONE
+  2025-02-05 15:52:52 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:52:52 App\Events\UpdateStatusNotification ....... 13.09ms DONE
+  2025-02-05 15:52:59 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:52:59 App\Events\UpdateStatusNotification ....... 12.59ms DONE
+  2025-02-05 15:53:02 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:53:02 App\Events\UpdateStatusNotification ....... 13.08ms DONE
+  2025-02-05 15:53:09 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:53:09 App\Events\UpdateStatusNotification ....... 12.20ms DONE
+  2025-02-05 15:53:31 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:53:31 App\Events\UpdateStatusNotification ....... 17.94ms DONE
+  2025-02-05 15:53:38 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:53:38 App\Events\UpdateStatusNotification ....... 13.55ms DONE
+  2025-02-05 15:53:44 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:53:44 App\Events\UpdateStatusNotification ....... 11.36ms DONE
+  2025-02-05 15:53:48 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:53:48 App\Events\UpdateStatusNotification ....... 15.89ms DONE
+  2025-02-05 15:57:50 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:57:50 App\Events\UpdateStatusNotification ....... 12.68ms DONE
+  2025-02-05 15:57:53 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:57:53 App\Events\UpdateStatusNotification ....... 15.68ms DONE
+  2025-02-05 15:58:03 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:58:03 App\Events\UpdateStatusNotification ....... 17.70ms DONE
+  2025-02-05 15:58:07 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:58:07 App\Events\UpdateStatusNotification ....... 14.66ms DONE
+  2025-02-05 15:58:52 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:58:52 App\Events\UpdateStatusNotification ....... 13.65ms DONE
+  2025-02-05 15:58:58 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:58:58 App\Events\UpdateStatusNotification ....... 12.34ms DONE
+  2025-02-05 15:59:08 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:59:08 App\Events\UpdateStatusNotification ....... 12.42ms DONE
+  2025-02-05 15:59:11 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 15:59:11 App\Events\UpdateStatusNotification ....... 14.89ms DONE
+  2025-02-05 16:02:07 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 16:02:07 App\Events\UpdateStatusNotification ....... 12.65ms DONE
+  2025-02-05 16:02:13 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 16:02:13 App\Events\UpdateStatusNotification ....... 16.16ms DONE
+  2025-02-05 16:02:23 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 16:02:23 App\Events\UpdateStatusNotification ....... 11.26ms DONE
+  2025-02-05 16:02:27 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 16:02:27 App\Events\UpdateStatusNotification ....... 12.97ms DONE
+  2025-02-05 16:03:34 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 16:03:34 App\Events\UpdateStatusNotification ....... 12.82ms DONE
+  2025-02-05 16:04:54 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 16:04:54 App\Events\UpdateStatusNotification ....... 12.40ms DONE
+
+   INFO  Processing jobs from the [default] queue.  
+
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2025-02-05 16:07:58 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 16:07:59 App\Events\UpdateStatusNotification ....... 50.98ms DONE
+  2025-02-05 16:08:02 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 16:08:02 App\Events\UpdateStatusNotification ....... 12.24ms DONE
+  2025-02-05 16:08:08 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 16:08:08 App\Events\UpdateStatusNotification ....... 16.29ms DONE
+  2025-02-05 16:08:15 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 16:08:15 App\Events\UpdateStatusNotification ....... 11.89ms DONE
+  2025-02-05 16:19:49 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 16:19:49 App\Events\UpdateStatusNotification ....... 12.87ms DONE
+  2025-02-05 16:19:56 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 16:19:56 App\Events\UpdateStatusNotification ....... 12.47ms DONE
+  2025-02-05 16:20:06 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 16:20:06 App\Events\UpdateStatusNotification ....... 12.57ms DONE
+  2025-02-05 16:20:09 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 16:20:09 App\Events\UpdateStatusNotification ....... 16.01ms DONE
+  2025-02-05 17:27:18 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:27:18 App\Events\UpdateStatusNotification ...... 347.66ms DONE
+  2025-02-05 17:27:21 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:27:22 App\Events\UpdateStatusNotification ....... 12.88ms DONE
+  2025-02-05 17:27:34 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:27:34 App\Events\UpdateStatusNotification ....... 12.18ms DONE
+  2025-02-05 17:27:38 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:27:38 App\Events\UpdateStatusNotification ....... 13.67ms DONE
+  2025-02-05 17:27:38 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:27:38 App\Events\UpdateStatusNotification ....... 12.76ms DONE
+  2025-02-05 17:32:34 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:32:35 App\Events\UpdateStatusNotification ....... 12.07ms DONE
+  2025-02-05 17:32:41 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:32:41 App\Events\UpdateStatusNotification ....... 14.81ms DONE
+  2025-02-05 17:32:54 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:32:54 App\Events\UpdateStatusNotification ....... 12.58ms DONE
+  2025-02-05 17:32:57 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:32:57 App\Events\UpdateStatusNotification ....... 16.55ms DONE
+  2025-02-05 17:37:16 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:37:16 App\Events\UpdateStatusNotification ....... 12.85ms DONE
+  2025-02-05 17:37:22 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:37:22 App\Events\UpdateStatusNotification ....... 16.44ms DONE
+  2025-02-05 17:37:35 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:37:35 App\Events\UpdateStatusNotification ....... 13.57ms DONE
+  2025-02-05 17:37:42 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:37:42 App\Events\UpdateStatusNotification ....... 12.21ms DONE
+  2025-02-05 17:39:27 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:39:27 App\Events\UpdateStatusNotification ....... 22.93ms DONE
+  2025-02-05 17:39:31 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:39:31 App\Events\UpdateStatusNotification ....... 12.30ms DONE
+  2025-02-05 17:39:41 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:39:41 App\Events\UpdateStatusNotification ....... 12.29ms DONE
+  2025-02-05 17:39:47 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:39:47 App\Events\UpdateStatusNotification ....... 12.34ms DONE
+  2025-02-05 17:41:58 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:41:58 App\Events\UpdateStatusNotification ....... 12.52ms DONE
+  2025-02-05 17:42:05 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:42:05 App\Events\UpdateStatusNotification ....... 13.04ms DONE
+  2025-02-05 17:42:15 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:42:15 App\Events\UpdateStatusNotification ....... 12.76ms DONE
+  2025-02-05 17:42:21 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:42:21 App\Events\UpdateStatusNotification ....... 12.68ms DONE
+  2025-02-05 17:43:00 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:43:00 App\Events\UpdateStatusNotification ....... 14.69ms DONE
+  2025-02-05 17:43:06 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:43:06 App\Events\UpdateStatusNotification ....... 14.64ms DONE
+  2025-02-05 17:43:16 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:43:16 App\Events\UpdateStatusNotification ....... 12.43ms DONE
+  2025-02-05 17:43:19 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:43:19 App\Events\UpdateStatusNotification ....... 17.52ms DONE
+  2025-02-05 17:46:24 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:46:24 App\Events\UpdateStatusNotification ....... 12.25ms DONE
+  2025-02-05 17:46:31 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:46:31 App\Events\UpdateStatusNotification ....... 16.57ms DONE
+  2025-02-05 17:46:37 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:46:37 App\Events\UpdateStatusNotification ....... 17.56ms DONE
+  2025-02-05 17:46:44 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:46:44 App\Events\UpdateStatusNotification ....... 19.93ms DONE
+  2025-02-05 17:48:58 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:48:58 App\Events\UpdateStatusNotification ....... 13.22ms DONE
+  2025-02-05 17:49:05 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:49:05 App\Events\UpdateStatusNotification ....... 30.28ms DONE
+  2025-02-05 17:49:15 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:49:15 App\Events\UpdateStatusNotification ....... 13.99ms DONE
+  2025-02-05 17:49:21 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:49:21 App\Events\UpdateStatusNotification ....... 12.09ms DONE
+  2025-02-05 17:49:41 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:49:41 App\Events\UpdateStatusNotification ....... 11.71ms DONE
+  2025-02-05 17:49:44 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:49:44 App\Events\UpdateStatusNotification ....... 12.50ms DONE
+  2025-02-05 17:49:54 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:49:54 App\Events\UpdateStatusNotification ....... 12.06ms DONE
+  2025-02-05 17:50:00 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:50:00 App\Events\UpdateStatusNotification ....... 14.20ms DONE
+  2025-02-05 17:53:05 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:53:05 App\Events\UpdateStatusNotification ....... 12.70ms DONE
+  2025-02-05 17:53:12 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:53:12 App\Events\UpdateStatusNotification ....... 12.10ms DONE
+  2025-02-05 17:53:22 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:53:22 App\Events\UpdateStatusNotification ....... 17.73ms DONE
+  2025-02-05 17:53:28 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:53:28 App\Events\UpdateStatusNotification ....... 12.83ms DONE
+  2025-02-05 17:55:39 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:55:39 App\Events\UpdateStatusNotification ....... 12.30ms DONE
+  2025-02-05 17:55:46 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:55:46 App\Events\UpdateStatusNotification ....... 12.13ms DONE
+  2025-02-05 17:55:55 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:55:55 App\Events\UpdateStatusNotification ....... 14.01ms DONE
+  2025-02-05 17:56:02 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:56:02 App\Events\UpdateStatusNotification ....... 11.86ms DONE
+  2025-02-05 17:56:15 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:56:15 App\Events\UpdateStatusNotification ....... 11.89ms DONE
+  2025-02-05 17:56:18 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:56:18 App\Events\UpdateStatusNotification ....... 14.42ms DONE
+  2025-02-05 17:56:22 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:56:22 App\Events\UpdateStatusNotification ....... 12.52ms DONE
+  2025-02-05 17:56:25 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:56:25 App\Events\UpdateStatusNotification ....... 17.45ms DONE
+  2025-02-05 17:56:25 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:56:25 App\Events\UpdateStatusNotification ....... 13.33ms DONE
+  2025-02-05 17:56:32 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:56:32 App\Events\UpdateStatusNotification ....... 12.22ms DONE
+  2025-02-05 17:56:35 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:56:35 App\Events\UpdateStatusNotification ....... 12.16ms DONE
+  2025-02-05 17:56:38 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:56:38 App\Events\UpdateStatusNotification ....... 19.69ms DONE
+  2025-02-05 17:56:45 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:56:45 App\Events\UpdateStatusNotification ....... 12.56ms DONE
+  2025-02-05 17:56:52 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:56:52 App\Events\UpdateStatusNotification ....... 12.56ms DONE
+  2025-02-05 17:56:55 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:56:55 App\Events\UpdateStatusNotification ....... 12.50ms DONE
+  2025-02-05 17:57:02 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:57:02 App\Events\UpdateStatusNotification ....... 12.30ms DONE
+  2025-02-05 17:57:43 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:57:43 App\Events\UpdateStatusNotification ....... 12.15ms DONE
+  2025-02-05 17:57:50 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:57:50 App\Events\UpdateStatusNotification ....... 12.38ms DONE
+  2025-02-05 17:57:50 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:57:50 App\Events\UpdateStatusNotification ....... 12.43ms DONE
+  2025-02-05 17:57:50 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:57:50 App\Events\UpdateStatusNotification ....... 12.57ms DONE
+  2025-02-05 17:57:50 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:57:50 App\Events\UpdateStatusNotification ....... 14.38ms DONE
+  2025-02-05 17:57:57 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:57:57 App\Events\UpdateStatusNotification ....... 12.19ms DONE
+  2025-02-05 17:57:57 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:57:57 App\Events\UpdateStatusNotification ....... 12.92ms DONE
+  2025-02-05 17:58:04 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:58:04 App\Events\UpdateStatusNotification ....... 12.38ms DONE
+  2025-02-05 17:58:04 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:58:04 App\Events\UpdateStatusNotification ....... 12.43ms DONE
+  2025-02-05 17:58:07 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:58:07 App\Events\UpdateStatusNotification ....... 12.22ms DONE
+  2025-02-05 17:58:14 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:58:14 App\Events\UpdateStatusNotification ....... 12.71ms DONE
+  2025-02-05 17:58:17 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:58:17 App\Events\UpdateStatusNotification ....... 18.97ms DONE
+  2025-02-05 17:58:20 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:58:20 App\Events\UpdateStatusNotification ....... 12.16ms DONE
+  2025-02-05 17:58:27 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:58:27 App\Events\UpdateStatusNotification ....... 12.44ms DONE
+  2025-02-05 17:58:34 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:58:34 App\Events\UpdateStatusNotification ....... 12.14ms DONE
+  2025-02-05 17:58:37 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:58:37 App\Events\UpdateStatusNotification ....... 12.16ms DONE
+  2025-02-05 17:58:43 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:58:43 App\Events\UpdateStatusNotification ....... 12.79ms DONE
+  2025-02-05 17:58:50 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:58:50 App\Events\UpdateStatusNotification ....... 12.46ms DONE
+  2025-02-05 17:58:50 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:58:50 App\Events\UpdateStatusNotification ....... 12.00ms DONE
+  2025-02-05 17:58:57 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 17:58:57 App\Events\UpdateStatusNotification ....... 14.15ms DONE
+  2025-02-05 18:01:55 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:01:55 App\Events\UpdateStatusNotification ....... 12.42ms DONE
+  2025-02-05 18:02:02 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:02:02 App\Events\UpdateStatusNotification ....... 12.34ms DONE
+  2025-02-05 18:02:02 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:02:02 App\Events\UpdateStatusNotification ....... 12.51ms DONE
+  2025-02-05 18:02:02 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:02:02 App\Events\UpdateStatusNotification ....... 13.34ms DONE
+  2025-02-05 18:02:06 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:02:06 App\Events\UpdateStatusNotification ....... 12.48ms DONE
+  2025-02-05 18:02:06 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:02:06 App\Events\UpdateStatusNotification ....... 12.38ms DONE
+  2025-02-05 18:02:12 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:02:12 App\Events\UpdateStatusNotification ....... 12.13ms DONE
+  2025-02-05 18:02:13 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:02:13 App\Events\UpdateStatusNotification ....... 12.52ms DONE
+  2025-02-05 18:02:19 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:02:19 App\Events\UpdateStatusNotification ....... 12.44ms DONE
+  2025-02-05 18:02:19 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:02:19 App\Events\UpdateStatusNotification ....... 12.47ms DONE
+  2025-02-05 18:02:23 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:02:23 App\Events\UpdateStatusNotification ....... 12.58ms DONE
+  2025-02-05 18:02:29 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:02:29 App\Events\UpdateStatusNotification ....... 12.22ms DONE
+  2025-02-05 18:02:33 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:02:33 App\Events\UpdateStatusNotification ....... 12.43ms DONE
+  2025-02-05 18:02:36 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:02:36 App\Events\UpdateStatusNotification ....... 12.18ms DONE
+  2025-02-05 18:02:43 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:02:43 App\Events\UpdateStatusNotification ....... 12.22ms DONE
+  2025-02-05 18:09:09 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:09:09 App\Events\UpdateStatusNotification ....... 11.97ms DONE
+  2025-02-05 18:09:15 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:09:15 App\Events\UpdateStatusNotification ....... 17.36ms DONE
+  2025-02-05 18:09:15 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:09:15 App\Events\UpdateStatusNotification ....... 18.45ms DONE
+  2025-02-05 18:09:19 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:09:19 App\Events\UpdateStatusNotification ....... 12.26ms DONE
+  2025-02-05 18:09:22 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:09:22 App\Events\UpdateStatusNotification ....... 12.11ms DONE
+  2025-02-05 18:09:26 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:09:26 App\Events\UpdateStatusNotification ....... 12.79ms DONE
+  2025-02-05 18:09:26 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:09:26 App\Events\UpdateStatusNotification ....... 12.35ms DONE
+  2025-02-05 18:09:32 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:09:32 App\Events\UpdateStatusNotification ....... 12.29ms DONE
+  2025-02-05 18:09:32 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:09:32 App\Events\UpdateStatusNotification ....... 11.90ms DONE
+  2025-02-05 18:09:33 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:09:33 App\Events\UpdateStatusNotification ....... 13.21ms DONE
+  2025-02-05 18:09:36 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:09:36 App\Events\UpdateStatusNotification ....... 12.08ms DONE
+  2025-02-05 18:09:39 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:09:39 App\Events\UpdateStatusNotification ....... 12.15ms DONE
+  2025-02-05 18:09:46 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:09:46 App\Events\UpdateStatusNotification ....... 12.73ms DONE
+  2025-02-05 18:09:46 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:09:46 App\Events\UpdateStatusNotification ....... 12.90ms DONE
+  2025-02-05 18:09:49 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:09:49 App\Events\UpdateStatusNotification ....... 12.26ms DONE
+  2025-02-05 18:09:56 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:09:56 App\Events\UpdateStatusNotification ....... 18.36ms DONE
+  2025-02-05 18:10:03 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:10:03 App\Events\UpdateStatusNotification ....... 12.83ms DONE
+  2025-02-05 18:10:03 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:10:03 App\Events\UpdateStatusNotification ....... 20.29ms DONE
+  2025-02-05 18:10:09 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:10:09 App\Events\UpdateStatusNotification ....... 12.28ms DONE
+  2025-02-05 18:10:16 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:10:16 App\Events\UpdateStatusNotification ....... 12.55ms DONE
+  2025-02-05 18:10:19 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:10:19 App\Events\UpdateStatusNotification ....... 11.98ms DONE
+  2025-02-05 18:10:26 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:10:26 App\Events\UpdateStatusNotification ....... 12.43ms DONE
+  2025-02-05 18:10:32 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:10:32 App\Events\UpdateStatusNotification ....... 12.70ms DONE
+  2025-02-05 18:10:33 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:10:33 App\Events\UpdateStatusNotification ....... 12.29ms DONE
+  2025-02-05 18:10:39 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:10:39 App\Events\UpdateStatusNotification ....... 13.55ms DONE
+  2025-02-05 18:12:25 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:12:25 App\Events\UpdateStatusNotification ....... 12.36ms DONE
+  2025-02-05 18:12:31 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:12:31 App\Events\UpdateStatusNotification ....... 11.90ms DONE
+  2025-02-05 18:12:32 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:12:32 App\Events\UpdateStatusNotification ....... 12.28ms DONE
+  2025-02-05 18:12:35 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:12:35 App\Events\UpdateStatusNotification ....... 12.23ms DONE
+  2025-02-05 18:12:38 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:12:38 App\Events\UpdateStatusNotification ....... 11.81ms DONE
+  2025-02-05 18:12:42 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:12:42 App\Events\UpdateStatusNotification ....... 12.42ms DONE
+  2025-02-05 18:12:45 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:12:45 App\Events\UpdateStatusNotification ....... 12.00ms DONE
+  2025-02-05 18:12:49 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:12:49 App\Events\UpdateStatusNotification ....... 12.35ms DONE
+  2025-02-05 18:12:55 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:12:55 App\Events\UpdateStatusNotification ....... 12.10ms DONE
+  2025-02-05 18:13:02 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:13:02 App\Events\UpdateStatusNotification ....... 12.82ms DONE
+  2025-02-05 18:13:05 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:13:05 App\Events\UpdateStatusNotification ....... 12.83ms DONE
+  2025-02-05 18:13:12 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:13:12 App\Events\UpdateStatusNotification ....... 12.01ms DONE
+  2025-02-05 18:13:18 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:13:18 App\Events\UpdateStatusNotification ....... 12.35ms DONE
+  2025-02-05 18:13:25 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:13:25 App\Events\UpdateStatusNotification ....... 12.32ms DONE
+  2025-02-05 18:13:25 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:13:25 App\Events\UpdateStatusNotification ....... 11.97ms DONE
+  2025-02-05 18:13:28 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:13:28 App\Events\UpdateStatusNotification ....... 12.19ms DONE
+  2025-02-05 18:13:32 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:13:32 App\Events\UpdateStatusNotification ....... 11.93ms DONE
+  2025-02-05 18:13:32 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:13:32 App\Events\UpdateStatusNotification ....... 12.91ms DONE
+  2025-02-05 18:13:35 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:13:35 App\Events\UpdateStatusNotification ....... 12.50ms DONE
+  2025-02-05 18:13:38 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:13:38 App\Events\UpdateStatusNotification ....... 13.46ms DONE
+  2025-02-05 18:13:39 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:13:39 App\Events\UpdateStatusNotification ....... 12.25ms DONE
+  2025-02-05 18:13:42 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:13:42 App\Events\UpdateStatusNotification ....... 13.01ms DONE
+  2025-02-05 18:13:42 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:13:42 App\Events\UpdateStatusNotification ....... 12.12ms DONE
+  2025-02-05 18:13:42 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:13:42 App\Events\UpdateStatusNotification ....... 11.91ms DONE
+  2025-02-05 18:13:49 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:13:49 App\Events\UpdateStatusNotification ....... 12.49ms DONE
+  2025-02-05 18:13:56 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:13:56 App\Events\UpdateStatusNotification ....... 12.80ms DONE
+  2025-02-05 18:14:02 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:14:02 App\Events\UpdateStatusNotification ....... 15.48ms DONE
+  2025-02-05 18:14:06 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:14:06 App\Events\UpdateStatusNotification ....... 12.22ms DONE
+  2025-02-05 18:14:09 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:14:09 App\Events\UpdateStatusNotification ....... 12.05ms DONE
+  2025-02-05 18:14:15 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:14:15 App\Events\UpdateStatusNotification ....... 12.08ms DONE
+  2025-02-05 18:14:19 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:14:19 App\Events\UpdateStatusNotification ....... 12.18ms DONE
+  2025-02-05 18:17:21 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:17:21 App\Events\UpdateStatusNotification ....... 13.08ms DONE
+  2025-02-05 18:17:24 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:17:24 App\Events\UpdateStatusNotification ....... 12.34ms DONE
+  2025-02-05 18:17:28 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:17:28 App\Events\UpdateStatusNotification ....... 12.40ms DONE
+  2025-02-05 18:17:31 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:17:31 App\Events\UpdateStatusNotification ....... 11.95ms DONE
+  2025-02-05 18:17:31 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:17:31 App\Events\UpdateStatusNotification ....... 12.46ms DONE
+  2025-02-05 18:17:35 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:17:35 App\Events\UpdateStatusNotification ....... 18.14ms DONE
+  2025-02-05 18:17:38 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:17:38 App\Events\UpdateStatusNotification ....... 12.56ms DONE
+  2025-02-05 18:17:41 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:17:41 App\Events\UpdateStatusNotification ....... 12.74ms DONE
+  2025-02-05 18:17:45 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:17:45 App\Events\UpdateStatusNotification ....... 16.53ms DONE
+  2025-02-05 18:17:45 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:17:45 App\Events\UpdateStatusNotification ....... 19.29ms DONE
+  2025-02-05 18:17:48 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:17:48 App\Events\UpdateStatusNotification ....... 13.68ms DONE
+  2025-02-05 18:17:55 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:17:55 App\Events\UpdateStatusNotification ....... 12.64ms DONE
+  2025-02-05 18:18:02 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:18:02 App\Events\UpdateStatusNotification ....... 13.69ms DONE
+  2025-02-05 18:18:05 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:18:05 App\Events\UpdateStatusNotification ....... 12.25ms DONE
+  2025-02-05 18:18:12 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:18:12 App\Events\UpdateStatusNotification ....... 12.30ms DONE
+  2025-02-05 18:18:15 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:18:15 App\Events\UpdateStatusNotification ....... 12.38ms DONE
+  2025-02-05 18:18:18 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:18:18 App\Events\UpdateStatusNotification ....... 12.96ms DONE
+  2025-02-05 18:18:25 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:18:25 App\Events\UpdateStatusNotification ....... 12.19ms DONE
+  2025-02-05 18:18:32 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:18:32 App\Events\UpdateStatusNotification ....... 12.28ms DONE
+  2025-02-05 18:18:35 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:18:35 App\Events\UpdateStatusNotification ....... 12.16ms DONE
+  2025-02-05 18:19:42 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:19:42 App\Events\UpdateStatusNotification ....... 12.70ms DONE
+  2025-02-05 18:19:45 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:19:45 App\Events\UpdateStatusNotification ....... 12.21ms DONE
+  2025-02-05 18:19:49 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:19:49 App\Events\UpdateStatusNotification ....... 12.06ms DONE
+  2025-02-05 18:19:52 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:19:52 App\Events\UpdateStatusNotification ....... 15.92ms DONE
+  2025-02-05 18:19:56 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:19:56 App\Events\UpdateStatusNotification ....... 11.94ms DONE
+  2025-02-05 18:19:56 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:19:56 App\Events\UpdateStatusNotification ....... 12.33ms DONE
+  2025-02-05 18:19:59 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:19:59 App\Events\UpdateStatusNotification ....... 11.96ms DONE
+  2025-02-05 18:20:03 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:20:03 App\Events\UpdateStatusNotification ....... 18.18ms DONE
+  2025-02-05 18:20:06 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:20:06 App\Events\UpdateStatusNotification ....... 12.31ms DONE
+  2025-02-05 18:20:06 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:20:06 App\Events\UpdateStatusNotification ....... 12.05ms DONE
+  2025-02-05 18:20:09 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:20:10 App\Events\UpdateStatusNotification ....... 12.25ms DONE
+  2025-02-05 18:20:13 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:20:13 App\Events\UpdateStatusNotification ....... 12.01ms DONE
+  2025-02-05 18:20:16 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:20:16 App\Events\UpdateStatusNotification ....... 12.19ms DONE
+  2025-02-05 18:20:20 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:20:20 App\Events\UpdateStatusNotification ....... 12.49ms DONE
+  2025-02-05 18:20:23 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:20:23 App\Events\UpdateStatusNotification ....... 12.38ms DONE
+  2025-02-05 18:20:26 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:20:26 App\Events\UpdateStatusNotification ....... 14.71ms DONE
+  2025-02-05 18:20:33 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:20:33 App\Events\UpdateStatusNotification ....... 12.36ms DONE
+  2025-02-05 18:20:36 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:20:36 App\Events\UpdateStatusNotification ....... 13.12ms DONE
+  2025-02-05 18:20:40 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:20:40 App\Events\UpdateStatusNotification ....... 12.15ms DONE
+  2025-02-05 18:20:46 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:20:46 App\Events\UpdateStatusNotification ....... 12.24ms DONE
+  2025-02-05 18:20:53 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:20:53 App\Events\UpdateStatusNotification ....... 13.46ms DONE
+  2025-02-05 18:20:56 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:20:56 App\Events\UpdateStatusNotification ....... 12.29ms DONE
+  2025-02-05 18:21:03 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:21:03 App\Events\UpdateStatusNotification ....... 12.68ms DONE
+  2025-02-05 18:21:09 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:21:09 App\Events\UpdateStatusNotification ....... 12.16ms DONE
+  2025-02-05 18:21:09 App\Events\UpdateStatusNotification ............ RUNNING
+  2025-02-05 18:21:09 App\Events\UpdateStatusNotification ....... 12.03ms DONE

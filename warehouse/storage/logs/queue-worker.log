@@ -1,0 +1,6 @@
+  2025-02-02 18:47:53 App\Jobs\ProcessRabbitMQMessage ................ RUNNING
+  2025-02-02 18:47:53 App\Jobs\ProcessRabbitMQMessage ........... 20.19ms DONE
+  2025-02-02 18:51:38 App\Jobs\ProcessRabbitMQMessage ................ RUNNING
+  2025-02-02 18:51:38 App\Jobs\ProcessRabbitMQMessage ............ 0.48ms DONE
+  2025-02-02 18:52:15 App\Jobs\ProcessRabbitMQMessage ................ RUNNING
+  2025-02-02 18:52:15 App\Jobs\ProcessRabbitMQMessage ............ 6.70ms DONE

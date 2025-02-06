@@ -1,0 +1,1550 @@
+
+  2025-02-05 01:41:55 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 01:42:00 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 01:42:06 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 01:42:16 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 01:45:07 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 01:45:12 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 01:45:18 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 01:45:28 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 01:46:04 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 01:46:09 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 01:46:21 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 01:46:31 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 01:48:59 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 01:49:04 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 01:49:10 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 01:49:20 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 01:50:23 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 01:50:28 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 01:50:37 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 01:50:47 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+  2025-02-05 09:52:56 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 09:53:01 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 09:53:04 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 09:53:14 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 09:56:38 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 09:56:43 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 09:56:46 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 09:56:56 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 09:58:26 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 09:58:31 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 09:58:34 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 09:58:44 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 10:01:44 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 10:01:49 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 10:02:01 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 10:02:11 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 10:11:15 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 10:11:21 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 10:11:33 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 10:11:43 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+  2025-02-05 10:21:27 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 10:21:32 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 10:21:38 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 10:21:48 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 10:33:42 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 10:33:47 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 10:33:53 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 10:34:03 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+  2025-02-05 10:40:36 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 10:40:42 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 10:40:48 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 10:40:58 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 10:44:22 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 10:44:27 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 10:44:33 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 10:44:43 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+  2025-02-05 11:02:40 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 11:02:45 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 11:02:51 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 11:03:01 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+In StreamIO.php line 95:
+                                                                               
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connectio  
+  n refused)                                                                   
+                                                                               
+
+
+In StreamIO.php line 95:
+                                                                               
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connectio  
+  n refused)                                                                   
+                                                                               
+
+
+In StreamIO.php line 95:
+                                                                               
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connectio  
+  n refused)                                                                   
+                                                                               
+
+
+In StreamIO.php line 95:
+                                                                               
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connectio  
+  n refused)                                                                   
+                                                                               
+
+
+In StreamIO.php line 95:
+                                                                               
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connectio  
+  n refused)                                                                   
+                                                                               
+
+
+In StreamIO.php line 95:
+                                                                               
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connectio  
+  n refused)                                                                   
+                                                                               
+
+
+In StreamIO.php line 95:
+                                                                               
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connectio  
+  n refused)                                                                   
+                                                                               
+
+
+In StreamIO.php line 95:
+                                                                               
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connectio  
+  n refused)                                                                   
+                                                                               
+
+
+In StreamIO.php line 95:
+                                                                               
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connectio  
+  n refused)                                                                   
+                                                                               
+
+  2025-02-05 13:49:52 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 13:49:57 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 13:50:03 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 13:50:13 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 13:51:43 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 13:51:48 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 13:51:51 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 13:52:01 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 14:04:41 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 14:04:46 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 14:04:49 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 14:04:59 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 14:10:23 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 14:10:28 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 14:10:34 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 14:10:44 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 14:17:17 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 14:17:22 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 14:17:28 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 14:17:39 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 14:17:54 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 14:17:59 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 14:18:05 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 14:18:15 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 14:32:51 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 14:32:56 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 14:33:02 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 14:33:12 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 14:37:54 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 14:37:59 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 14:38:05 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 14:38:15 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 14:38:30 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 14:38:35 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 14:38:41 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 14:38:51 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 14:42:07 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 14:42:12 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 14:42:18 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 14:42:28 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 14:43:37 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 14:43:42 App\Jobs\ProcessOrderJob ....................... 5s FAIL
+  2025-02-05 14:44:12 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 14:44:17 App\Jobs\ProcessOrderJob ....................... 5s FAIL
+  2025-02-05 14:45:41 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 14:45:46 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 14:45:52 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 14:46:02 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 14:49:50 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 14:49:55 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 14:50:01 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 14:50:11 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 14:55:59 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 14:56:04 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 14:56:10 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 14:56:20 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+  2025-02-05 15:30:47 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 15:30:52 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 15:30:58 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 15:31:08 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 15:31:47 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 15:31:52 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 15:31:55 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 15:32:05 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 15:32:44 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 15:32:49 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 15:32:52 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 15:33:02 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 15:35:20 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 15:35:25 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 15:35:31 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 15:35:41 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 15:36:23 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 15:36:28 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 15:36:40 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 15:36:50 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 15:42:36 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 15:42:41 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 15:42:47 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 15:42:57 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 15:43:45 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 15:43:50 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 15:43:56 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 15:44:06 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 15:46:27 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 15:46:32 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 15:46:38 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 15:46:48 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 15:46:48 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 15:46:53 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 15:46:59 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 15:47:09 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 15:47:09 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 15:47:14 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 15:47:20 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 15:47:30 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 15:48:15 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 15:48:20 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 15:48:32 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 15:48:42 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 15:49:36 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 15:49:41 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 15:49:47 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 15:49:57 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+  2025-02-05 15:51:37 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 15:51:42 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 15:51:51 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 15:52:01 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 15:52:49 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 15:52:54 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 15:52:57 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 15:53:07 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 15:53:28 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 15:53:33 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 15:53:36 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 15:53:47 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 15:57:47 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 15:57:52 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 15:57:55 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 15:58:05 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 15:58:50 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 15:58:55 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 15:58:58 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 15:59:08 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 16:02:05 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 16:02:10 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 16:02:13 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 16:02:23 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+
+   PhpAmqpLib\Exception\AMQPIOException 
+
+  stream_socket_client(): Unable to connect to tcp://rabbitmq:5672 (Connection refused)
+
+  at vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php:95
+     91▕                 $context
+     92▕             );
+     93▕             $this->throwOnError();
+     94▕         } catch (\ErrorException $e) {
+  ➜  95▕             throw new AMQPIOException($e->getMessage(), $e->getCode(), $e->getPrevious());
+     96▕         } finally {
+     97▕             $this->restoreErrorHandler();
+     98▕         }
+     99▕
+
+      [2m+5 vendor frames [22m
+
+  6   app/Providers/AppServiceProvider.php:31
+      VladimirYuldashev\LaravelQueueRabbitMQ\Queue\RabbitMQQueue::declareQueue("ingredient_request")
+
+  7   app/Providers/AppServiceProvider.php:23
+      App\Providers\AppServiceProvider::setupRabbitMQ()
+
+  2025-02-05 16:07:54 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 16:07:59 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 16:08:02 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 16:08:13 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 16:19:46 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 16:19:51 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 16:19:57 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 16:20:07 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 17:27:14 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 17:27:19 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 17:27:25 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 17:27:36 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 17:27:36 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 17:27:41 App\Jobs\ProcessOrderJob ....................... 5s FAIL
+  2025-02-05 17:32:33 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 17:32:38 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 17:32:44 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 17:32:54 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 17:37:15 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 17:37:20 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 17:37:26 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 17:37:37 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 17:39:22 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 17:39:27 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 17:39:33 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 17:39:43 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 17:41:55 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 17:42:00 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 17:42:06 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 17:42:16 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 17:42:55 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 17:43:00 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 17:43:06 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 17:43:16 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 17:46:19 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 17:46:24 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 17:46:30 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 17:46:40 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 17:48:56 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 17:49:01 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 17:49:07 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 17:49:17 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 17:49:38 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 17:49:43 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 17:49:46 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 17:49:56 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 17:53:03 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 17:53:08 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 17:53:14 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 17:53:24 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 17:55:36 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 17:55:41 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 17:55:47 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 17:55:57 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 17:56:12 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 17:56:17 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 17:56:17 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 17:56:22 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 17:56:22 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 17:56:27 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 17:56:27 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 17:56:37 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 17:56:37 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 17:56:47 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 17:56:47 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 17:56:57 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 17:57:39 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 17:57:44 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 17:57:44 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 17:57:49 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 17:57:49 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 17:57:54 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 17:57:54 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 17:57:59 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 17:57:59 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 17:58:04 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 17:58:04 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 17:58:14 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 17:58:14 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 17:58:24 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 17:58:24 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 17:58:34 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 17:58:34 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 17:58:44 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 17:58:44 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 17:58:54 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 18:01:51 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 18:01:56 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 18:01:56 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 18:02:01 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 18:02:01 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 18:02:07 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 18:02:10 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 18:02:20 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 18:02:20 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 18:02:30 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 18:02:30 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 18:02:40 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 18:09:07 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 18:09:12 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 18:09:12 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 18:09:17 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 18:09:17 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 18:09:22 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 18:09:22 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 18:09:27 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 18:09:27 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 18:09:32 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 18:09:32 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 18:09:37 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 18:09:37 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 18:09:47 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 18:09:47 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 18:09:57 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 18:09:57 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 18:10:07 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 18:10:07 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 18:10:17 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 18:10:17 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 18:10:27 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 18:10:27 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 18:10:37 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 18:12:22 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 18:12:27 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 18:12:27 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 18:12:32 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 18:12:32 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 18:12:37 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 18:12:37 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 18:12:47 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 18:12:47 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 18:12:57 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 18:12:57 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 18:13:08 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 18:13:17 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 18:13:22 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 18:13:22 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 18:13:27 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 18:13:27 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 18:13:32 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 18:13:32 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 18:13:37 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 18:13:37 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 18:13:47 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 18:13:47 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 18:13:57 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 18:13:57 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 18:14:07 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 18:14:07 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 18:14:17 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 18:17:17 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 18:17:22 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 18:17:22 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 18:17:27 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 18:17:27 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 18:17:32 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 18:17:32 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 18:17:37 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 18:17:37 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 18:17:42 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 18:17:42 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 18:17:52 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 18:17:52 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 18:18:02 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 18:18:02 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 18:18:12 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 18:18:12 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 18:18:23 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 18:18:23 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 18:18:33 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 18:19:39 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 18:19:44 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 18:19:44 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 18:19:49 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 18:19:49 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 18:19:54 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 18:19:54 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 18:19:59 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 18:19:59 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 18:20:04 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 18:20:04 App\Jobs\ProcessOrderJob ....................... RUNNING
+  2025-02-05 18:20:09 App\Jobs\ProcessOrderJob ....................... 5s DONE
+  2025-02-05 18:20:09 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 18:20:19 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 18:20:19 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 18:20:29 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 18:20:29 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 18:20:39 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 18:20:39 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 18:20:49 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 18:20:49 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 18:20:59 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
+  2025-02-05 18:20:59 App\Jobs\ProcessOrderStatusTransitionJob ....... RUNNING
+  2025-02-05 18:21:09 App\Jobs\ProcessOrderStatusTransitionJob ...... 10s DONE
