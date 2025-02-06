@@ -26,13 +26,14 @@ class OrderObserver
      */
     public function updated(Order $order): void
     {
-        if ($order->isDirty('status') && $order->status !== OrderStatus::PROCESSING) {
-            app(UpdateStatusService::class)
-                ->sendToNotifications($order->id, $order->status->value);
-        }
-        if ($order->isDirty('status') && $order->status === OrderStatus::PROCESSING) {
-            ProcessOrderStatusTransitionJob::dispatch($order)
-                ->onQueue('default');
+        if ($order->isDirty('status')) {
+            if ($order->status !== OrderStatus::PROCESSING) {
+                app(UpdateStatusService::class)
+                    ->sendToNotifications($order->id, $order->status->value);
+            } else {
+                ProcessOrderStatusTransitionJob::dispatch($order)
+                    ->onQueue('default');
+            }
         }
     }
 }
