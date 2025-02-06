@@ -36,25 +36,21 @@ composer.lock
 # Specific project units
 kitchen/vendor/
 kitchen/node_modules/
-kitchen/storage/
 kitchen/bootstrap/cache/
 kitchen/.env
 
 notifications/vendor/
 notifications/node_modules/
-notifications/storage/
 notifications/bootstrap/cache/
 notifications/.env
 
 purchases/vendor/
 purchases/node_modules/
-purchases/storage/
 purchases/bootstrap/cache/
 purchases/.env
 
 warehouse/vendor/
 warehouse/node_modules/
-warehouse/storage/
 warehouse/bootstrap/cache/
 warehouse/.env
 
