@@ -34,11 +34,16 @@ class Dashboard extends Component
         }
     }
 
-
     #[On('clearAllOrders')]
     public function clearOrders(): void
     {
         Order::query()->truncate();
+        $this->loadOrders();
+    }
+
+    #[On('newOrder')]
+    public function loadNewOrder(): void
+    {
         $this->loadOrders();
     }
 

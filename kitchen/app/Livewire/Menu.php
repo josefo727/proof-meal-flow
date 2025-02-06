@@ -13,6 +13,7 @@ class Menu extends Component
     public function createOrder(): void
     {
         app(\App\Actions\CreateOrderAction::class)->execute();
+        $this->dispatch('newOrder');
     }
 
     public function clearOrders(): void
