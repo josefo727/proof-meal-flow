@@ -10,7 +10,7 @@ fi
 
 rm -rf vendor node_modules
 
-composer install --no-interaction --optimize-autoloader --no-dev
+composer install --no-interaction --optimize-autoloader
 
 if grep -q "APP_KEY=base64:" .env; then
     echo "APP_KEY is already configured, a new one will not be generated"
