@@ -24,9 +24,6 @@ storage/*.log
 storage/*.cache
 bootstrap/cache/
 
-# Composer
-composer.lock
-
 # Logs and debugging
 *.log
 *.trace
